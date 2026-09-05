@@ -1,0 +1,2671 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "revision": 1,
+    "source_note": "Reconstructed from ball-by-ball commentary + scorecard. Not an official Cricsheet file. Cross-validate all figures against the scorecard before use."
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "",
+    "dates": [
+      "2026-09-04"
+    ],
+    "event": {
+      "name": "Caribbean Premier League",
+      "match_number": 26
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "outcome": {
+      "winner": "Guyana Amazon Warriors",
+      "by": {
+        "wickets": 8
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Dwaine Pretorius"
+    ],
+    "season": "2026",
+    "team_type": "club",
+    "toss": {
+      "winner": "Guyana Amazon Warriors",
+      "decision": "field"
+    },
+    "venue": "Providence Stadium, Guyana",
+    "players": {
+      "Jamaica Kingsmen": [
+        "Maaz Sadaqat",
+        "Kirk McKenzie",
+        "Keacy Carty",
+        "Usman Khan",
+        "Keemo Paul",
+        "Rovman Powell",
+        "Hassan Khan",
+        "Odean Smith",
+        "Vitel Lawes",
+        "Jediah Blades",
+        "Hunain Shah"
+      ],
+      "Guyana Amazon Warriors": [
+        "Rahmanullah Gurbaz",
+        "Mavendra Dindyal",
+        "Shai Hope",
+        "Shimron Hetmyer",
+        "Quentin Sampson",
+        "Mohammad Nabi",
+        "Romario Shepherd",
+        "Dwaine Pretorius",
+        "Khary Pierre",
+        "Shamar Joseph",
+        "Imran Tahir"
+      ]
+    },
+    "registry": {
+      "people": {}
+    },
+    "teams": [
+      "Jamaica Kingsmen",
+      "Guyana Amazon Warriors"
+    ]
+  },
+  "innings": [
+    {
+      "team": "Jamaica Kingsmen",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Maaz Sadaqat",
+              "bowler": "Dwaine Pretorius",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Maaz Sadaqat",
+              "bowler": "Dwaine Pretorius",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kirk McKenzie",
+              "bowler": "Dwaine Pretorius",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Kirk McKenzie",
+              "bowler": "Dwaine Pretorius",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kirk McKenzie",
+              "bowler": "Dwaine Pretorius",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Maaz Sadaqat",
+              "bowler": "Dwaine Pretorius",
+              "non_striker": "Kirk McKenzie",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kirk McKenzie",
+              "bowler": "Dwaine Pretorius",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "Kirk McKenzie"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Maaz Sadaqat",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Keacy Carty",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Keacy Carty",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Keacy Carty",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Maaz Sadaqat",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "Keacy Carty",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Maaz Sadaqat",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "Keacy Carty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Keacy Carty",
+              "bowler": "Dwaine Pretorius",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Keacy Carty",
+              "bowler": "Dwaine Pretorius",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Maaz Sadaqat",
+              "bowler": "Dwaine Pretorius",
+              "non_striker": "Keacy Carty",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Maaz Sadaqat",
+              "bowler": "Dwaine Pretorius",
+              "non_striker": "Keacy Carty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Keacy Carty",
+              "bowler": "Dwaine Pretorius",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Keacy Carty",
+              "bowler": "Dwaine Pretorius",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Keacy Carty",
+              "bowler": "Dwaine Pretorius",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Keacy Carty",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Keacy Carty",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Maaz Sadaqat",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "Keacy Carty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Keacy Carty",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Keacy Carty",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "legbyes": 1
+              }
+            },
+            {
+              "batter": "Maaz Sadaqat",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "Keacy Carty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Maaz Sadaqat",
+              "bowler": "Dwaine Pretorius",
+              "non_striker": "Keacy Carty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Keacy Carty",
+              "bowler": "Dwaine Pretorius",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "Keacy Carty"
+                }
+              ]
+            },
+            {
+              "batter": "Usman Khan",
+              "bowler": "Dwaine Pretorius",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Maaz Sadaqat",
+              "bowler": "Dwaine Pretorius",
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Usman Khan",
+              "bowler": "Dwaine Pretorius",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Usman Khan",
+              "bowler": "Dwaine Pretorius",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Usman Khan",
+              "bowler": "Shamar Joseph",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Maaz Sadaqat",
+              "bowler": "Shamar Joseph",
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Maaz Sadaqat",
+              "bowler": "Shamar Joseph",
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Maaz Sadaqat",
+              "bowler": "Shamar Joseph",
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Maaz Sadaqat",
+              "bowler": "Shamar Joseph",
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Maaz Sadaqat",
+              "bowler": "Shamar Joseph",
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Maaz Sadaqat",
+              "bowler": "Romario Shepherd",
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Usman Khan",
+              "bowler": "Romario Shepherd",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Usman Khan",
+              "bowler": "Romario Shepherd",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Usman Khan",
+              "bowler": "Romario Shepherd",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Maaz Sadaqat",
+              "bowler": "Romario Shepherd",
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Maaz Sadaqat",
+              "bowler": "Romario Shepherd",
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Usman Khan",
+              "bowler": "Imran Tahir",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Usman Khan",
+              "bowler": "Imran Tahir",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Maaz Sadaqat",
+              "bowler": "Imran Tahir",
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Usman Khan",
+              "bowler": "Imran Tahir",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Maaz Sadaqat",
+              "bowler": "Imran Tahir",
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Maaz Sadaqat",
+              "bowler": "Imran Tahir",
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Usman Khan",
+              "bowler": "Khary Pierre",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Usman Khan",
+              "bowler": "Khary Pierre",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Usman Khan"
+                }
+              ]
+            },
+            {
+              "batter": "Keemo Paul",
+              "bowler": "Khary Pierre",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Keemo Paul",
+              "bowler": "Khary Pierre",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Keemo Paul",
+              "bowler": "Khary Pierre",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Maaz Sadaqat",
+              "bowler": "Khary Pierre",
+              "non_striker": "Keemo Paul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Keemo Paul",
+              "bowler": "Imran Tahir",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Maaz Sadaqat",
+              "bowler": "Imran Tahir",
+              "non_striker": "Keemo Paul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Maaz Sadaqat",
+              "bowler": "Imran Tahir",
+              "non_striker": "Keemo Paul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Keemo Paul",
+              "bowler": "Imran Tahir",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Keemo Paul",
+              "bowler": "Imran Tahir",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Keemo Paul",
+              "bowler": "Imran Tahir",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Maaz Sadaqat",
+              "bowler": "Khary Pierre",
+              "non_striker": "Keemo Paul",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Maaz Sadaqat",
+              "bowler": "Khary Pierre",
+              "non_striker": "Keemo Paul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Keemo Paul",
+              "bowler": "Khary Pierre",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Keemo Paul",
+              "bowler": "Khary Pierre",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Maaz Sadaqat",
+              "bowler": "Khary Pierre",
+              "non_striker": "Keemo Paul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Keemo Paul",
+              "bowler": "Khary Pierre",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Keemo Paul",
+              "bowler": "Shamar Joseph",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Keemo Paul",
+              "bowler": "Shamar Joseph",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Keemo Paul",
+              "bowler": "Shamar Joseph",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Keemo Paul",
+              "bowler": "Shamar Joseph",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Maaz Sadaqat",
+              "bowler": "Shamar Joseph",
+              "non_striker": "Keemo Paul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Keemo Paul",
+              "bowler": "Shamar Joseph",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Keemo Paul",
+              "bowler": "Shamar Joseph",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Maaz Sadaqat",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "Keemo Paul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "Keemo Paul",
+                  "fielders": [
+                    {
+                      "name": "Mohammad Nabi"
+                    },
+                    {
+                      "name": "Shai Hope"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Rovman Powell",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Rovman Powell"
+                }
+              ]
+            },
+            {
+              "batter": "Hassan Khan",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hassan Khan",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hassan Khan",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hassan Khan",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Hassan Khan",
+              "bowler": "Khary Pierre",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Maaz Sadaqat",
+              "bowler": "Khary Pierre",
+              "non_striker": "Hassan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "legbyes": 1
+              }
+            },
+            {
+              "batter": "Hassan Khan",
+              "bowler": "Khary Pierre",
+              "non_striker": "Maaz Sadaqat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Maaz Sadaqat",
+              "bowler": "Khary Pierre",
+              "non_striker": "Hassan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Maaz Sadaqat",
+              "bowler": "Khary Pierre",
+              "non_striker": "Hassan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Maaz Sadaqat",
+                  "fielders": [
+                    {
+                      "name": "Quentin Sampson"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Odean Smith",
+              "bowler": "Khary Pierre",
+              "non_striker": "Hassan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Hassan Khan",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "Odean Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Odean Smith",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "Hassan Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hassan Khan",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "Odean Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Odean Smith",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "Hassan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Odean Smith",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "Hassan Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hassan Khan",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "Odean Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Hassan Khan",
+              "bowler": "Khary Pierre",
+              "non_striker": "Odean Smith",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Hassan Khan",
+              "bowler": "Khary Pierre",
+              "non_striker": "Odean Smith",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Hassan Khan",
+              "bowler": "Khary Pierre",
+              "non_striker": "Odean Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hassan Khan",
+              "bowler": "Khary Pierre",
+              "non_striker": "Odean Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Odean Smith",
+              "bowler": "Khary Pierre",
+              "non_striker": "Hassan Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hassan Khan",
+              "bowler": "Khary Pierre",
+              "non_striker": "Odean Smith",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Odean Smith",
+              "bowler": "Imran Tahir",
+              "non_striker": "Hassan Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hassan Khan",
+              "bowler": "Imran Tahir",
+              "non_striker": "Odean Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Odean Smith",
+              "bowler": "Imran Tahir",
+              "non_striker": "Hassan Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Odean Smith",
+              "bowler": "Imran Tahir",
+              "non_striker": "Hassan Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hassan Khan",
+              "bowler": "Imran Tahir",
+              "non_striker": "Odean Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Odean Smith",
+              "bowler": "Imran Tahir",
+              "non_striker": "Hassan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Hassan Khan",
+              "bowler": "Shamar Joseph",
+              "non_striker": "Odean Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Odean Smith",
+              "bowler": "Shamar Joseph",
+              "non_striker": "Hassan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Odean Smith",
+              "bowler": "Shamar Joseph",
+              "non_striker": "Hassan Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Odean Smith",
+              "bowler": "Shamar Joseph",
+              "non_striker": "Hassan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Odean Smith",
+              "bowler": "Shamar Joseph",
+              "non_striker": "Hassan Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hassan Khan",
+              "bowler": "Shamar Joseph",
+              "non_striker": "Odean Smith",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Odean Smith",
+              "bowler": "Imran Tahir",
+              "non_striker": "Hassan Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hassan Khan",
+              "bowler": "Imran Tahir",
+              "non_striker": "Odean Smith",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Hassan Khan",
+              "bowler": "Imran Tahir",
+              "non_striker": "Odean Smith",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Hassan Khan",
+              "bowler": "Imran Tahir",
+              "non_striker": "Odean Smith",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Hassan Khan",
+              "bowler": "Imran Tahir",
+              "non_striker": "Odean Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "Odean Smith",
+                  "fielders": [
+                    {
+                      "name": "Rahmanullah Gurbaz"
+                    },
+                    {
+                      "name": "Imran Tahir"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Hassan Khan",
+              "bowler": "Imran Tahir",
+              "non_striker": "Hassan Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Hassan Khan",
+              "bowler": "Shamar Joseph",
+              "non_striker": "Hassan Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Hassan Khan",
+              "bowler": "Shamar Joseph",
+              "non_striker": "Hassan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hassan Khan",
+              "bowler": "Shamar Joseph",
+              "non_striker": "Hassan Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Hassan Khan",
+              "bowler": "Shamar Joseph",
+              "non_striker": "Hassan Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Hassan Khan",
+              "bowler": "Shamar Joseph",
+              "non_striker": "Hassan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hassan Khan",
+              "bowler": "Shamar Joseph",
+              "non_striker": "Hassan Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "team": "Guyana Amazon Warriors",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Hassan Khan",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Hassan Khan",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "legbyes": 1
+              }
+            },
+            {
+              "batter": "Mavendra Dindyal",
+              "bowler": "Hassan Khan",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mavendra Dindyal",
+              "bowler": "Hassan Khan",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mavendra Dindyal",
+              "bowler": "Hassan Khan",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mavendra Dindyal",
+              "bowler": "Hassan Khan",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Jediah Blades",
+              "non_striker": "Mavendra Dindyal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mavendra Dindyal",
+              "bowler": "Jediah Blades",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mavendra Dindyal",
+              "bowler": "Jediah Blades",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mavendra Dindyal",
+              "bowler": "Jediah Blades",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Jediah Blades",
+              "non_striker": "Mavendra Dindyal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Jediah Blades",
+              "non_striker": "Mavendra Dindyal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Mavendra Dindyal",
+              "bowler": "Hassan Khan",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Hassan Khan",
+              "non_striker": "Mavendra Dindyal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Hassan Khan",
+              "non_striker": "Mavendra Dindyal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Hassan Khan",
+              "non_striker": "Mavendra Dindyal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mavendra Dindyal",
+              "bowler": "Hassan Khan",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Mavendra Dindyal",
+              "bowler": "Hassan Khan",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Keemo Paul",
+              "non_striker": "Mavendra Dindyal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Keemo Paul",
+              "non_striker": "Mavendra Dindyal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "legbyes": 1
+              }
+            },
+            {
+              "batter": "Mavendra Dindyal",
+              "bowler": "Keemo Paul",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mavendra Dindyal",
+              "bowler": "Keemo Paul",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Mavendra Dindyal",
+              "bowler": "Keemo Paul",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mavendra Dindyal",
+              "bowler": "Keemo Paul",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Mavendra Dindyal",
+              "bowler": "Keemo Paul",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Mavendra Dindyal",
+              "bowler": "Hunain Shah",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Mavendra Dindyal",
+              "bowler": "Hunain Shah",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Mavendra Dindyal",
+              "bowler": "Hunain Shah",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Mavendra Dindyal"
+                }
+              ]
+            },
+            {
+              "batter": "Shai Hope",
+              "bowler": "Hunain Shah",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Hunain Shah",
+              "non_striker": "Shai Hope",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Hunain Shah",
+              "non_striker": "Shai Hope",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Keemo Paul",
+              "non_striker": "Shai Hope",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shai Hope",
+              "bowler": "Keemo Paul",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Keemo Paul",
+              "non_striker": "Shai Hope",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Keemo Paul",
+              "non_striker": "Shai Hope",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Keemo Paul",
+              "non_striker": "Shai Hope",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Keemo Paul",
+              "non_striker": "Shai Hope",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Keemo Paul",
+              "non_striker": "Shai Hope",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Shai Hope",
+              "bowler": "Vitel Lawes",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Vitel Lawes",
+              "non_striker": "Shai Hope",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Vitel Lawes",
+              "non_striker": "Shai Hope",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Vitel Lawes",
+              "non_striker": "Shai Hope",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shai Hope",
+              "bowler": "Vitel Lawes",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shai Hope",
+              "bowler": "Vitel Lawes",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Jediah Blades",
+              "non_striker": "Shai Hope",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shai Hope",
+              "bowler": "Jediah Blades",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shai Hope",
+              "bowler": "Jediah Blades",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shai Hope",
+              "bowler": "Jediah Blades",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Jediah Blades",
+              "non_striker": "Shai Hope",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shai Hope",
+              "bowler": "Jediah Blades",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Hunain Shah",
+              "non_striker": "Shai Hope",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shai Hope",
+              "bowler": "Hunain Shah",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shai Hope",
+              "bowler": "Hunain Shah",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Hunain Shah",
+              "non_striker": "Shai Hope",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Hunain Shah",
+              "non_striker": "Shai Hope",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Hunain Shah",
+              "non_striker": "Shai Hope",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Hassan Khan",
+              "non_striker": "Shai Hope",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shai Hope",
+              "bowler": "Hassan Khan",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Hassan Khan",
+              "non_striker": "Shai Hope",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shai Hope",
+              "bowler": "Hassan Khan",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shai Hope",
+              "bowler": "Hassan Khan",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shai Hope",
+              "bowler": "Hassan Khan",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Vitel Lawes",
+              "non_striker": "Shai Hope",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Vitel Lawes",
+              "non_striker": "Shai Hope",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shai Hope",
+              "bowler": "Vitel Lawes",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Vitel Lawes",
+              "non_striker": "Shai Hope",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Vitel Lawes",
+              "non_striker": "Shai Hope",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shai Hope",
+              "bowler": "Vitel Lawes",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Shai Hope",
+              "bowler": "Hassan Khan",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shai Hope",
+              "bowler": "Hassan Khan",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Hassan Khan",
+              "non_striker": "Shai Hope",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shai Hope",
+              "bowler": "Hassan Khan",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shai Hope",
+              "bowler": "Hassan Khan",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Hassan Khan",
+              "non_striker": "Shai Hope",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Shai Hope",
+              "bowler": "Maaz Sadaqat",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Maaz Sadaqat",
+              "non_striker": "Shai Hope",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Rahmanullah Gurbaz",
+                  "fielders": [
+                    {
+                      "name": "Rovman Powell"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Shimron Hetmyer",
+              "bowler": "Maaz Sadaqat",
+              "non_striker": "Shai Hope",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shimron Hetmyer",
+              "bowler": "Maaz Sadaqat",
+              "non_striker": "Shai Hope",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shimron Hetmyer",
+              "bowler": "Maaz Sadaqat",
+              "non_striker": "Shai Hope",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shai Hope",
+              "bowler": "Maaz Sadaqat",
+              "non_striker": "Shimron Hetmyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Shimron Hetmyer",
+              "bowler": "Hunain Shah",
+              "non_striker": "Shai Hope",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shai Hope",
+              "bowler": "Hunain Shah",
+              "non_striker": "Shimron Hetmyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shai Hope",
+              "bowler": "Hunain Shah",
+              "non_striker": "Shimron Hetmyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shimron Hetmyer",
+              "bowler": "Hunain Shah",
+              "non_striker": "Shai Hope",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shai Hope",
+              "bowler": "Hunain Shah",
+              "non_striker": "Shimron Hetmyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shimron Hetmyer",
+              "bowler": "Hunain Shah",
+              "non_striker": "Shai Hope",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Shai Hope",
+              "bowler": "Vitel Lawes",
+              "non_striker": "Shimron Hetmyer",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shai Hope",
+              "bowler": "Vitel Lawes",
+              "non_striker": "Shimron Hetmyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shimron Hetmyer",
+              "bowler": "Vitel Lawes",
+              "non_striker": "Shai Hope",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shai Hope",
+              "bowler": "Vitel Lawes",
+              "non_striker": "Shimron Hetmyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shimron Hetmyer",
+              "bowler": "Vitel Lawes",
+              "non_striker": "Shai Hope",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Shimron Hetmyer",
+              "bowler": "Vitel Lawes",
+              "non_striker": "Shai Hope",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Shimron Hetmyer",
+              "bowler": "Jediah Blades",
+              "non_striker": "Shai Hope",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shimron Hetmyer",
+              "bowler": "Jediah Blades",
+              "non_striker": "Shai Hope",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shimron Hetmyer",
+              "bowler": "Jediah Blades",
+              "non_striker": "Shai Hope",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shimron Hetmyer",
+              "bowler": "Jediah Blades",
+              "non_striker": "Shai Hope",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shimron Hetmyer",
+              "bowler": "Jediah Blades",
+              "non_striker": "Shai Hope",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shai Hope",
+              "bowler": "Jediah Blades",
+              "non_striker": "Shimron Hetmyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Shai Hope",
+              "bowler": "Keemo Paul",
+              "non_striker": "Shimron Hetmyer",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shai Hope",
+              "bowler": "Keemo Paul",
+              "non_striker": "Shimron Hetmyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shai Hope",
+              "bowler": "Keemo Paul",
+              "non_striker": "Shimron Hetmyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shimron Hetmyer",
+              "bowler": "Keemo Paul",
+              "non_striker": "Shai Hope",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shai Hope",
+              "bowler": "Keemo Paul",
+              "non_striker": "Shimron Hetmyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shimron Hetmyer",
+              "bowler": "Keemo Paul",
+              "non_striker": "Shai Hope",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Shai Hope",
+              "bowler": "Jediah Blades",
+              "non_striker": "Shimron Hetmyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shimron Hetmyer",
+              "bowler": "Jediah Blades",
+              "non_striker": "Shai Hope",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
