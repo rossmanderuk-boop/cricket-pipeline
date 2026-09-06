@@ -2,7 +2,8 @@ import re
 
 DISMISSAL_RE = re.compile(
     r'^([A-Za-z .\'-]+?)\s+'
-    r'(c & b|c and b|c \(?sub\)?[A-Za-z .\'†-]*? b|c [A-Za-z .\'†-]+? b|lbw b|run out ?\([A-Za-z .\'†/-]*\)|st [A-Za-z .\'†-]+? b|b)\s*'
+    r'(c & b|c and b|c sub \([A-Za-z .\'†-]+?\) b|c \(?sub\)?[A-Za-z .\'†-]*? b|'
+    r'c [A-Za-z .\'†-]+? b|lbw b|run out ?\([A-Za-z .\'†/-]*\)|st [A-Za-z .\'†-]+? b|b)\s*'
     r'([A-Za-z .\'-]*?)\s*(\d+)\s*\((\d+)b'
 )
 
@@ -27,6 +28,11 @@ def parse_dismissal_line(line):
         return {'kind': 'caught and bowled', 'player_out': player, 'fielder': None}
     if kindtxt.startswith('c ') and kindtxt.endswith(' b'):
         fielder = kindtxt[2:-2].strip()
+        # "c sub (Real Name) b Bowler" - substitute fielder, real name given in parens
+        sub_m = re.match(r'^sub\s*\(([^)]+)\)$', fielder)
+        if sub_m:
+            return {'kind': 'caught', 'player_out': player, 'fielder': sub_m.group(1).strip(),
+                    'substitute': True}
         fielder = fielder.replace('(sub)', '').strip()
         return {'kind': 'caught', 'player_out': player, 'fielder': fielder}
     if kindtxt == 'lbw b':
