@@ -1,0 +1,2783 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "revision": 1,
+    "source_note": "Reconstructed from ball-by-ball commentary + scorecard. Not an official Cricsheet file. Cross-validate all figures against the scorecard before use."
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Bridgetown",
+    "dates": [
+      "2026-09-10"
+    ],
+    "event": {
+      "name": "Caribbean Premier League",
+      "match_number": 32
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "outcome": {
+      "winner": "Barbados Tridents",
+      "by": {
+        "wickets": 4
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Chris Green"
+    ],
+    "season": "2026",
+    "team_type": "club",
+    "toss": {
+      "winner": "Barbados Tridents",
+      "decision": "field"
+    },
+    "venue": "Kensington Oval, Bridgetown, Barbados",
+    "players": {
+      "St Kitts and Nevis Patriots": [
+        "Johnson Charles",
+        "Kyle Mayers",
+        "Andre Fletcher",
+        "Alick Athanaze",
+        "Jason Holder",
+        "Dasun Shanaka",
+        "Wanindu Hasaranga",
+        "Navin Bidaisee",
+        "Naseem Shah",
+        "Jeremiah Louis",
+        "Waqar Salamkheil"
+      ],
+      "Barbados Tridents": [
+        "Brandon King",
+        "Zachary Carter",
+        "Rivaldo Clarke",
+        "Quinton de Kock",
+        "Shadrack Descarte",
+        "Sherfane Rutherford",
+        "Chris Green",
+        "Daniel Sams",
+        "AM Ghazanfar",
+        "Gudakesh Motie",
+        "Jakeem Pollard"
+      ]
+    },
+    "registry": {
+      "people": {}
+    },
+    "teams": [
+      "St Kitts and Nevis Patriots",
+      "Barbados Tridents"
+    ]
+  },
+  "innings": [
+    {
+      "team": "St Kitts and Nevis Patriots",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Johnson Charles",
+              "bowler": "Chris Green",
+              "non_striker": "Johnson Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Johnson Charles",
+              "bowler": "Chris Green",
+              "non_striker": "Johnson Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Johnson Charles"
+                }
+              ]
+            },
+            {
+              "batter": "Andre Fletcher",
+              "bowler": "Chris Green",
+              "non_striker": "Andre Fletcher",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Andre Fletcher",
+              "bowler": "Chris Green",
+              "non_striker": "Andre Fletcher",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Andre Fletcher",
+              "bowler": "Chris Green",
+              "non_striker": "Andre Fletcher",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Andre Fletcher",
+              "bowler": "Chris Green",
+              "non_striker": "Andre Fletcher",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Kyle Mayers",
+              "bowler": "Daniel Sams",
+              "non_striker": "Andre Fletcher",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kyle Mayers",
+              "bowler": "Daniel Sams",
+              "non_striker": "Andre Fletcher",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Kyle Mayers",
+                  "fielders": [
+                    {
+                      "name": "Quinton de Kock"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Alick Athanaze",
+              "bowler": "Daniel Sams",
+              "non_striker": "Andre Fletcher",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Alick Athanaze",
+              "bowler": "Daniel Sams",
+              "non_striker": "Andre Fletcher",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Alick Athanaze",
+              "bowler": "Daniel Sams",
+              "non_striker": "Andre Fletcher",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Alick Athanaze",
+              "bowler": "Daniel Sams",
+              "non_striker": "Andre Fletcher",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Andre Fletcher",
+              "bowler": "Chris Green",
+              "non_striker": "Alick Athanaze",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Andre Fletcher",
+              "bowler": "Chris Green",
+              "non_striker": "Alick Athanaze",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Andre Fletcher",
+              "bowler": "Chris Green",
+              "non_striker": "Alick Athanaze",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Andre Fletcher",
+              "bowler": "Chris Green",
+              "non_striker": "Alick Athanaze",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Andre Fletcher"
+                }
+              ]
+            },
+            {
+              "batter": "Jason Holder",
+              "bowler": "Chris Green",
+              "non_striker": "Alick Athanaze",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jason Holder",
+              "bowler": "Chris Green",
+              "non_striker": "Alick Athanaze",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Alick Athanaze",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Jason Holder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jason Holder",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Alick Athanaze",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jason Holder",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Alick Athanaze",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jason Holder",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Alick Athanaze",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Alick Athanaze",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Jason Holder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Alick Athanaze",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Jason Holder",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Jason Holder",
+              "bowler": "AM Ghazanfar",
+              "non_striker": "Alick Athanaze",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jason Holder",
+              "bowler": "AM Ghazanfar",
+              "non_striker": "Alick Athanaze",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Alick Athanaze",
+              "bowler": "AM Ghazanfar",
+              "non_striker": "Jason Holder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jason Holder",
+              "bowler": "AM Ghazanfar",
+              "non_striker": "Alick Athanaze",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jason Holder",
+              "bowler": "AM Ghazanfar",
+              "non_striker": "Alick Athanaze",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jason Holder",
+              "bowler": "AM Ghazanfar",
+              "non_striker": "Alick Athanaze",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Alick Athanaze",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Jason Holder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jason Holder",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Alick Athanaze",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Alick Athanaze",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Jason Holder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Alick Athanaze",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Jason Holder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jason Holder",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Alick Athanaze",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Jason Holder",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Alick Athanaze",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Alick Athanaze",
+              "bowler": "Chris Green",
+              "non_striker": "Jason Holder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Alick Athanaze",
+              "bowler": "Chris Green",
+              "non_striker": "Jason Holder",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Alick Athanaze",
+              "bowler": "Chris Green",
+              "non_striker": "Jason Holder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Alick Athanaze",
+              "bowler": "Chris Green",
+              "non_striker": "Jason Holder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Alick Athanaze",
+                  "fielders": [
+                    {
+                      "name": "Sherfane Rutherford"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Dasun Shanaka",
+              "bowler": "Chris Green",
+              "non_striker": "Jason Holder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jason Holder",
+              "bowler": "Chris Green",
+              "non_striker": "Dasun Shanaka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Jason Holder",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Dasun Shanaka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Dasun Shanaka",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Jason Holder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jason Holder",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Dasun Shanaka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jason Holder",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Dasun Shanaka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Dasun Shanaka",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Jason Holder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Dasun Shanaka",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Jason Holder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Jason Holder",
+              "bowler": "AM Ghazanfar",
+              "non_striker": "Dasun Shanaka",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Jason Holder",
+              "bowler": "AM Ghazanfar",
+              "non_striker": "Dasun Shanaka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Dasun Shanaka",
+              "bowler": "AM Ghazanfar",
+              "non_striker": "Jason Holder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Dasun Shanaka",
+              "bowler": "AM Ghazanfar",
+              "non_striker": "Jason Holder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Dasun Shanaka",
+              "bowler": "AM Ghazanfar",
+              "non_striker": "Jason Holder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jason Holder",
+              "bowler": "AM Ghazanfar",
+              "non_striker": "Dasun Shanaka",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Jason Holder",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Dasun Shanaka",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "legbyes": 1
+              }
+            },
+            {
+              "batter": "Dasun Shanaka",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Jason Holder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jason Holder",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Dasun Shanaka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Dasun Shanaka",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Jason Holder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Dasun Shanaka",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Jason Holder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Dasun Shanaka",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Jason Holder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Dasun Shanaka",
+              "bowler": "Chris Green",
+              "non_striker": "Jason Holder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Dasun Shanaka",
+              "bowler": "Chris Green",
+              "non_striker": "Jason Holder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jason Holder",
+              "bowler": "Chris Green",
+              "non_striker": "Dasun Shanaka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jason Holder",
+              "bowler": "Chris Green",
+              "non_striker": "Dasun Shanaka",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Jason Holder",
+              "bowler": "Chris Green",
+              "non_striker": "Dasun Shanaka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Dasun Shanaka",
+              "bowler": "Chris Green",
+              "non_striker": "Jason Holder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "Dasun Shanaka"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Jason Holder",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Jason Holder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jason Holder",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Jason Holder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Jason Holder",
+                  "fielders": [
+                    {
+                      "name": "Chris Green"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Navin Bidaisee",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Navin Bidaisee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Navin Bidaisee",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Navin Bidaisee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Navin Bidaisee",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Navin Bidaisee",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Navin Bidaisee",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Navin Bidaisee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Navin Bidaisee",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Navin Bidaisee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Wanindu Hasaranga",
+              "bowler": "AM Ghazanfar",
+              "non_striker": "Navin Bidaisee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Navin Bidaisee",
+              "bowler": "AM Ghazanfar",
+              "non_striker": "Wanindu Hasaranga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Wanindu Hasaranga",
+              "bowler": "AM Ghazanfar",
+              "non_striker": "Navin Bidaisee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Navin Bidaisee",
+              "bowler": "AM Ghazanfar",
+              "non_striker": "Wanindu Hasaranga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Wanindu Hasaranga",
+              "bowler": "AM Ghazanfar",
+              "non_striker": "Navin Bidaisee",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Wanindu Hasaranga",
+              "bowler": "AM Ghazanfar",
+              "non_striker": "Navin Bidaisee",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Navin Bidaisee",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Wanindu Hasaranga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Navin Bidaisee",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Wanindu Hasaranga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Navin Bidaisee",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Wanindu Hasaranga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Navin Bidaisee",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Wanindu Hasaranga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Wanindu Hasaranga",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Navin Bidaisee",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "legbyes": 1
+              }
+            },
+            {
+              "batter": "Navin Bidaisee",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Wanindu Hasaranga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Navin Bidaisee",
+              "bowler": "Daniel Sams",
+              "non_striker": "Wanindu Hasaranga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Navin Bidaisee",
+              "bowler": "Daniel Sams",
+              "non_striker": "Wanindu Hasaranga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Wanindu Hasaranga",
+              "bowler": "Daniel Sams",
+              "non_striker": "Navin Bidaisee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Navin Bidaisee",
+              "bowler": "Daniel Sams",
+              "non_striker": "Wanindu Hasaranga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Wanindu Hasaranga",
+              "bowler": "Daniel Sams",
+              "non_striker": "Navin Bidaisee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Navin Bidaisee",
+              "bowler": "Daniel Sams",
+              "non_striker": "Wanindu Hasaranga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Navin Bidaisee",
+                  "fielders": [
+                    {
+                      "name": "Chris Green"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Wanindu Hasaranga",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Wanindu Hasaranga",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Wanindu Hasaranga",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Wanindu Hasaranga",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Wanindu Hasaranga",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Wanindu Hasaranga",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Wanindu Hasaranga",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Wanindu Hasaranga",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Wanindu Hasaranga",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Wanindu Hasaranga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Wanindu Hasaranga",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Wanindu Hasaranga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Naseem Shah",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Wanindu Hasaranga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Naseem Shah"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Wanindu Hasaranga",
+              "bowler": "Daniel Sams",
+              "non_striker": "Wanindu Hasaranga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jeremiah Louis",
+              "bowler": "Daniel Sams",
+              "non_striker": "Wanindu Hasaranga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jeremiah Louis",
+              "bowler": "Daniel Sams",
+              "non_striker": "Wanindu Hasaranga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Wanindu Hasaranga",
+              "bowler": "Daniel Sams",
+              "non_striker": "Jeremiah Louis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Wanindu Hasaranga",
+              "bowler": "Daniel Sams",
+              "non_striker": "Jeremiah Louis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Wanindu Hasaranga",
+              "bowler": "Daniel Sams",
+              "non_striker": "Jeremiah Louis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Wanindu Hasaranga",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Jeremiah Louis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Wanindu Hasaranga",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Jeremiah Louis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Wanindu Hasaranga",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Jeremiah Louis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Wanindu Hasaranga",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Jeremiah Louis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Wanindu Hasaranga",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Jeremiah Louis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jeremiah Louis",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Wanindu Hasaranga",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Wanindu Hasaranga",
+              "bowler": "Shadrack Descarte",
+              "non_striker": "Jeremiah Louis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Wanindu Hasaranga",
+              "bowler": "Shadrack Descarte",
+              "non_striker": "Jeremiah Louis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Wanindu Hasaranga",
+              "bowler": "Shadrack Descarte",
+              "non_striker": "Jeremiah Louis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Wanindu Hasaranga",
+              "bowler": "Shadrack Descarte",
+              "non_striker": "Jeremiah Louis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "Wanindu Hasaranga",
+                  "fielders": [
+                    {
+                      "name": "Sherfane Rutherford"
+                    },
+                    {
+                      "name": "Quinton de Kock"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Waqar Salamkheil",
+              "bowler": "Shadrack Descarte",
+              "non_striker": "Jeremiah Louis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waqar Salamkheil",
+              "bowler": "Shadrack Descarte",
+              "non_striker": "Jeremiah Louis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Jeremiah Louis",
+              "bowler": "Daniel Sams",
+              "non_striker": "Waqar Salamkheil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jeremiah Louis",
+              "bowler": "Daniel Sams",
+              "non_striker": "Waqar Salamkheil",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Jeremiah Louis",
+              "bowler": "Daniel Sams",
+              "non_striker": "Waqar Salamkheil",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Jeremiah Louis",
+              "bowler": "Daniel Sams",
+              "non_striker": "Waqar Salamkheil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waqar Salamkheil",
+              "bowler": "Daniel Sams",
+              "non_striker": "Jeremiah Louis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jeremiah Louis",
+              "bowler": "Daniel Sams",
+              "non_striker": "Waqar Salamkheil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "Jeremiah Louis",
+                  "fielders": [
+                    {
+                      "name": "Quinton de Kock"
+                    },
+                    {
+                      "name": "Daniel Sams"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "team": "Barbados Tridents",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Brandon King",
+              "bowler": "Jason Holder",
+              "non_striker": "Brandon King",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Brandon King",
+              "bowler": "Jason Holder",
+              "non_striker": "Brandon King",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Brandon King",
+              "bowler": "Jason Holder",
+              "non_striker": "Brandon King",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Brandon King",
+                  "fielders": [
+                    {
+                      "name": "Andre Fletcher"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Rivaldo Clarke",
+              "bowler": "Jason Holder",
+              "non_striker": "Rivaldo Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rivaldo Clarke",
+              "bowler": "Jason Holder",
+              "non_striker": "Rivaldo Clarke",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rivaldo Clarke",
+              "bowler": "Jason Holder",
+              "non_striker": "Rivaldo Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Rivaldo Clarke",
+                  "fielders": [
+                    {
+                      "name": "Andre Fletcher"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Jeremiah Louis",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Jeremiah Louis",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Jeremiah Louis",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Jeremiah Louis",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Jeremiah Louis",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Jeremiah Louis",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Jason Holder",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Jason Holder",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Jason Holder",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Jason Holder",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Jason Holder",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Jason Holder",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Naseem Shah",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Naseem Shah",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Naseem Shah",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Naseem Shah",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Naseem Shah",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Naseem Shah",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Jason Holder",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Jason Holder",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Jason Holder",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Jason Holder",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Jason Holder",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Jason Holder",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Zachary Carter",
+                  "fielders": [
+                    {
+                      "name": "Wanindu Hasaranga"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Wanindu Hasaranga",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shadrack Descarte",
+              "bowler": "Wanindu Hasaranga",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shadrack Descarte",
+              "bowler": "Wanindu Hasaranga",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shadrack Descarte",
+              "bowler": "Wanindu Hasaranga",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shadrack Descarte",
+              "bowler": "Wanindu Hasaranga",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shadrack Descarte",
+              "bowler": "Wanindu Hasaranga",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Naseem Shah",
+              "non_striker": "Shadrack Descarte",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shadrack Descarte",
+              "bowler": "Naseem Shah",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Naseem Shah",
+              "non_striker": "Shadrack Descarte",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shadrack Descarte",
+              "bowler": "Naseem Shah",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shadrack Descarte",
+              "bowler": "Naseem Shah",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shadrack Descarte",
+              "bowler": "Naseem Shah",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Waqar Salamkheil",
+              "non_striker": "Shadrack Descarte",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Waqar Salamkheil",
+              "non_striker": "Shadrack Descarte",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Waqar Salamkheil",
+              "non_striker": "Shadrack Descarte",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Waqar Salamkheil",
+              "non_striker": "Shadrack Descarte",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Waqar Salamkheil",
+              "non_striker": "Shadrack Descarte",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Waqar Salamkheil",
+              "non_striker": "Shadrack Descarte",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Shadrack Descarte",
+              "bowler": "Wanindu Hasaranga",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Wanindu Hasaranga",
+              "non_striker": "Shadrack Descarte",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Wanindu Hasaranga",
+              "non_striker": "Shadrack Descarte",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Wanindu Hasaranga",
+              "non_striker": "Shadrack Descarte",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shadrack Descarte",
+              "bowler": "Wanindu Hasaranga",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shadrack Descarte",
+              "bowler": "Wanindu Hasaranga",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Shadrack Descarte",
+              "bowler": "Waqar Salamkheil",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Waqar Salamkheil",
+              "non_striker": "Shadrack Descarte",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shadrack Descarte",
+              "bowler": "Waqar Salamkheil",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shadrack Descarte",
+              "bowler": "Waqar Salamkheil",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Waqar Salamkheil",
+              "non_striker": "Shadrack Descarte",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Waqar Salamkheil",
+              "non_striker": "Shadrack Descarte",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Shadrack Descarte",
+              "bowler": "Naseem Shah",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shadrack Descarte",
+              "bowler": "Naseem Shah",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shadrack Descarte",
+              "bowler": "Naseem Shah",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Shadrack Descarte",
+                  "fielders": [
+                    {
+                      "name": "Dasun Shanaka"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Sherfane Rutherford",
+              "bowler": "Naseem Shah",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Naseem Shah",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sherfane Rutherford",
+              "bowler": "Naseem Shah",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Waqar Salamkheil",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Waqar Salamkheil",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Waqar Salamkheil",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Waqar Salamkheil",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Waqar Salamkheil",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sherfane Rutherford",
+              "bowler": "Waqar Salamkheil",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Jeremiah Louis",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sherfane Rutherford",
+              "bowler": "Jeremiah Louis",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Sherfane Rutherford",
+              "bowler": "Jeremiah Louis",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Sherfane Rutherford",
+              "bowler": "Jeremiah Louis",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Jeremiah Louis",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sherfane Rutherford",
+              "bowler": "Jeremiah Louis",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Jeremiah Louis",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sherfane Rutherford",
+              "bowler": "Jeremiah Louis",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Sherfane Rutherford",
+              "bowler": "Wanindu Hasaranga",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sherfane Rutherford",
+              "bowler": "Wanindu Hasaranga",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Wanindu Hasaranga",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sherfane Rutherford",
+              "bowler": "Wanindu Hasaranga",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Wanindu Hasaranga",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Wanindu Hasaranga",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Sherfane Rutherford",
+              "bowler": "Jason Holder",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Sherfane Rutherford",
+              "bowler": "Jason Holder",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Jason Holder",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Jason Holder",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "legbyes": 1
+              }
+            },
+            {
+              "batter": "Sherfane Rutherford",
+              "bowler": "Jason Holder",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sherfane Rutherford",
+              "bowler": "Jason Holder",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Sherfane Rutherford",
+              "bowler": "Waqar Salamkheil",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Waqar Salamkheil",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sherfane Rutherford",
+              "bowler": "Waqar Salamkheil",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sherfane Rutherford",
+              "bowler": "Waqar Salamkheil",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sherfane Rutherford",
+              "bowler": "Waqar Salamkheil",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "stumped",
+                  "player_out": "Sherfane Rutherford",
+                  "fielders": [
+                    {
+                      "name": "Andre Fletcher"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Chris Green",
+              "bowler": "Waqar Salamkheil",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Chris Green",
+              "bowler": "Naseem Shah",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Chris Green",
+              "bowler": "Naseem Shah",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Chris Green",
+              "bowler": "Naseem Shah",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "legbyes": 1
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Naseem Shah",
+              "non_striker": "Chris Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Naseem Shah",
+              "non_striker": "Chris Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Chris Green",
+              "bowler": "Naseem Shah",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Chris Green",
+                  "fielders": [
+                    {
+                      "name": "Kyle Mayers"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Navin Bidaisee",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Daniel Sams",
+              "bowler": "Navin Bidaisee",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Navin Bidaisee",
+              "non_striker": "Daniel Sams",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "legbyes": 1
+              }
+            },
+            {
+              "batter": "Daniel Sams",
+              "bowler": "Navin Bidaisee",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Daniel Sams",
+              "bowler": "Navin Bidaisee",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Daniel Sams",
+              "bowler": "Navin Bidaisee",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
