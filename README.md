@@ -20,7 +20,7 @@ I spent 23 years as an in-play sports betting trader specialising in cricket. Co
 
 ## Example output
 
-This repo currently includes matches from the 2026 Carribean Premier League (CPL) 15 matches, so far. 
+This repo currently includes matches from the 2026 Carribean Premier League (CPL) 9 matches, so far. 
 
 Each match folder contains a single JSON file structured as:
 
