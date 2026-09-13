@@ -1,0 +1,2668 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "revision": 1,
+    "source_note": "Reconstructed from ball-by-ball commentary + scorecard. Not an official Cricsheet file. Cross-validate all figures against the scorecard before use."
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Bridgetown",
+    "dates": [
+      "2026-09-06"
+    ],
+    "event": {
+      "name": "Caribbean Premier League",
+      "match_number": 29
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "outcome": {
+      "winner": "Barbados Tridents",
+      "by": {
+        "wickets": 8
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Mujeeb Ur Rahman"
+    ],
+    "season": "2026",
+    "team_type": "club",
+    "toss": {
+      "winner": "Barbados Tridents",
+      "decision": "field"
+    },
+    "venue": "Kensington Oval, Bridgetown, Barbados",
+    "players": {
+      "St Lucia Kings": [
+        "Tim Seifert",
+        "Kamil Pooran",
+        "John Campbell",
+        "Roston Chase",
+        "Charith Asalanka",
+        "Obus Pienaar",
+        "Matthew Forde",
+        "McKenny Clarke",
+        "Amari Goodridge",
+        "Joshua Bishop",
+        "Maheesh Theekshana"
+      ],
+      "Barbados Tridents": [
+        "Brandon King",
+        "Zachary Carter",
+        "Rivaldo Clarke",
+        "Quinton de Kock",
+        "Chris Green",
+        "Sherfane Rutherford",
+        "Shadrack Descarte",
+        "Daniel Sams",
+        "Gudakesh Motie",
+        "Mujeeb Ur Rahman",
+        "Jakeem Pollard"
+      ]
+    },
+    "registry": {
+      "people": {}
+    },
+    "teams": [
+      "St Lucia Kings",
+      "Barbados Tridents"
+    ]
+  },
+  "innings": [
+    {
+      "team": "St Lucia Kings",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Tim Seifert",
+              "bowler": "Chris Green",
+              "non_striker": "Tim Seifert",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tim Seifert",
+              "bowler": "Chris Green",
+              "non_striker": "Tim Seifert",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kamil Pooran",
+              "bowler": "Chris Green",
+              "non_striker": "Tim Seifert",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamil Pooran",
+              "bowler": "Chris Green",
+              "non_striker": "Tim Seifert",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamil Pooran",
+              "bowler": "Chris Green",
+              "non_striker": "Tim Seifert",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamil Pooran",
+              "bowler": "Chris Green",
+              "non_striker": "Tim Seifert",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Tim Seifert",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Kamil Pooran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Tim Seifert",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Kamil Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tim Seifert",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Kamil Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tim Seifert",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Kamil Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tim Seifert",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Kamil Pooran",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Tim Seifert",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Kamil Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Tim Seifert",
+                  "fielders": [
+                    {
+                      "name": "Mujeeb Ur Rahman"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Kamil Pooran",
+              "bowler": "Chris Green",
+              "non_striker": "Kamil Pooran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Kamil Pooran",
+              "bowler": "Chris Green",
+              "non_striker": "Kamil Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamil Pooran",
+              "bowler": "Chris Green",
+              "non_striker": "Kamil Pooran",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Kamil Pooran",
+              "bowler": "Chris Green",
+              "non_striker": "Kamil Pooran",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Kamil Pooran",
+              "bowler": "Chris Green",
+              "non_striker": "Kamil Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamil Pooran",
+              "bowler": "Chris Green",
+              "non_striker": "Kamil Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Kamil Pooran",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Kamil Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "John Campbell",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Kamil Pooran",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "John Campbell",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Kamil Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kamil Pooran",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "John Campbell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Kamil Pooran",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "John Campbell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Kamil Pooran",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "John Campbell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "John Campbell",
+              "bowler": "Daniel Sams",
+              "non_striker": "Kamil Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kamil Pooran",
+              "bowler": "Daniel Sams",
+              "non_striker": "John Campbell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "John Campbell",
+              "bowler": "Daniel Sams",
+              "non_striker": "Kamil Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kamil Pooran",
+              "bowler": "Daniel Sams",
+              "non_striker": "John Campbell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Kamil Pooran",
+              "bowler": "Daniel Sams",
+              "non_striker": "John Campbell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "John Campbell",
+              "bowler": "Daniel Sams",
+              "non_striker": "Kamil Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Kamil Pooran",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "John Campbell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Kamil Pooran",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "John Campbell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Kamil Pooran",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "John Campbell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Kamil Pooran",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "John Campbell",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "legbyes": 1
+              }
+            },
+            {
+              "batter": "John Campbell",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Kamil Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "John Campbell",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Kamil Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kamil Pooran",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "John Campbell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "John Campbell",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "Kamil Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kamil Pooran",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "John Campbell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "John Campbell",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "Kamil Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "John Campbell",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "Kamil Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "John Campbell",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "Kamil Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kamil Pooran",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "John Campbell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Kamil Pooran"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "John Campbell",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "John Campbell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "John Campbell",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "John Campbell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "John Campbell",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "John Campbell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "John Campbell",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "John Campbell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "John Campbell",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "John Campbell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Roston Chase",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "John Campbell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Roston Chase",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "John Campbell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Roston Chase",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "John Campbell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Roston Chase",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "John Campbell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "John Campbell",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "Roston Chase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "John Campbell",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "Roston Chase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Roston Chase",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "John Campbell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "John Campbell",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Roston Chase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Roston Chase",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "John Campbell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Roston Chase",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "John Campbell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Roston Chase",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "John Campbell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "John Campbell",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Roston Chase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Roston Chase",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "John Campbell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "John Campbell",
+              "bowler": "Chris Green",
+              "non_striker": "Roston Chase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Roston Chase",
+              "bowler": "Chris Green",
+              "non_striker": "John Campbell",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "legbyes": 1
+              }
+            },
+            {
+              "batter": "John Campbell",
+              "bowler": "Chris Green",
+              "non_striker": "Roston Chase",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "John Campbell",
+              "bowler": "Chris Green",
+              "non_striker": "Roston Chase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "John Campbell",
+              "bowler": "Chris Green",
+              "non_striker": "Roston Chase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Roston Chase",
+              "bowler": "Chris Green",
+              "non_striker": "John Campbell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Roston Chase",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "John Campbell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Roston Chase",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "John Campbell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "John Campbell",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Roston Chase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "John Campbell",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Roston Chase",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "John Campbell",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Roston Chase",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "byes": 1
+              }
+            },
+            {
+              "batter": "Roston Chase",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "John Campbell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "John Campbell",
+              "bowler": "Daniel Sams",
+              "non_striker": "Roston Chase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "John Campbell",
+                  "fielders": [
+                    {
+                      "name": "Shadrack Descarte"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Charith Asalanka",
+              "bowler": "Daniel Sams",
+              "non_striker": "Roston Chase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Charith Asalanka",
+              "bowler": "Daniel Sams",
+              "non_striker": "Roston Chase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Roston Chase",
+              "bowler": "Daniel Sams",
+              "non_striker": "Charith Asalanka",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Roston Chase",
+              "bowler": "Daniel Sams",
+              "non_striker": "Charith Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Charith Asalanka",
+              "bowler": "Daniel Sams",
+              "non_striker": "Roston Chase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Charith Asalanka",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Roston Chase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Roston Chase",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Charith Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Charith Asalanka",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Roston Chase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Roston Chase",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Charith Asalanka",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Roston Chase",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Charith Asalanka",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Roston Chase",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Charith Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Roston Chase",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "Charith Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Roston Chase",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "Charith Asalanka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Roston Chase",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "Charith Asalanka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Roston Chase",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "Charith Asalanka",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Roston Chase",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "Charith Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Charith Asalanka",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "Roston Chase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Roston Chase",
+              "bowler": "Daniel Sams",
+              "non_striker": "Charith Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Roston Chase",
+              "bowler": "Daniel Sams",
+              "non_striker": "Charith Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Charith Asalanka",
+              "bowler": "Daniel Sams",
+              "non_striker": "Roston Chase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Roston Chase",
+              "bowler": "Daniel Sams",
+              "non_striker": "Charith Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Roston Chase",
+                  "fielders": [
+                    {
+                      "name": "Sherfane Rutherford"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Obus Pienaar",
+              "bowler": "Daniel Sams",
+              "non_striker": "Charith Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Charith Asalanka",
+              "bowler": "Daniel Sams",
+              "non_striker": "Obus Pienaar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Charith Asalanka",
+              "bowler": "Chris Green",
+              "non_striker": "Obus Pienaar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Obus Pienaar",
+              "bowler": "Chris Green",
+              "non_striker": "Charith Asalanka",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Obus Pienaar",
+              "bowler": "Chris Green",
+              "non_striker": "Charith Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Charith Asalanka",
+              "bowler": "Chris Green",
+              "non_striker": "Obus Pienaar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Obus Pienaar",
+              "bowler": "Chris Green",
+              "non_striker": "Charith Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Charith Asalanka",
+              "bowler": "Chris Green",
+              "non_striker": "Obus Pienaar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Charith Asalanka",
+              "bowler": "Daniel Sams",
+              "non_striker": "Obus Pienaar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Obus Pienaar",
+              "bowler": "Daniel Sams",
+              "non_striker": "Charith Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Charith Asalanka",
+              "bowler": "Daniel Sams",
+              "non_striker": "Obus Pienaar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Charith Asalanka",
+              "bowler": "Daniel Sams",
+              "non_striker": "Obus Pienaar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Obus Pienaar",
+              "bowler": "Daniel Sams",
+              "non_striker": "Charith Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Charith Asalanka",
+              "bowler": "Daniel Sams",
+              "non_striker": "Obus Pienaar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Charith Asalanka",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "Obus Pienaar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Charith Asalanka",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "Obus Pienaar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Charith Asalanka",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "Obus Pienaar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Charith Asalanka",
+                  "fielders": [
+                    {
+                      "name": "Chris Green"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Matthew Forde",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "Obus Pienaar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Matthew Forde",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "Obus Pienaar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Matthew Forde",
+                  "fielders": [
+                    {
+                      "name": "Rivaldo Clarke"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "McKenny Clarke",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "Obus Pienaar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Obus Pienaar",
+              "bowler": "Shadrack Descarte",
+              "non_striker": "McKenny Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "McKenny Clarke",
+              "bowler": "Shadrack Descarte",
+              "non_striker": "Obus Pienaar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "McKenny Clarke",
+              "bowler": "Shadrack Descarte",
+              "non_striker": "Obus Pienaar",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "McKenny Clarke",
+              "bowler": "Shadrack Descarte",
+              "non_striker": "Obus Pienaar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "McKenny Clarke",
+              "bowler": "Shadrack Descarte",
+              "non_striker": "Obus Pienaar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "byes": 1
+              }
+            },
+            {
+              "batter": "Obus Pienaar",
+              "bowler": "Shadrack Descarte",
+              "non_striker": "McKenny Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "team": "Barbados Tridents",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Brandon King",
+              "bowler": "Matthew Forde",
+              "non_striker": "Brandon King",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Brandon King",
+              "bowler": "Matthew Forde",
+              "non_striker": "Brandon King",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Brandon King",
+              "bowler": "Matthew Forde",
+              "non_striker": "Brandon King",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Brandon King",
+              "bowler": "Matthew Forde",
+              "non_striker": "Brandon King",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Matthew Forde",
+              "non_striker": "Brandon King",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Matthew Forde",
+              "non_striker": "Brandon King",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Matthew Forde",
+              "non_striker": "Brandon King",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Brandon King",
+              "bowler": "Maheesh Theekshana",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Maheesh Theekshana",
+              "non_striker": "Brandon King",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Maheesh Theekshana",
+              "non_striker": "Brandon King",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Maheesh Theekshana",
+              "non_striker": "Brandon King",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Maheesh Theekshana",
+              "non_striker": "Brandon King",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Maheesh Theekshana",
+              "non_striker": "Brandon King",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Brandon King",
+              "bowler": "Matthew Forde",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Brandon King",
+              "bowler": "Matthew Forde",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Brandon King",
+              "bowler": "Matthew Forde",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Brandon King",
+              "bowler": "Matthew Forde",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Brandon King",
+              "bowler": "Matthew Forde",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Brandon King",
+              "bowler": "Matthew Forde",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Brandon King",
+              "bowler": "Amari Goodridge",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Brandon King",
+              "bowler": "Amari Goodridge",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Brandon King",
+              "bowler": "Amari Goodridge",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Brandon King",
+              "bowler": "Amari Goodridge",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Brandon King",
+              "bowler": "Amari Goodridge",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Brandon King",
+              "bowler": "Amari Goodridge",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Matthew Forde",
+              "non_striker": "Brandon King",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Matthew Forde",
+              "non_striker": "Brandon King",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Matthew Forde",
+              "non_striker": "Brandon King",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Matthew Forde",
+              "non_striker": "Brandon King",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Brandon King",
+              "bowler": "Matthew Forde",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Brandon King",
+              "bowler": "Matthew Forde",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Brandon King",
+              "bowler": "Matthew Forde",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Brandon King",
+              "bowler": "Roston Chase",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught and bowled",
+                  "player_out": "Brandon King"
+                }
+              ]
+            },
+            {
+              "batter": "Rivaldo Clarke",
+              "bowler": "Roston Chase",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rivaldo Clarke",
+              "bowler": "Roston Chase",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Roston Chase",
+              "non_striker": "Rivaldo Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Roston Chase",
+              "non_striker": "Rivaldo Clarke",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Roston Chase",
+              "non_striker": "Rivaldo Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Rivaldo Clarke",
+              "bowler": "Maheesh Theekshana",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Maheesh Theekshana",
+              "non_striker": "Rivaldo Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Maheesh Theekshana",
+              "non_striker": "Rivaldo Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Maheesh Theekshana",
+              "non_striker": "Rivaldo Clarke",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Maheesh Theekshana",
+              "non_striker": "Rivaldo Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Maheesh Theekshana",
+              "non_striker": "Rivaldo Clarke",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Rivaldo Clarke",
+              "bowler": "Roston Chase",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Roston Chase",
+              "non_striker": "Rivaldo Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Roston Chase",
+              "non_striker": "Rivaldo Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rivaldo Clarke",
+              "bowler": "Roston Chase",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Rivaldo Clarke",
+              "bowler": "Roston Chase",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rivaldo Clarke",
+              "bowler": "Roston Chase",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Rivaldo Clarke",
+              "bowler": "Joshua Bishop",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Joshua Bishop",
+              "non_striker": "Rivaldo Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Zachary Carter"
+                }
+              ]
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Joshua Bishop",
+              "non_striker": "Rivaldo Clarke",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Joshua Bishop",
+              "non_striker": "Rivaldo Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rivaldo Clarke",
+              "bowler": "Joshua Bishop",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Joshua Bishop",
+              "non_striker": "Rivaldo Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Roston Chase",
+              "non_striker": "Rivaldo Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rivaldo Clarke",
+              "bowler": "Roston Chase",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rivaldo Clarke",
+              "bowler": "Roston Chase",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Roston Chase",
+              "non_striker": "Rivaldo Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rivaldo Clarke",
+              "bowler": "Roston Chase",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rivaldo Clarke",
+              "bowler": "Roston Chase",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Charith Asalanka",
+              "non_striker": "Rivaldo Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rivaldo Clarke",
+              "bowler": "Charith Asalanka",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Charith Asalanka",
+              "non_striker": "Rivaldo Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Charith Asalanka",
+              "non_striker": "Rivaldo Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rivaldo Clarke",
+              "bowler": "Charith Asalanka",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rivaldo Clarke",
+              "bowler": "Charith Asalanka",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Maheesh Theekshana",
+              "non_striker": "Rivaldo Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Maheesh Theekshana",
+              "non_striker": "Rivaldo Clarke",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Maheesh Theekshana",
+              "non_striker": "Rivaldo Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Maheesh Theekshana",
+              "non_striker": "Rivaldo Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rivaldo Clarke",
+              "bowler": "Maheesh Theekshana",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rivaldo Clarke",
+              "bowler": "Maheesh Theekshana",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Joshua Bishop",
+              "non_striker": "Rivaldo Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rivaldo Clarke",
+              "bowler": "Joshua Bishop",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rivaldo Clarke",
+              "bowler": "Joshua Bishop",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rivaldo Clarke",
+              "bowler": "Joshua Bishop",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Joshua Bishop",
+              "non_striker": "Rivaldo Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rivaldo Clarke",
+              "bowler": "Joshua Bishop",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Rivaldo Clarke",
+              "bowler": "Charith Asalanka",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Charith Asalanka",
+              "non_striker": "Rivaldo Clarke",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Charith Asalanka",
+              "non_striker": "Rivaldo Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Charith Asalanka",
+              "non_striker": "Rivaldo Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rivaldo Clarke",
+              "bowler": "Charith Asalanka",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rivaldo Clarke",
+              "bowler": "Charith Asalanka",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Rivaldo Clarke",
+              "bowler": "Joshua Bishop",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Joshua Bishop",
+              "non_striker": "Rivaldo Clarke",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Joshua Bishop",
+              "non_striker": "Rivaldo Clarke",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Joshua Bishop",
+              "non_striker": "Rivaldo Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Joshua Bishop",
+              "non_striker": "Rivaldo Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rivaldo Clarke",
+              "bowler": "Joshua Bishop",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Roston Chase",
+              "non_striker": "Rivaldo Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rivaldo Clarke",
+              "bowler": "Roston Chase",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Rivaldo Clarke",
+              "bowler": "Roston Chase",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Roston Chase",
+              "non_striker": "Rivaldo Clarke",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Roston Chase",
+              "non_striker": "Rivaldo Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rivaldo Clarke",
+              "bowler": "Roston Chase",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Maheesh Theekshana",
+              "non_striker": "Rivaldo Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Maheesh Theekshana",
+              "non_striker": "Rivaldo Clarke",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Maheesh Theekshana",
+              "non_striker": "Rivaldo Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Maheesh Theekshana",
+              "non_striker": "Rivaldo Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rivaldo Clarke",
+              "bowler": "Maheesh Theekshana",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rivaldo Clarke",
+              "bowler": "Maheesh Theekshana",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Rivaldo Clarke",
+              "bowler": "Amari Goodridge",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rivaldo Clarke",
+              "bowler": "Amari Goodridge",
+              "non_striker": "Quinton de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Amari Goodridge",
+              "non_striker": "Rivaldo Clarke",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Amari Goodridge",
+              "non_striker": "Rivaldo Clarke",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Amari Goodridge",
+              "non_striker": "Rivaldo Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
