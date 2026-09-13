@@ -1,0 +1,2856 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "revision": 1,
+    "source_note": "Reconstructed from ball-by-ball commentary + scorecard. Not an official Cricsheet file. Cross-validate all figures against the scorecard before use."
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Bridgetown",
+    "dates": [
+      "2026-09-05"
+    ],
+    "event": {
+      "name": "Caribbean Premier League",
+      "match_number": 27
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "outcome": {
+      "winner": "Trinbago Knight Riders",
+      "by": {
+        "runs": 35
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Sunil Narine"
+    ],
+    "season": "2026",
+    "team_type": "club",
+    "toss": {
+      "winner": "Barbados Tridents",
+      "decision": "field"
+    },
+    "venue": "Kensington Oval, Bridgetown, Barbados",
+    "players": {
+      "Trinbago Knight Riders": [
+        "Colin Munro",
+        "Sunil Narine",
+        "Nicholas Pooran",
+        "Kieron Pollard",
+        "Alex Hales",
+        "Jyd Goolie",
+        "Joshua Da Silva",
+        "Akeal Hosein",
+        "Dexter Sween",
+        "Usman Tariq",
+        "Lahiru Kumara"
+      ],
+      "Barbados Tridents": [
+        "Brandon King",
+        "Zachary Carter",
+        "Quinton de Kock",
+        "Rivaldo Clarke",
+        "Chris Green",
+        "Sherfane Rutherford",
+        "Shadrack Descarte",
+        "Daniel Sams",
+        "Gudakesh Motie",
+        "Mujeeb Ur Rahman",
+        "Jakeem Pollard"
+      ]
+    },
+    "registry": {
+      "people": {}
+    },
+    "teams": [
+      "Trinbago Knight Riders",
+      "Barbados Tridents"
+    ]
+  },
+  "innings": [
+    {
+      "team": "Trinbago Knight Riders",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Colin Munro",
+              "bowler": "Chris Green",
+              "non_striker": "Colin Munro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Colin Munro",
+              "bowler": "Chris Green",
+              "non_striker": "Colin Munro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Colin Munro",
+              "bowler": "Chris Green",
+              "non_striker": "Colin Munro",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Colin Munro",
+              "bowler": "Chris Green",
+              "non_striker": "Colin Munro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Colin Munro",
+              "bowler": "Chris Green",
+              "non_striker": "Colin Munro",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Colin Munro",
+              "bowler": "Chris Green",
+              "non_striker": "Colin Munro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Sunil Narine",
+              "bowler": "Daniel Sams",
+              "non_striker": "Colin Munro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sunil Narine",
+              "bowler": "Daniel Sams",
+              "non_striker": "Colin Munro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Colin Munro",
+              "bowler": "Daniel Sams",
+              "non_striker": "Sunil Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Colin Munro",
+              "bowler": "Daniel Sams",
+              "non_striker": "Sunil Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Colin Munro",
+              "bowler": "Daniel Sams",
+              "non_striker": "Sunil Narine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Colin Munro",
+              "bowler": "Daniel Sams",
+              "non_striker": "Sunil Narine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Colin Munro",
+              "bowler": "Chris Green",
+              "non_striker": "Sunil Narine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sunil Narine",
+              "bowler": "Chris Green",
+              "non_striker": "Colin Munro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sunil Narine",
+              "bowler": "Chris Green",
+              "non_striker": "Colin Munro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sunil Narine",
+              "bowler": "Chris Green",
+              "non_striker": "Colin Munro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sunil Narine",
+              "bowler": "Chris Green",
+              "non_striker": "Colin Munro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sunil Narine",
+              "bowler": "Chris Green",
+              "non_striker": "Colin Munro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Sunil Narine",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Colin Munro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sunil Narine",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Colin Munro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Sunil Narine",
+                  "fielders": [
+                    {
+                      "name": "Rivaldo Clarke"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Nicholas Pooran",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Colin Munro",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              },
+              "extras": {
+                "legbyes": 4
+              }
+            },
+            {
+              "batter": "Nicholas Pooran",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Colin Munro",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "legbyes": 1
+              }
+            },
+            {
+              "batter": "Colin Munro",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Nicholas Pooran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Colin Munro",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Nicholas Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Colin Munro",
+              "bowler": "Chris Green",
+              "non_striker": "Nicholas Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Colin Munro",
+              "bowler": "Chris Green",
+              "non_striker": "Nicholas Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nicholas Pooran",
+              "bowler": "Chris Green",
+              "non_striker": "Colin Munro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nicholas Pooran",
+              "bowler": "Chris Green",
+              "non_striker": "Colin Munro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nicholas Pooran",
+              "bowler": "Chris Green",
+              "non_striker": "Colin Munro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nicholas Pooran",
+              "bowler": "Chris Green",
+              "non_striker": "Colin Munro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Colin Munro",
+              "bowler": "Daniel Sams",
+              "non_striker": "Nicholas Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Colin Munro",
+              "bowler": "Daniel Sams",
+              "non_striker": "Nicholas Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nicholas Pooran",
+              "bowler": "Daniel Sams",
+              "non_striker": "Colin Munro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nicholas Pooran",
+              "bowler": "Daniel Sams",
+              "non_striker": "Colin Munro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nicholas Pooran",
+              "bowler": "Daniel Sams",
+              "non_striker": "Colin Munro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nicholas Pooran",
+              "bowler": "Daniel Sams",
+              "non_striker": "Colin Munro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Colin Munro",
+              "bowler": "Daniel Sams",
+              "non_striker": "Nicholas Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Nicholas Pooran",
+              "bowler": "Chris Green",
+              "non_striker": "Colin Munro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Colin Munro",
+              "bowler": "Chris Green",
+              "non_striker": "Nicholas Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Colin Munro",
+              "bowler": "Chris Green",
+              "non_striker": "Nicholas Pooran",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Colin Munro",
+              "bowler": "Chris Green",
+              "non_striker": "Nicholas Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Colin Munro",
+              "bowler": "Chris Green",
+              "non_striker": "Nicholas Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nicholas Pooran",
+              "bowler": "Chris Green",
+              "non_striker": "Colin Munro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Colin Munro",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Nicholas Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nicholas Pooran",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Colin Munro",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Nicholas Pooran",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Colin Munro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Colin Munro",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Nicholas Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Colin Munro",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Nicholas Pooran",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Colin Munro",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Nicholas Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "noballs": 1
+              }
+            },
+            {
+              "batter": "Colin Munro",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Nicholas Pooran",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Nicholas Pooran",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "Colin Munro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nicholas Pooran",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "Colin Munro",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Nicholas Pooran",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "Colin Munro",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Nicholas Pooran",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "Colin Munro",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Nicholas Pooran",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "Colin Munro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nicholas Pooran",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "Colin Munro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Nicholas Pooran",
+              "bowler": "Shadrack Descarte",
+              "non_striker": "Colin Munro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nicholas Pooran",
+              "bowler": "Shadrack Descarte",
+              "non_striker": "Colin Munro",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nicholas Pooran",
+              "bowler": "Shadrack Descarte",
+              "non_striker": "Colin Munro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Colin Munro",
+              "bowler": "Shadrack Descarte",
+              "non_striker": "Nicholas Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nicholas Pooran",
+              "bowler": "Shadrack Descarte",
+              "non_striker": "Colin Munro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Colin Munro",
+              "bowler": "Shadrack Descarte",
+              "non_striker": "Nicholas Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Colin Munro",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "Nicholas Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nicholas Pooran",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "Colin Munro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Colin Munro",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "Nicholas Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Colin Munro",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "Nicholas Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Colin Munro",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "Nicholas Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Colin Munro"
+                }
+              ]
+            },
+            {
+              "batter": "Kieron Pollard",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "Nicholas Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Nicholas Pooran",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Kieron Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nicholas Pooran",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Kieron Pollard",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nicholas Pooran",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Kieron Pollard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kieron Pollard",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Nicholas Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kieron Pollard",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Nicholas Pooran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Kieron Pollard",
+              "bowler": "Jakeem Pollard",
+              "non_striker": "Nicholas Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Nicholas Pooran",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "Kieron Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nicholas Pooran",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "Kieron Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nicholas Pooran",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "Kieron Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nicholas Pooran",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "Kieron Pollard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kieron Pollard",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "Nicholas Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kieron Pollard",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "Nicholas Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Nicholas Pooran",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Kieron Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nicholas Pooran",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Kieron Pollard",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Nicholas Pooran",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Kieron Pollard",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Nicholas Pooran",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Kieron Pollard",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Nicholas Pooran",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Kieron Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Nicholas Pooran",
+                  "fielders": [
+                    {
+                      "name": "Daniel Sams"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Alex Hales",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Kieron Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Kieron Pollard",
+              "bowler": "Shadrack Descarte",
+              "non_striker": "Alex Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Kieron Pollard",
+              "bowler": "Shadrack Descarte",
+              "non_striker": "Alex Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kieron Pollard",
+              "bowler": "Shadrack Descarte",
+              "non_striker": "Alex Hales",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Kieron Pollard",
+              "bowler": "Shadrack Descarte",
+              "non_striker": "Alex Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kieron Pollard",
+              "bowler": "Shadrack Descarte",
+              "non_striker": "Alex Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kieron Pollard",
+              "bowler": "Shadrack Descarte",
+              "non_striker": "Alex Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Alex Hales",
+              "bowler": "Shadrack Descarte",
+              "non_striker": "Kieron Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Kieron Pollard",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Alex Hales",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Kieron Pollard",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Alex Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Kieron Pollard",
+                  "fielders": [
+                    {
+                      "name": "Jakeem Pollard"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Jyd Goolie",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Alex Hales",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Jyd Goolie",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Alex Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Alex Hales",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Jyd Goolie",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Alex Hales",
+              "bowler": "Gudakesh Motie",
+              "non_striker": "Jyd Goolie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "stumped",
+                  "player_out": "Alex Hales",
+                  "fielders": [
+                    {
+                      "name": "Quinton de Kock"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Jyd Goolie",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "Jyd Goolie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jyd Goolie",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "Jyd Goolie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Jyd Goolie"
+                }
+              ]
+            },
+            {
+              "batter": "Akeal Hosein",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "Akeal Hosein",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akeal Hosein",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "Akeal Hosein",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akeal Hosein",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "Akeal Hosein",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akeal Hosein",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "Akeal Hosein",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "legbyes": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Akeal Hosein",
+              "bowler": "Daniel Sams",
+              "non_striker": "Akeal Hosein",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akeal Hosein",
+              "bowler": "Daniel Sams",
+              "non_striker": "Akeal Hosein",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Joshua Da Silva",
+              "bowler": "Daniel Sams",
+              "non_striker": "Akeal Hosein",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Akeal Hosein",
+              "bowler": "Daniel Sams",
+              "non_striker": "Joshua Da Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Joshua Da Silva",
+              "bowler": "Daniel Sams",
+              "non_striker": "Akeal Hosein",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Akeal Hosein",
+              "bowler": "Daniel Sams",
+              "non_striker": "Joshua Da Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Akeal Hosein",
+              "bowler": "Daniel Sams",
+              "non_striker": "Joshua Da Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Akeal Hosein",
+              "bowler": "Shadrack Descarte",
+              "non_striker": "Joshua Da Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Joshua Da Silva",
+              "bowler": "Shadrack Descarte",
+              "non_striker": "Akeal Hosein",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Akeal Hosein",
+              "bowler": "Shadrack Descarte",
+              "non_striker": "Joshua Da Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akeal Hosein",
+              "bowler": "Shadrack Descarte",
+              "non_striker": "Joshua Da Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Joshua Da Silva",
+              "bowler": "Shadrack Descarte",
+              "non_striker": "Akeal Hosein",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Joshua Da Silva",
+              "bowler": "Shadrack Descarte",
+              "non_striker": "Akeal Hosein",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Joshua Da Silva",
+              "bowler": "Daniel Sams",
+              "non_striker": "Akeal Hosein",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Joshua Da Silva",
+              "bowler": "Daniel Sams",
+              "non_striker": "Akeal Hosein",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Joshua Da Silva",
+              "bowler": "Daniel Sams",
+              "non_striker": "Akeal Hosein",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Akeal Hosein",
+              "bowler": "Daniel Sams",
+              "non_striker": "Joshua Da Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Joshua Da Silva",
+              "bowler": "Daniel Sams",
+              "non_striker": "Akeal Hosein",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Akeal Hosein",
+              "bowler": "Daniel Sams",
+              "non_striker": "Joshua Da Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Joshua Da Silva",
+              "bowler": "Daniel Sams",
+              "non_striker": "Akeal Hosein",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "team": "Barbados Tridents",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Brandon King",
+              "bowler": "Sunil Narine",
+              "non_striker": "Brandon King",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Brandon King",
+              "bowler": "Sunil Narine",
+              "non_striker": "Brandon King",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Brandon King",
+              "bowler": "Sunil Narine",
+              "non_striker": "Brandon King",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Brandon King",
+              "bowler": "Sunil Narine",
+              "non_striker": "Brandon King",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Brandon King",
+              "bowler": "Sunil Narine",
+              "non_striker": "Brandon King",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Sunil Narine",
+              "non_striker": "Brandon King",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Lahiru Kumara",
+              "non_striker": "Brandon King",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Brandon King",
+              "bowler": "Lahiru Kumara",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Brandon King",
+              "bowler": "Lahiru Kumara",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Brandon King",
+              "bowler": "Lahiru Kumara",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Lahiru Kumara",
+              "non_striker": "Brandon King",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Lahiru Kumara",
+              "non_striker": "Brandon King",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Brandon King",
+              "bowler": "Sunil Narine",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Brandon King",
+              "bowler": "Sunil Narine",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Brandon King",
+              "bowler": "Sunil Narine",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Brandon King",
+              "bowler": "Sunil Narine",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Brandon King",
+              "bowler": "Sunil Narine",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Brandon King",
+                  "fielders": [
+                    {
+                      "name": "Nicholas Pooran"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Quinton de Kock",
+              "bowler": "Sunil Narine",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "Quinton de Kock"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Lahiru Kumara",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Lahiru Kumara",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Lahiru Kumara",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Lahiru Kumara",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Lahiru Kumara",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Lahiru Kumara",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Rivaldo Clarke",
+              "bowler": "Sunil Narine",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rivaldo Clarke",
+              "bowler": "Sunil Narine",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rivaldo Clarke",
+              "bowler": "Sunil Narine",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rivaldo Clarke",
+              "bowler": "Sunil Narine",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "Rivaldo Clarke"
+                }
+              ]
+            },
+            {
+              "batter": "Chris Green",
+              "bowler": "Sunil Narine",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Sunil Narine",
+              "non_striker": "Chris Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Chris Green",
+              "bowler": "Akeal Hosein",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Chris Green",
+              "bowler": "Akeal Hosein",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Chris Green",
+              "bowler": "Akeal Hosein",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Chris Green",
+              "bowler": "Akeal Hosein",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Chris Green",
+              "bowler": "Akeal Hosein",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Chris Green",
+                  "fielders": [
+                    {
+                      "name": "DC Drakes",
+                      "substitute": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Sherfane Rutherford",
+              "bowler": "Akeal Hosein",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Usman Tariq",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Usman Tariq",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sherfane Rutherford",
+              "bowler": "Usman Tariq",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sherfane Rutherford",
+              "bowler": "Usman Tariq",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sherfane Rutherford",
+              "bowler": "Usman Tariq",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sherfane Rutherford",
+              "bowler": "Usman Tariq",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Sherfane Rutherford",
+              "bowler": "Akeal Hosein",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sherfane Rutherford",
+              "bowler": "Akeal Hosein",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sherfane Rutherford",
+              "bowler": "Akeal Hosein",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Akeal Hosein",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Akeal Hosein",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sherfane Rutherford",
+              "bowler": "Akeal Hosein",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Sherfane Rutherford",
+              "bowler": "Usman Tariq",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Usman Tariq",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Usman Tariq",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Usman Tariq",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sherfane Rutherford",
+              "bowler": "Usman Tariq",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sherfane Rutherford",
+              "bowler": "Usman Tariq",
+              "non_striker": "Zachary Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Jyd Goolie",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zachary Carter",
+              "bowler": "Jyd Goolie",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Zachary Carter"
+                }
+              ]
+            },
+            {
+              "batter": "Shadrack Descarte",
+              "bowler": "Jyd Goolie",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shadrack Descarte",
+              "bowler": "Jyd Goolie",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sherfane Rutherford",
+              "bowler": "Jyd Goolie",
+              "non_striker": "Shadrack Descarte",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Shadrack Descarte",
+              "bowler": "Jyd Goolie",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Sherfane Rutherford",
+              "bowler": "Usman Tariq",
+              "non_striker": "Shadrack Descarte",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Sherfane Rutherford",
+              "bowler": "Usman Tariq",
+              "non_striker": "Shadrack Descarte",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shadrack Descarte",
+              "bowler": "Usman Tariq",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shadrack Descarte",
+              "bowler": "Usman Tariq",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shadrack Descarte",
+              "bowler": "Usman Tariq",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Shadrack Descarte",
+              "bowler": "Usman Tariq",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Shadrack Descarte",
+              "bowler": "Usman Tariq",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Shadrack Descarte",
+              "bowler": "Usman Tariq",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shadrack Descarte",
+              "bowler": "Usman Tariq",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Shadrack Descarte",
+              "bowler": "Jyd Goolie",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Shadrack Descarte",
+                  "fielders": [
+                    {
+                      "name": "Lahiru Kumara"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Daniel Sams",
+              "bowler": "Jyd Goolie",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Daniel Sams",
+              "bowler": "Jyd Goolie",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Daniel Sams",
+              "bowler": "Jyd Goolie",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Daniel Sams",
+              "bowler": "Jyd Goolie",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sherfane Rutherford",
+              "bowler": "Jyd Goolie",
+              "non_striker": "Daniel Sams",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Sherfane Rutherford",
+              "bowler": "Usman Tariq",
+              "non_striker": "Daniel Sams",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Daniel Sams",
+              "bowler": "Usman Tariq",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Daniel Sams",
+              "bowler": "Usman Tariq",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Daniel Sams",
+              "bowler": "Usman Tariq",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Daniel Sams",
+              "bowler": "Usman Tariq",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sherfane Rutherford",
+              "bowler": "Usman Tariq",
+              "non_striker": "Daniel Sams",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Daniel Sams",
+              "bowler": "Akeal Hosein",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sherfane Rutherford",
+              "bowler": "Akeal Hosein",
+              "non_striker": "Daniel Sams",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sherfane Rutherford",
+              "bowler": "Akeal Hosein",
+              "non_striker": "Daniel Sams",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Daniel Sams",
+              "bowler": "Akeal Hosein",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Daniel Sams",
+              "bowler": "Akeal Hosein",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Daniel Sams",
+              "bowler": "Akeal Hosein",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Sherfane Rutherford",
+              "bowler": "Jyd Goolie",
+              "non_striker": "Daniel Sams",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sherfane Rutherford",
+              "bowler": "Jyd Goolie",
+              "non_striker": "Daniel Sams",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Daniel Sams",
+              "bowler": "Jyd Goolie",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Daniel Sams",
+              "bowler": "Jyd Goolie",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Daniel Sams",
+                  "fielders": [
+                    {
+                      "name": "MW Tromp",
+                      "substitute": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Gudakesh Motie",
+              "bowler": "Jyd Goolie",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Gudakesh Motie",
+              "bowler": "Jyd Goolie",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Gudakesh Motie",
+              "bowler": "Lahiru Kumara",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sherfane Rutherford",
+              "bowler": "Lahiru Kumara",
+              "non_striker": "Gudakesh Motie",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Gudakesh Motie",
+              "bowler": "Lahiru Kumara",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Gudakesh Motie",
+              "bowler": "Lahiru Kumara",
+              "non_striker": "Sherfane Rutherford",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sherfane Rutherford",
+              "bowler": "Lahiru Kumara",
+              "non_striker": "Gudakesh Motie",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sherfane Rutherford",
+              "bowler": "Lahiru Kumara",
+              "non_striker": "Gudakesh Motie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Sherfane Rutherford",
+                  "fielders": [
+                    {
+                      "name": "MW Tromp",
+                      "substitute": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Gudakesh Motie",
+              "bowler": "Jyd Goolie",
+              "non_striker": "Gudakesh Motie",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Gudakesh Motie",
+              "bowler": "Jyd Goolie",
+              "non_striker": "Gudakesh Motie",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mujeeb Ur Rahman",
+              "bowler": "Jyd Goolie",
+              "non_striker": "Gudakesh Motie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mujeeb Ur Rahman",
+              "bowler": "Jyd Goolie",
+              "non_striker": "Gudakesh Motie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mujeeb Ur Rahman",
+              "bowler": "Jyd Goolie",
+              "non_striker": "Gudakesh Motie",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Gudakesh Motie",
+              "bowler": "Jyd Goolie",
+              "non_striker": "Mujeeb Ur Rahman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Mujeeb Ur Rahman",
+              "bowler": "Lahiru Kumara",
+              "non_striker": "Gudakesh Motie",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Gudakesh Motie",
+              "bowler": "Lahiru Kumara",
+              "non_striker": "Mujeeb Ur Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Gudakesh Motie",
+              "bowler": "Lahiru Kumara",
+              "non_striker": "Mujeeb Ur Rahman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mujeeb Ur Rahman",
+              "bowler": "Lahiru Kumara",
+              "non_striker": "Gudakesh Motie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mujeeb Ur Rahman",
+              "bowler": "Lahiru Kumara",
+              "non_striker": "Gudakesh Motie",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Gudakesh Motie",
+              "bowler": "Lahiru Kumara",
+              "non_striker": "Mujeeb Ur Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Gudakesh Motie",
+                  "fielders": [
+                    {
+                      "name": "Dexter Sween"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Mujeeb Ur Rahman",
+              "bowler": "Sunil Narine",
+              "non_striker": "Mujeeb Ur Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mujeeb Ur Rahman",
+              "bowler": "Sunil Narine",
+              "non_striker": "Mujeeb Ur Rahman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jakeem Pollard",
+              "bowler": "Sunil Narine",
+              "non_striker": "Mujeeb Ur Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Jakeem Pollard",
+                  "fielders": [
+                    {
+                      "name": "Alex Hales"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
