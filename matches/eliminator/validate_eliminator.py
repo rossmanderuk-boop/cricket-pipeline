@@ -1,5 +1,5 @@
 """
-validate_match35.py - reconstruct batter and bowler figures from the built JSON and diff
+validate_eliminator.py - reconstruct batter and bowler figures from the built JSON and diff
 against the official scorecard for CPL 2026 Eliminator (Barbados Tridents vs Jamaica
 Kingsmen, Kensington Oval, Bridgetown, 2026-09-16).
 """
@@ -8,7 +8,7 @@ import json, os
 from collections import defaultdict
 
 _HERE = os.path.dirname(__file__)
-JSON_PATH = os.path.join(_HERE, 'cpl_2026_match35_tridents_vs_kingsmen.json')
+JSON_PATH = os.path.join(_HERE, 'cpl_2026_eliminator_tridents_vs_kingsmen.json')
 
 # expected_by_team[batting_team][batter] = (runs, balls, fours, sixes, status_substring)
 EXPECTED_BATTING = {

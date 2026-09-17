@@ -1,5 +1,5 @@
 """
-build_match35.py - CPL 2026, Eliminator, Barbados Tridents vs Jamaica Kingsmen,
+build_eliminator.py - CPL 2026, Eliminator, Barbados Tridents vs Jamaica Kingsmen,
 Kensington Oval, Bridgetown, 2026-09-16.
 """
 
@@ -184,5 +184,5 @@ def build_match_json(out_path):
 
 
 if __name__ == '__main__':
-    out = os.path.join(_HERE, 'cpl_2026_match35_tridents_vs_kingsmen.json')
+    out = os.path.join(_HERE, 'cpl_2026_eliminator_tridents_vs_kingsmen.json')
     build_match_json(out)
