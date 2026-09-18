@@ -1,5 +1,5 @@
 """
-build_match35.py - CPL 2026, Qualifier 1, Guyana Amazon Warriors vs Antigua and Barbuda
+build_qualifier1.py - CPL 2026, Qualifier 1, Guyana Amazon Warriors vs Antigua and Barbuda
 Falcons, Kensington Oval, Bridgetown, 2026-09-17.
 """
 
@@ -59,7 +59,7 @@ MATCH_INFO = {
     'balls_per_over': 6,
     'city': 'Bridgetown',
     'dates': ['2026-09-17'],
-    'event': {'name': 'Caribbean Premier League', 'match_number': 35, 'stage': 'Qualifier 1'},
+    'event': {'name': 'Caribbean Premier League', 'stage': 'Qualifier 1'},
     'gender': 'male',
     'match_type': 'T20',
     'outcome': {'winner': 'Antigua and Barbuda Falcons', 'by': {'wickets': 9}},
@@ -183,5 +183,5 @@ def build_match_json(out_path):
 
 
 if __name__ == '__main__':
-    out = os.path.join(_HERE, 'cpl_2026_match35_amazon_vs_falcons.json')
+    out = os.path.join(_HERE, 'cpl_2026_qualifier1_amazon_vs_falcons.json')
     build_match_json(out)

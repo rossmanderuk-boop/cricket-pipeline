@@ -1,5 +1,5 @@
 """
-validate_match35.py - reconstruct batter and bowler figures from the built JSON and diff
+validate_qualifier1.py - reconstruct batter and bowler figures from the built JSON and diff
 against the official scorecard for CPL 2026 Qualifier 1 (Guyana Amazon Warriors vs
 Antigua and Barbuda Falcons, Kensington Oval, Bridgetown, 2026-09-17).
 """
@@ -8,7 +8,7 @@ import json, os
 from collections import defaultdict
 
 _HERE = os.path.dirname(__file__)
-JSON_PATH = os.path.join(_HERE, 'cpl_2026_match35_amazon_vs_falcons.json')
+JSON_PATH = os.path.join(_HERE, 'cpl_2026_qualifier1_amazon_vs_falcons.json')
 
 # expected_by_team[batting_team][batter] = (runs, balls, fours, sixes, status_substring)
 EXPECTED_BATTING = {
