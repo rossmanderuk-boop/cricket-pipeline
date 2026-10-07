@@ -63,9 +63,16 @@ yet in an official Cricsheet release.
    the per-match build/validation scripts to the repo. Note anything assumed (e.g. toss
    winner/decision if not stated) so it can be corrected.
 
+   Playoff matches are not numbered: name their folders and files by stage —
+   `matches/eliminator/`, `matches/qualifier1/`, `matches/qualifier2/`, `matches/final/`
+   (e.g. `cpl_2026_qualifier2_TEAMA_vs_TEAMB.json`) — and set `event.stage` ("Eliminator",
+   "Qualifier 1", "Qualifier 2", "Final") with no `match_number`. League matches keep
+   `matchNN` (CPL 2026's last league match is match35).
+
    Also update the match count in `README.md` ("This repo currently includes matches from
    the 2026 Carribean Premier League (CPL) N matches, so far.") to match the number of
-   `matches/matchNN` folders in the repo, and include that change in the same commit.
+   match folders in `matches/` (league and playoff), and include that change in the same
+   commit.
 
 ## Known edge cases the parser already handles
 
