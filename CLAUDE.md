@@ -78,6 +78,10 @@ yet in an official Cricsheet release.
 - `c & b`, `lbw b`, `run out (Fielder)`, multi-fielder run outs (`Fielder1/Fielder2`),
   `st Fielder b Bowler`, and the wicketkeeper `†` dagger symbol.
 - Dismissal detail lines separated from the `OUT` marker by a prose paragraph.
+- 5-run penalties shown on a delivery as `(penalty) 1 wide` etc. — parser sets
+  `penalty_runs: 5` and parses the rest normally. The per-match build script must add
+  `extras.penalty` (see `matches/wbbl_2026_match08_*`), and the validation script must not
+  charge penalty runs to the bowler.
 
 ## What still needs doing by hand, per match
 

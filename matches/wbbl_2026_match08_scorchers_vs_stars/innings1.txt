@@ -1,0 +1,259 @@
+0.1
+Garth to Mack, 1 wide
+0.1
+Garth to Mack, no run
+0.2
+Garth to Mack, no run
+0.3
+Garth to Mack, no run
+0.4
+Garth to Mack, no run
+0.5
+Garth to Mack, 1 run
+0.6
+Garth to Mooney, no run
+1.1
+Sutherland to Mack, 1 leg bye
+1.2
+Sutherland to Mooney, 1 run
+1.3
+Sutherland to Mack, 2 leg byes
+1.4
+Sutherland to Mack, no run
+1.5
+Sutherland to Mack, FOUR runs
+1.6
+Sutherland to Mack, 5 wide
+1.6
+Sutherland to Mack, 1 run
+2.1
+Garth to Mack, 1 run
+2.2
+Garth to Mooney, no run
+2.3
+Garth to Mooney, 4 wide
+2.3
+Garth to Mack, 2 runs
+2.4
+Garth to Mack, 2 runs
+2.5
+Garth to Mack, no run
+2.6
+Garth to Mack, no run
+3.1
+Dean to Mooney, 1 run
+3.2
+Dean to Mack, 1 run
+3.3
+Dean to Mooney, 2 runs
+3.4
+Dean to Mooney, 2 runs
+3.5
+Dean to Mooney, FOUR runs
+3.6
+Dean to Mooney, 1 run
+4.1
+Day to Mooney, 1 run
+4.2
+Day to Mack, OUT
+Katie Mack c †Jones b Day 12 (17b 1x4 0x6 19m) SR: 70.58
+4.3
+Day to Devine, FOUR runs
+4.4
+Day to Devine, 1 wide
+4.4
+Day to Devine, no run
+4.5
+Day to Devine, 1 run
+4.6
+Day to Mooney, 1 run
+5.1
+McKenna to Mooney, no run
+5.2
+McKenna to Mooney, (penalty) 1 wide
+5.2
+McKenna to Mooney, 2 runs
+5.3
+McKenna to Mooney, 1 run
+5.4
+McKenna to Devine, no run
+5.5
+McKenna to Devine, no run
+5.6
+McKenna to Devine, no run
+6.1
+Gibson to Mooney, 1 run
+6.2
+Gibson to Devine, no run
+6.3
+Gibson to Devine, 1 run
+6.4
+Gibson to Mooney, OUT
+Beth Mooney c †Jones b Gibson 17 (15b 1x4 0x6 33m) SR: 113.33
+6.5
+Gibson to Kemp, 1 run
+6.6
+Gibson to Devine, no run
+7.1
+McKenna to Kemp, 1 run
+7.2
+McKenna to Devine, FOUR runs
+7.3
+McKenna to Devine, 1 run
+7.4
+McKenna to Kemp, FOUR runs
+7.5
+McKenna to Kemp, FOUR runs
+7.6
+McKenna to Kemp, OUT
+Freya Kemp c †Jones b McKenna 10 (5b 2x4 0x6 6m) SR: 200
+8.1
+Dean to Devine, no run
+8.2
+Dean to Devine, OUT
+Sophie Devine c Sutherland b Dean 11 (13b 2x4 0x6 21m) SR: 84.61
+8.3
+Dean to Piparo, no run
+8.4
+Dean to Piparo, 1 run
+8.5
+Dean to Hinkley, no run
+8.6
+Dean to Hinkley, 1 run
+9.1
+Day to Hinkley, 2 runs
+9.2
+Day to Hinkley, OUT
+Mikayla Hinkley lbw b Day 3 (4b 0x4 0x6 5m) SR: 75
+9.3
+Day to Fatima Sana, no run
+9.4
+Day to Fatima Sana, no run
+9.5
+Day to Fatima Sana, no run
+9.6
+Day to Fatima Sana, 1 run
+10.1
+Gibson to Fatima Sana, no run
+10.2
+Gibson to Fatima Sana, OUT
+Fatima Sana c Day b Gibson 1 (6b 0x4 0x6 3m) SR: 16.66
+10.3
+Gibson to Ainsworth, no run
+10.4
+Gibson to Ainsworth, 1 run
+10.5
+Gibson to Piparo, no run
+10.6
+Gibson to Piparo, OUT
+Chloe Piparo c †Jones b Gibson 1 (4b 0x4 0x6 12m) SR: 25
+11.1
+Day to Ainsworth, 1 run
+11.2
+Day to King, no run
+11.3
+Day to King, no run
+11.4
+Day to King, no run
+11.5
+Day to King, no run
+11.6
+Day to King, no run
+12.1
+Sutherland to Ainsworth, no run
+12.2
+Sutherland to Ainsworth, FOUR runs
+12.3
+Sutherland to Ainsworth, no run
+12.4
+Sutherland to Ainsworth, no run
+12.5
+Sutherland to Ainsworth, 1 run
+12.6
+Sutherland to King, 1 run
+13.1
+Gibson to King, 1 run
+13.2
+Gibson to Ainsworth, no run
+13.3
+Gibson to Ainsworth, 1 run
+13.4
+Gibson to King, no run
+13.5
+Gibson to King, 1 run
+13.6
+Gibson to Ainsworth, 1 run
+14.1
+Day to Ainsworth, no run
+14.2
+Day to Ainsworth, 1 run
+14.3
+Day to King, 1 run
+14.4
+Day to Ainsworth, 1 run
+14.5
+Day to King, 1 run
+14.6
+Day to Ainsworth, 1 run
+15.1
+Dean to Ainsworth, FOUR runs
+15.2
+Dean to Ainsworth, OUT
+Chloe Ainsworth b Dean 16 (17b 2x4 0x6 16m) SR: 94.11
+15.3
+Dean to Mills, 1 run
+15.4
+Dean to King, 1 run
+15.5
+Dean to Mills, no run
+15.6
+Dean to Mills, 1 run
+16.1
+Gibson to Mills, 1 run
+16.2
+Gibson to King, 1 run
+16.3
+Gibson to Mills, no run
+16.4
+Gibson to Mills, 1 run
+16.5
+Gibson to King, 1 run
+16.6
+Gibson to Mills, 1 run
+17.1
+Dean to Mills, 1 run
+17.2
+Dean to King, FOUR runs
+17.3
+Dean to King, 1 run
+17.4
+Dean to Mills, no run
+17.5
+Dean to Mills, 2 runs
+17.6
+Dean to Mills, 1 run
+18.1
+Garth to Mills, 1 run
+18.2
+Garth to King, 1 leg bye
+18.3
+Garth to Mills, 1 run
+18.4
+Garth to King, FOUR runs
+18.5
+Garth to King, no run
+18.6
+Garth to King, 1 run
+19.1
+Sutherland to King, OUT
+Alana King run out (Sutherland) 18 (21b 2x4 0x6 28m) SR: 85.71
+19.2
+Sutherland to Mills, 1 run
+19.3
+Sutherland to Edgar, no run
+19.4
+Sutherland to Edgar, 1 run
+19.5
+Sutherland to Mills, no run
+19.6
+Sutherland to Mills, 1 run

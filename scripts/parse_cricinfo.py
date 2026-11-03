@@ -117,6 +117,16 @@ def parse_one(over_no, ball_no, bowler, batter, desc):
             return d
         desc_l = pre
 
+    # 5-run penalty awarded on a delivery, e.g. "(penalty) 1 wide" (ball striking a
+    # fielding-side helmet). Cricinfo's description omits the 5; it is always 5 runs.
+    # Recorded separately in d['penalty_runs']; the rest of the description parses as usual.
+    mm = re.match(r'\(penalty\)\s*(.*)$', desc_l)
+    if mm:
+        d['penalty_runs'] = 5
+        desc_l = mm.group(1).strip()
+        if desc_l == '':
+            return d
+
     mm = re.match(r'\(no ball\)\s*(.*)$', desc_l)
     if mm:
         d['extra_type'] = 'noballs'
