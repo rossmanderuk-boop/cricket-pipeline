@@ -1,0 +1,2913 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "revision": 1,
+    "source_note": "Reconstructed from ball-by-ball commentary + scorecard. Not an official Cricsheet file. Cross-validate all figures against the scorecard before use."
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Brisbane",
+    "dates": [
+      "2026-10-30"
+    ],
+    "event": {
+      "name": "Women's Big Bash League",
+      "match_number": 3
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "outcome": {
+      "winner": "Sydney Sixers Women",
+      "by": {
+        "wickets": 4
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Ellyse Perry"
+    ],
+    "season": "2026/27",
+    "team_type": "club",
+    "toss": {
+      "winner": "Sydney Sixers Women",
+      "decision": "field"
+    },
+    "venue": "Allan Border Field, Brisbane",
+    "officials": {
+      "umpires": [
+        "Kylie White",
+        "Nathan James"
+      ],
+      "tv_umpires": [
+        "Riki Wessels"
+      ],
+      "reserve_umpires": [
+        "Benjamin Farrell"
+      ],
+      "match_referees": [
+        "Joanne Broadbent"
+      ]
+    },
+    "players": {
+      "Brisbane Heat Women": [
+        "Charli Knott",
+        "Grace Harris",
+        "Georgia Redmayne",
+        "Orla Prendergast",
+        "Annie O'Neil",
+        "Lucy Hamilton",
+        "Sianna Ginger",
+        "Lucinda Bourke",
+        "Sarah Glenn",
+        "Lily Bassingthwaighte",
+        "Ayaka Kato-Stafford"
+      ],
+      "Sydney Sixers Women": [
+        "Ellyse Perry",
+        "Sophia Dunkley",
+        "Melie Kerr",
+        "Ashleigh Gardner",
+        "Alice Capsey",
+        "Eva Ragg",
+        "Erin Burns",
+        "Sarah Coyte",
+        "Lauren Cheatle",
+        "Caoimhe Bray",
+        "Frankie Nicklin"
+      ]
+    },
+    "registry": {
+      "people": {}
+    },
+    "teams": [
+      "Brisbane Heat Women",
+      "Sydney Sixers Women"
+    ]
+  },
+  "innings": [
+    {
+      "team": "Brisbane Heat Women",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Charli Knott",
+              "bowler": "Lauren Cheatle",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Charli Knott",
+              "bowler": "Lauren Cheatle",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Charli Knott",
+              "bowler": "Lauren Cheatle",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Charli Knott",
+              "bowler": "Lauren Cheatle",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Grace Harris",
+              "bowler": "Lauren Cheatle",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Charli Knott",
+              "bowler": "Lauren Cheatle",
+              "non_striker": "Grace Harris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Charli Knott",
+              "bowler": "Lauren Cheatle",
+              "non_striker": "Grace Harris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Grace Harris",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Grace Harris",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Charli Knott",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Grace Harris",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Charli Knott",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Grace Harris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Charli Knott",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Grace Harris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Charli Knott",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Grace Harris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Grace Harris",
+              "bowler": "Lauren Cheatle",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Charli Knott",
+              "bowler": "Lauren Cheatle",
+              "non_striker": "Grace Harris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Grace Harris",
+              "bowler": "Lauren Cheatle",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Grace Harris",
+                  "fielders": [
+                    {
+                      "name": "Alice Capsey"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Lauren Cheatle",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Charli Knott",
+              "bowler": "Lauren Cheatle",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Lauren Cheatle",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Lauren Cheatle",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Charli Knott",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Charli Knott",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Charli Knott",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Charli Knott",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Charli Knott",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Charli Knott",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Charli Knott",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Charli Knott",
+              "bowler": "Melie Kerr",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Charli Knott",
+              "bowler": "Melie Kerr",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Charli Knott",
+              "bowler": "Melie Kerr",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Charli Knott",
+              "bowler": "Melie Kerr",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Melie Kerr",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Melie Kerr",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Sarah Coyte",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Sarah Coyte",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Sarah Coyte",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Sarah Coyte",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Charli Knott",
+              "bowler": "Sarah Coyte",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Charli Knott",
+              "bowler": "Sarah Coyte",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Charli Knott",
+              "bowler": "Melie Kerr",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Melie Kerr",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Charli Knott",
+              "bowler": "Melie Kerr",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Charli Knott",
+              "bowler": "Melie Kerr",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Charli Knott",
+              "bowler": "Melie Kerr",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Melie Kerr",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Ashleigh Gardner",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Ashleigh Gardner",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Ashleigh Gardner",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Ashleigh Gardner",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Ashleigh Gardner",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Charli Knott",
+              "bowler": "Ashleigh Gardner",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Sarah Coyte",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Charli Knott",
+              "bowler": "Sarah Coyte",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Sarah Coyte",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Charli Knott",
+              "bowler": "Sarah Coyte",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Charli Knott",
+              "bowler": "Sarah Coyte",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Sarah Coyte",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Charli Knott",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Charli Knott",
+              "bowler": "Sarah Coyte",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Charli Knott",
+              "bowler": "Sarah Coyte",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Charli Knott",
+              "bowler": "Sarah Coyte",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Sarah Coyte",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Sarah Coyte",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Sarah Coyte",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Ashleigh Gardner",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Ashleigh Gardner",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Charli Knott",
+              "bowler": "Ashleigh Gardner",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Ashleigh Gardner",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Charli Knott",
+              "bowler": "Ashleigh Gardner",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Ashleigh Gardner",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Melie Kerr",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Melie Kerr",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Melie Kerr",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Charli Knott",
+              "bowler": "Melie Kerr",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Charli Knott",
+              "bowler": "Melie Kerr",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Melie Kerr",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Lauren Cheatle",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Charli Knott",
+              "bowler": "Lauren Cheatle",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Charli Knott",
+              "bowler": "Lauren Cheatle",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Charli Knott",
+              "bowler": "Lauren Cheatle",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "byes": 1
+              }
+            },
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Lauren Cheatle",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Charli Knott",
+              "bowler": "Lauren Cheatle",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Charli Knott",
+              "bowler": "Ashleigh Gardner",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Charli Knott",
+              "bowler": "Ashleigh Gardner",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Ashleigh Gardner",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Charli Knott",
+              "bowler": "Ashleigh Gardner",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Charli Knott",
+              "bowler": "Ashleigh Gardner",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Charli Knott",
+                  "fielders": [
+                    {
+                      "name": "Melie Kerr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Orla Prendergast",
+              "bowler": "Ashleigh Gardner",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Orla Prendergast",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Orla Prendergast",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Orla Prendergast",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Orla Prendergast",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Orla Prendergast"
+                }
+              ]
+            },
+            {
+              "batter": "Annie O'Neil",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Annie O'Neil",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Annie O'Neil",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Annie O'Neil",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Annie O'Neil",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Melie Kerr",
+              "non_striker": "Annie O'Neil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Annie O'Neil",
+              "bowler": "Melie Kerr",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Melie Kerr",
+              "non_striker": "Annie O'Neil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Annie O'Neil",
+              "bowler": "Melie Kerr",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Melie Kerr",
+              "non_striker": "Annie O'Neil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Annie O'Neil",
+              "bowler": "Melie Kerr",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Annie O'Neil",
+              "bowler": "Sarah Coyte",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "legbyes": 1
+              }
+            },
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Sarah Coyte",
+              "non_striker": "Annie O'Neil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Annie O'Neil",
+              "bowler": "Sarah Coyte",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Sarah Coyte",
+              "non_striker": "Annie O'Neil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Sarah Coyte",
+              "non_striker": "Annie O'Neil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Georgia Redmayne",
+                  "fielders": [
+                    {
+                      "name": "Lauren Cheatle"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Lucy Hamilton",
+              "bowler": "Sarah Coyte",
+              "non_striker": "Annie O'Neil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Lucy Hamilton",
+              "bowler": "Ashleigh Gardner",
+              "non_striker": "Annie O'Neil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Annie O'Neil",
+              "bowler": "Ashleigh Gardner",
+              "non_striker": "Lucy Hamilton",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Annie O'Neil",
+              "bowler": "Ashleigh Gardner",
+              "non_striker": "Lucy Hamilton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Annie O'Neil",
+              "bowler": "Ashleigh Gardner",
+              "non_striker": "Lucy Hamilton",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Annie O'Neil",
+              "bowler": "Ashleigh Gardner",
+              "non_striker": "Lucy Hamilton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Annie O'Neil",
+                  "fielders": [
+                    {
+                      "name": "Caoimhe Bray"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Sianna Ginger",
+              "bowler": "Ashleigh Gardner",
+              "non_striker": "Lucy Hamilton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Lucy Hamilton",
+              "bowler": "Lauren Cheatle",
+              "non_striker": "Sianna Ginger",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sianna Ginger",
+              "bowler": "Lauren Cheatle",
+              "non_striker": "Lucy Hamilton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sianna Ginger",
+              "bowler": "Lauren Cheatle",
+              "non_striker": "Lucy Hamilton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Lucy Hamilton",
+              "bowler": "Lauren Cheatle",
+              "non_striker": "Sianna Ginger",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sianna Ginger",
+              "bowler": "Lauren Cheatle",
+              "non_striker": "Lucy Hamilton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Lucy Hamilton",
+              "bowler": "Lauren Cheatle",
+              "non_striker": "Sianna Ginger",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "team": "Sydney Sixers Women",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Lucy Hamilton",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sophia Dunkley",
+              "bowler": "Lucy Hamilton",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Sophia Dunkley",
+              "bowler": "Lucy Hamilton",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Lucy Hamilton",
+              "non_striker": "Sophia Dunkley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sophia Dunkley",
+              "bowler": "Lucy Hamilton",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sophia Dunkley",
+              "bowler": "Lucy Hamilton",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Lily Bassingthwaighte",
+              "non_striker": "Sophia Dunkley",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Lily Bassingthwaighte",
+              "non_striker": "Sophia Dunkley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Lily Bassingthwaighte",
+              "non_striker": "Sophia Dunkley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sophia Dunkley",
+              "bowler": "Lily Bassingthwaighte",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sophia Dunkley",
+              "bowler": "Lily Bassingthwaighte",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sophia Dunkley",
+              "bowler": "Lily Bassingthwaighte",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Sophia Dunkley",
+              "bowler": "Orla Prendergast",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sophia Dunkley",
+              "bowler": "Orla Prendergast",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sophia Dunkley",
+              "bowler": "Orla Prendergast",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sophia Dunkley",
+              "bowler": "Orla Prendergast",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sophia Dunkley",
+              "bowler": "Orla Prendergast",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sophia Dunkley",
+              "bowler": "Orla Prendergast",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Sophia Dunkley",
+              "bowler": "Lily Bassingthwaighte",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Sophia Dunkley",
+              "bowler": "Lily Bassingthwaighte",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sophia Dunkley",
+              "bowler": "Lily Bassingthwaighte",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Lily Bassingthwaighte",
+              "non_striker": "Sophia Dunkley",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Lily Bassingthwaighte",
+              "non_striker": "Sophia Dunkley",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Lily Bassingthwaighte",
+              "non_striker": "Sophia Dunkley",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Sophia Dunkley",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sophia Dunkley",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sophia Dunkley",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Sophia Dunkley",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Sophia Dunkley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Sophia Dunkley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Ayaka Kato-Stafford",
+              "non_striker": "Sophia Dunkley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sophia Dunkley",
+              "bowler": "Ayaka Kato-Stafford",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Ayaka Kato-Stafford",
+              "non_striker": "Sophia Dunkley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sophia Dunkley",
+              "bowler": "Ayaka Kato-Stafford",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sophia Dunkley",
+              "bowler": "Ayaka Kato-Stafford",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sophia Dunkley",
+              "bowler": "Ayaka Kato-Stafford",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Sophia Dunkley",
+              "bowler": "Sianna Ginger",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sophia Dunkley",
+              "bowler": "Sianna Ginger",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Sophia Dunkley",
+                  "fielders": [
+                    {
+                      "name": "Orla Prendergast"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Melie Kerr",
+              "bowler": "Sianna Ginger",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Melie Kerr",
+              "bowler": "Sianna Ginger",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Sianna Ginger",
+              "non_striker": "Melie Kerr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Sianna Ginger",
+              "non_striker": "Melie Kerr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Melie Kerr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Melie Kerr",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Melie Kerr",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Melie Kerr",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Melie Kerr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Melie Kerr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Melie Kerr",
+              "bowler": "Sianna Ginger",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Sianna Ginger",
+              "non_striker": "Melie Kerr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Melie Kerr",
+              "bowler": "Sianna Ginger",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Melie Kerr",
+              "bowler": "Sianna Ginger",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Sianna Ginger",
+              "non_striker": "Melie Kerr",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Sianna Ginger",
+              "non_striker": "Melie Kerr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Charli Knott",
+              "non_striker": "Melie Kerr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Melie Kerr",
+              "bowler": "Charli Knott",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Charli Knott",
+              "non_striker": "Melie Kerr",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Charli Knott",
+              "non_striker": "Melie Kerr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Melie Kerr",
+              "bowler": "Charli Knott",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Melie Kerr",
+              "bowler": "Charli Knott",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Melie Kerr",
+              "bowler": "Lucy Hamilton",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Melie Kerr",
+              "bowler": "Lucy Hamilton",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Melie Kerr",
+              "bowler": "Lucy Hamilton",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Melie Kerr",
+              "bowler": "Lucy Hamilton",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Lucy Hamilton",
+              "non_striker": "Melie Kerr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Lucy Hamilton",
+              "non_striker": "Melie Kerr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Melie Kerr",
+              "bowler": "Orla Prendergast",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Melie Kerr",
+              "bowler": "Orla Prendergast",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Melie Kerr",
+              "bowler": "Orla Prendergast",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Melie Kerr",
+              "bowler": "Orla Prendergast",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Orla Prendergast",
+              "non_striker": "Melie Kerr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Orla Prendergast",
+              "non_striker": "Melie Kerr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Lucy Hamilton",
+              "non_striker": "Melie Kerr",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Lucy Hamilton",
+              "non_striker": "Melie Kerr",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Lucy Hamilton",
+              "non_striker": "Melie Kerr",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Lucy Hamilton",
+              "non_striker": "Melie Kerr",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Lucy Hamilton",
+              "non_striker": "Melie Kerr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Lucy Hamilton",
+              "non_striker": "Melie Kerr",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Lucy Hamilton",
+              "non_striker": "Melie Kerr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Sianna Ginger",
+              "non_striker": "Melie Kerr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Melie Kerr",
+              "bowler": "Sianna Ginger",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Melie Kerr"
+                }
+              ]
+            },
+            {
+              "batter": "Ashleigh Gardner",
+              "bowler": "Sianna Ginger",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ashleigh Gardner",
+              "bowler": "Sianna Ginger",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Sianna Ginger",
+              "non_striker": "Ashleigh Gardner",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Sianna Ginger",
+              "non_striker": "Ashleigh Gardner",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Ashleigh Gardner",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Ashleigh Gardner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ashleigh Gardner",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Ashleigh Gardner",
+                  "fielders": [
+                    {
+                      "name": "Ayaka Kato-Stafford"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Alice Capsey",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Alice Capsey",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Alice Capsey",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Alice Capsey",
+              "bowler": "Charli Knott",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Charli Knott",
+              "non_striker": "Alice Capsey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Ellyse Perry",
+                  "fielders": [
+                    {
+                      "name": "Ayaka Kato-Stafford"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Eva Ragg",
+              "bowler": "Charli Knott",
+              "non_striker": "Alice Capsey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Eva Ragg",
+              "bowler": "Charli Knott",
+              "non_striker": "Alice Capsey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Eva Ragg",
+              "bowler": "Charli Knott",
+              "non_striker": "Alice Capsey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Alice Capsey",
+              "bowler": "Charli Knott",
+              "non_striker": "Eva Ragg",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Eva Ragg",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Alice Capsey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Alice Capsey",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Eva Ragg",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Eva Ragg",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Alice Capsey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Alice Capsey",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Eva Ragg",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Alice Capsey",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Eva Ragg",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Eva Ragg",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Alice Capsey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Eva Ragg",
+              "bowler": "Charli Knott",
+              "non_striker": "Alice Capsey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Eva Ragg",
+                  "fielders": [
+                    {
+                      "name": "Georgia Redmayne"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Erin Burns",
+              "bowler": "Charli Knott",
+              "non_striker": "Alice Capsey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Alice Capsey",
+              "bowler": "Charli Knott",
+              "non_striker": "Erin Burns",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Alice Capsey",
+              "bowler": "Charli Knott",
+              "non_striker": "Erin Burns",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Alice Capsey",
+              "bowler": "Charli Knott",
+              "non_striker": "Erin Burns",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Erin Burns",
+              "bowler": "Charli Knott",
+              "non_striker": "Alice Capsey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Erin Burns",
+              "bowler": "Sianna Ginger",
+              "non_striker": "Alice Capsey",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Erin Burns",
+              "bowler": "Sianna Ginger",
+              "non_striker": "Alice Capsey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Alice Capsey",
+              "bowler": "Sianna Ginger",
+              "non_striker": "Erin Burns",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Erin Burns",
+              "bowler": "Sianna Ginger",
+              "non_striker": "Alice Capsey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Erin Burns",
+              "bowler": "Sianna Ginger",
+              "non_striker": "Alice Capsey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Erin Burns",
+              "bowler": "Sianna Ginger",
+              "non_striker": "Alice Capsey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Erin Burns",
+              "bowler": "Lucy Hamilton",
+              "non_striker": "Alice Capsey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Erin Burns",
+              "bowler": "Lucy Hamilton",
+              "non_striker": "Alice Capsey",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "legbyes": 1
+              }
+            },
+            {
+              "batter": "Alice Capsey",
+              "bowler": "Lucy Hamilton",
+              "non_striker": "Erin Burns",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Alice Capsey",
+              "bowler": "Lucy Hamilton",
+              "non_striker": "Erin Burns",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Erin Burns",
+              "bowler": "Lucy Hamilton",
+              "non_striker": "Alice Capsey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "Erin Burns",
+                  "fielders": [
+                    {
+                      "name": "Sianna Ginger"
+                    },
+                    {
+                      "name": "Georgia Redmayne"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Sarah Coyte",
+              "bowler": "Lucy Hamilton",
+              "non_striker": "Alice Capsey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
