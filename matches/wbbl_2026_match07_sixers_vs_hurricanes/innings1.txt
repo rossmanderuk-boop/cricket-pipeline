@@ -1,0 +1,262 @@
+0.1
+Henry to Dunkley, no run
+0.2
+Henry to Dunkley, OUT
+Sophia Dunkley c Athapaththu b Henry 0 (2b 0x4 0x6 2m) SR: 0
+0.3
+Henry to Melie Kerr, 1 run
+0.4
+Henry to Perry, no run
+0.5
+Henry to Perry, 2 runs
+0.6
+Henry to Perry, 1 run
+1.1
+Carey to Perry, no run
+1.2
+Carey to Perry, OUT
+Ellyse Perry c Smith b Carey 3 (5b 0x4 0x6 8m) SR: 60
+1.3
+Carey to Gardner, no run
+1.4
+Carey to Gardner, no run
+1.5
+Carey to Gardner, no run
+1.6
+Carey to Gardner, 1 run
+2.1
+Henry to Gardner, 1 run
+2.2
+Henry to Melie Kerr, no run
+2.3
+Henry to Melie Kerr, OUT
+Melie Kerr c Green b Henry 1 (3b 0x4 0x6 11m) SR: 33.33
+2.4
+Henry to Capsey, 1 run
+2.5
+Henry to Gardner, no run
+2.6
+Henry to Gardner, 2 runs
+3.1
+Carey to Capsey, 1 run
+3.2
+Carey to Gardner, no run
+3.3
+Carey to Gardner, no run
+3.4
+Carey to Gardner, FOUR runs
+3.5
+Carey to Gardner, no run
+3.6
+Carey to Gardner, 1 wide
+3.6
+Carey to Gardner, no run
+4.1
+Graham to Capsey, 1 run
+4.2
+Graham to Gardner, 1 run
+4.3
+Graham to Capsey, FOUR runs
+4.4
+Graham to Capsey, 1 run
+4.5
+Graham to Gardner, 1 run
+4.6
+Graham to Capsey, 1 run
+5.1
+Malgioglio to Capsey, 1 run
+5.2
+Malgioglio to Gardner, 1 run
+5.3
+Malgioglio to Capsey, no run
+5.4
+Malgioglio to Capsey, no run
+5.5
+Malgioglio to Capsey, no run
+5.6
+Malgioglio to Capsey, 1 run
+6.1
+Silver-Holmes to Capsey, 1 run
+6.2
+Silver-Holmes to Gardner, 1 run
+6.3
+Silver-Holmes to Capsey, 1 wide
+6.3
+Silver-Holmes to Capsey, 1 run
+6.4
+Silver-Holmes to Gardner, SIX runs
+6.5
+Silver-Holmes to Gardner, no run
+6.6
+Silver-Holmes to Gardner, 1 run
+7.1
+Lauren Smith to Gardner, 2 runs
+7.2
+Lauren Smith to Gardner, FOUR runs
+7.3
+Lauren Smith to Gardner, FOUR runs
+7.4
+Lauren Smith to Gardner, 1 run
+7.5
+Lauren Smith to Capsey, 1 run
+7.6
+Lauren Smith to Gardner, no run
+8.1
+Strano to Capsey, FOUR runs
+8.2
+Strano to Capsey, 1 run
+8.3
+Strano to Gardner, 1 run
+8.4
+Strano to Capsey, 1 run
+8.5
+Strano to Gardner, 1 run
+8.6
+Strano to Capsey, no run
+9.1
+Malgioglio to Gardner, no run
+9.2
+Malgioglio to Gardner, SIX runs
+9.3
+Malgioglio to Gardner, SIX runs
+9.4
+Malgioglio to Gardner, 1 run
+9.5
+Malgioglio to Capsey, 1 run
+9.6
+Malgioglio to Gardner, 1 run
+10.1
+Graham to Gardner, 1 wide
+10.1
+Graham to Gardner, 1 run
+10.2
+Graham to Capsey, 1 run
+10.3
+Graham to Gardner, 2 runs
+10.4
+Graham to Gardner, FOUR runs
+10.5
+Graham to Gardner, 2 runs
+10.6
+Graham to Gardner, no run
+11.1
+Lauren Smith to Capsey, 1 leg bye
+11.2
+Lauren Smith to Gardner, 1 run
+11.3
+Lauren Smith to Capsey, 1 run
+11.4
+Lauren Smith to Gardner, 1 run
+11.5
+Lauren Smith to Capsey, 1 run
+11.6
+Lauren Smith to Gardner, FOUR runs
+12.1
+Strano to Capsey, 1 run
+12.2
+Strano to Gardner, 1 run
+12.3
+Strano to Capsey, 1 run
+12.4
+Strano to Gardner, SIX runs
+12.5
+Strano to Gardner, 1 wide
+12.5
+Strano to Gardner, SIX runs
+12.6
+Strano to Gardner, 1 run
+13.1
+Silver-Holmes to Gardner, no run
+13.2
+Silver-Holmes to Gardner, 1 wide
+13.2
+Silver-Holmes to Gardner, FOUR runs
+13.3
+Silver-Holmes to Gardner, SIX runs
+13.4
+Silver-Holmes to Gardner, FOUR runs
+13.5
+Silver-Holmes to Gardner, 2 runs
+13.6
+Silver-Holmes to Gardner, FOUR runs
+14.1
+Graham to Capsey, SIX runs
+14.2
+Graham to Capsey, FOUR runs
+14.3
+Graham to Capsey, 1 run
+14.4
+Graham to Gardner, FOUR runs
+14.5
+Graham to Gardner, 1 run
+14.6
+Graham to Capsey, 1 run
+15.1
+Lauren Smith to Capsey, 1 run
+15.2
+Lauren Smith to Gardner, no run
+15.3
+Lauren Smith to Gardner, 1 run
+15.4
+Lauren Smith to Capsey, no run
+15.5
+Lauren Smith to Capsey, 1 run
+15.6
+Lauren Smith to Gardner, SIX runs
+16.1
+Carey to Capsey, 1 wide
+16.1
+Carey to Capsey, FOUR runs
+16.2
+Carey to Capsey, 1 run
+16.3
+Carey to Gardner, SIX runs
+16.4
+Carey to Gardner, SIX runs
+16.5
+Carey to Gardner, 1 run
+16.6
+Carey to Capsey, 1 run
+17.1
+Graham to Capsey, 1 run
+17.2
+Graham to Gardner, FOUR runs
+17.3
+Graham to Gardner, no run
+17.4
+Graham to Gardner, OUT
+Ashleigh Gardner c Henry b Graham 124 (60b 10x4 9x6 71m) SR: 206.66
+17.5
+Graham to Ragg, 2 runs
+17.6
+Graham to Ragg, 1 leg bye
+18.1
+Carey to Ragg, 1 run
+18.2
+Carey to Capsey, 1 run
+18.3
+Carey to Ragg, OUT
+Eva Ragg c Henry b Carey 3 (4b 0x4 0x6 4m) SR: 75
+18.4
+Carey to Burns, 1 wide
+18.4
+Carey to Burns, OUT
+Erin Burns lbw b Carey 0 (1b 0x4 0x6 1m) SR: 0
+18.5
+Carey to Cheatle, no run
+18.6
+Carey to Cheatle, 1 run
+19.1
+Strano to Cheatle, OUT
+Lauren Cheatle c Smith b Strano 1 (3b 0x4 0x6 3m) SR: 33.33
+19.2
+Strano to Coyte, OUT
+Sarah Coyte c Smith b Strano 0 (1b 0x4 0x6 1m) SR: 0
+19.3
+Strano to Bray, 1 run
+19.4
+Strano to Capsey, 2 runs
+19.5
+Strano to Capsey, no run
+19.6
+Strano to Capsey, FOUR runs
