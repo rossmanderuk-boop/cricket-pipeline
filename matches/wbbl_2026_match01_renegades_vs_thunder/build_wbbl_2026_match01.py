@@ -1,5 +1,5 @@
 """
-build_wbbl_2026_renegades_vs_thunder.py - Women's Big Bash League 2026/27,
+build_wbbl_2026_match01.py - Women's Big Bash League 2026/27,
 Melbourne Renegades Women vs Sydney Thunder Women, Junction Oval, Melbourne, 2026-10-29.
 """
 
@@ -61,7 +61,7 @@ MATCH_INFO = {
     'balls_per_over': 6,
     'city': 'Melbourne',
     'dates': ['2026-10-29'],
-    'event': {'name': "Women's Big Bash League"},  # match number not given in scorecard
+    'event': {'name': "Women's Big Bash League", 'match_number': 1},
     'gender': 'female',
     'match_type': 'T20',
     'outcome': {'winner': 'Sydney Thunder Women', 'by': {'wickets': 6}},
@@ -191,5 +191,5 @@ def build_match_json(out_path):
 
 
 if __name__ == '__main__':
-    out = os.path.join(_HERE, 'wbbl_2026_renegades_vs_thunder.json')
+    out = os.path.join(_HERE, 'wbbl_2026_match01_renegades_vs_thunder.json')
     build_match_json(out)

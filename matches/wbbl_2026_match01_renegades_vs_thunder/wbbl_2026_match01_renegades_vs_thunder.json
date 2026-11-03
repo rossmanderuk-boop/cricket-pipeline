@@ -11,7 +11,8 @@
       "2026-10-29"
     ],
     "event": {
-      "name": "Women's Big Bash League"
+      "name": "Women's Big Bash League",
+      "match_number": 1
     },
     "gender": "female",
     "match_type": "T20",

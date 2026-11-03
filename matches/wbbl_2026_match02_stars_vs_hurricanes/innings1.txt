@@ -1,0 +1,260 @@
+0.1
+Strano to McKenna, 1 leg bye
+0.2
+Strano to Lanning, 1 run
+0.3
+Strano to McKenna, FOUR runs
+0.4
+Strano to McKenna, no run
+0.5
+Strano to McKenna, FOUR runs
+0.6
+Strano to McKenna, no run
+1.1
+Carey to Lanning, FOUR runs
+1.2
+Carey to Lanning, no run
+1.3
+Carey to Lanning, 2 runs
+1.4
+Carey to Lanning, no run
+1.5
+Carey to Lanning, no run
+1.6
+Carey to Lanning, FOUR runs
+2.1
+Henry to McKenna, 1 run
+2.2
+Henry to Lanning, 1 run
+2.3
+Henry to McKenna, FOUR runs
+2.4
+Henry to McKenna, no run
+2.5
+Henry to McKenna, no run
+2.6
+Henry to McKenna, OUT
+Rhys McKenna c Johnston b Henry 13 (10b 3x4 0x6 11m) SR: 130
+3.1
+Carey to Lanning, FOUR runs
+3.2
+Carey to Lanning, FOUR runs
+3.3
+Carey to Lanning, FOUR runs
+3.4
+Carey to Lanning, no run
+3.5
+Carey to Lanning, 1 wide
+3.5
+Carey to Lanning, no run
+3.6
+Carey to Lanning, 1 run
+4.1
+Henry to Lanning, 1 run
+4.2
+Henry to Amy Jones, no run
+4.3
+Henry to Amy Jones, no run
+4.4
+Henry to Amy Jones, 1 run
+4.5
+Henry to Lanning, no run
+4.6
+Henry to Lanning, 1 run
+5.1
+Graham to Lanning, 1 run
+5.2
+Graham to Amy Jones, 1 run
+5.3
+Graham to Lanning, 1 run
+5.4
+Graham to Amy Jones, FOUR runs
+5.5
+Graham to Amy Jones, 1 run
+5.6
+Graham to Lanning, no run
+6.1
+Lauren Smith to Amy Jones, OUT
+Amy Jones st †Lee b Smith 7 (7b 1x4 0x6 13m) SR: 100
+6.2
+Lauren Smith to Sutherland, 1 run
+6.3
+Lauren Smith to Lanning, 2 runs
+6.4
+Lauren Smith to Lanning, no run
+6.5
+Lauren Smith to Lanning, no run
+6.6
+Lauren Smith to Lanning, no run
+7.1
+Strano to Sutherland, no run
+7.2
+Strano to Sutherland, no run
+7.3
+Strano to Sutherland, 2 runs
+7.4
+Strano to Sutherland, 2 runs
+7.5
+Strano to Sutherland, no run
+7.6
+Strano to Sutherland, 1 run
+8.1
+Graham to Sutherland, 1 run
+8.2
+Graham to Lanning, 1 run
+8.3
+Graham to Sutherland, 1 run
+8.4
+Graham to Lanning, 1 run
+8.5
+Graham to Sutherland, 1 run
+8.6
+Graham to Lanning, 1 wide
+8.6
+Graham to Lanning, no run
+9.1
+Aery to Sutherland, 1 wide
+9.1
+Aery to Sutherland, no run
+9.2
+Aery to Sutherland, 1 run
+9.3
+Aery to Lanning, 1 run
+9.4
+Aery to Sutherland, 1 run
+9.5
+Aery to Lanning, 1 run
+9.6
+Aery to Sutherland, 1 run
+10.1
+Lauren Smith to Sutherland, 1 run
+10.2
+Lauren Smith to Lanning, 1 run
+10.3
+Lauren Smith to Sutherland, FOUR runs
+10.4
+Lauren Smith to Sutherland, 1 run
+10.5
+Lauren Smith to Lanning, 2 runs
+10.6
+Lauren Smith to Lanning, FOUR runs
+11.1
+Henry to Sutherland, 1 wide
+11.1
+Henry to Sutherland, 1 run
+11.2
+Henry to Lanning, 1 run
+11.3
+Henry to Sutherland, 2 wide
+11.3
+Henry to Lanning, 2 runs
+11.4
+Henry to Lanning, FOUR runs
+11.5
+Henry to Lanning, FOUR runs
+11.6
+Henry to Lanning, 1 run
+12.1
+Strano to Lanning, 1 run
+12.2
+Strano to Sutherland, FOUR runs
+12.3
+Strano to Sutherland, no run
+12.4
+Strano to Sutherland, 1 run
+12.5
+Strano to Lanning, 1 run
+12.6
+Strano to Sutherland, 2 runs
+13.1
+Aery to Lanning, 1 wide
+13.1
+Aery to Lanning, FOUR runs
+13.2
+Aery to Lanning, no run
+13.3
+Aery to Lanning, 5 wide
+13.3
+Aery to Lanning, 2 runs
+13.4
+Aery to Lanning, 1 run
+13.5
+Aery to Sutherland, FOUR runs
+13.6
+Aery to Sutherland, 1 run
+14.1
+Lauren Smith to Sutherland, 1 run
+14.2
+Lauren Smith to Lanning, no run
+14.3
+Lauren Smith to Lanning, 1 run
+14.4
+Lauren Smith to Sutherland, no run
+14.5
+Lauren Smith to Sutherland, 1 run
+14.6
+Lauren Smith to Lanning, 1 run
+15.1
+Graham to Lanning, 1 run
+15.2
+Graham to Sutherland, 2 runs
+15.3
+Graham to Sutherland, SIX runs
+15.4
+Graham to Sutherland, 1 run
+15.5
+Graham to Lanning, no run
+15.6
+Graham to Lanning, 2 leg byes
+16.1
+Carey to Sutherland, 1 wide
+16.1
+Carey to Sutherland, FOUR runs
+16.2
+Carey to Sutherland, 1 run
+16.3
+Carey to Lanning, FOUR runs
+16.4
+Carey to Lanning, 1 run
+16.5
+Carey to Sutherland, no run
+16.6
+Carey to Sutherland, SIX runs
+17.1
+Graham to Lanning, OUT
+Meg Lanning lbw b Graham 71 (52b 10x4 0x6 76m) SR: 136.53
+17.2
+Graham to Gibson, 1 run
+17.3
+Graham to Sutherland, FOUR runs
+17.4
+Graham to Sutherland, OUT
+Annabel Sutherland lbw b Graham 57 (36b 5x4 2x6 55m) SR: 158.33
+17.5
+Graham to Garth, 1 run
+17.6
+Graham to Gibson, 1 run
+18.1
+Lauren Smith to Gibson, no run
+18.2
+Lauren Smith to Gibson, 1 run
+18.3
+Lauren Smith to Garth, 3 runs
+18.4
+Lauren Smith to Gibson, FOUR runs
+18.5
+Lauren Smith to Gibson, 1 run
+18.6
+Lauren Smith to Garth, 1 run
+19.1
+Strano to Garth, 1 run
+19.2
+Strano to Gibson, 2 runs
+19.3
+Strano to Gibson, no run
+19.4
+Strano to Gibson, SIX runs
+19.5
+Strano to Gibson, FOUR runs
+19.6
+Strano to Gibson, 2 runs
