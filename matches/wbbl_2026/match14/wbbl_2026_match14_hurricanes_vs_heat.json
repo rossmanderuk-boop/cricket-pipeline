@@ -1,0 +1,2852 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "revision": 1,
+    "source_note": "Reconstructed from ball-by-ball commentary + scorecard. Not an official Cricsheet file. Cross-validate all figures against the scorecard before use."
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Brisbane",
+    "dates": [
+      "2026-11-07"
+    ],
+    "event": {
+      "name": "Women's Big Bash League",
+      "match_number": 14
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "outcome": {
+      "winner": "Brisbane Heat Women",
+      "by": {
+        "wickets": 4
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Lily Bassingthwaighte"
+    ],
+    "season": "2026/27",
+    "team_type": "club",
+    "toss": {
+      "winner": "Brisbane Heat Women",
+      "decision": "field"
+    },
+    "venue": "Allan Border Field, Brisbane",
+    "officials": {
+      "umpires": [
+        "Kylie White",
+        "Riki Wessels"
+      ],
+      "tv_umpires": [
+        "Stephen Dionysius"
+      ],
+      "reserve_umpires": [
+        "Nathan James"
+      ],
+      "match_referees": [
+        "Joanne Broadbent"
+      ]
+    },
+    "players": {
+      "Hobart Hurricanes Women": [
+        "Lizelle Lee",
+        "Kate Pelle",
+        "Chamari Athapaththu",
+        "Rachel Trenaman",
+        "Heather Graham",
+        "Maddy Green",
+        "Chinelle Henry",
+        "Hayley Silver-Holmes",
+        "Molly Strano",
+        "Lauren Smith",
+        "Isabella Malgioglio"
+      ],
+      "Brisbane Heat Women": [
+        "Charli Knott",
+        "Grace Harris",
+        "Yastika Bhatia",
+        "Orla Prendergast",
+        "Georgia Redmayne",
+        "Lucy Hamilton",
+        "Annie O'Neil",
+        "Sianna Ginger",
+        "Sarah Glenn",
+        "Lily Bassingthwaighte",
+        "Catherine White"
+      ]
+    },
+    "registry": {
+      "people": {}
+    },
+    "teams": [
+      "Hobart Hurricanes Women",
+      "Brisbane Heat Women"
+    ]
+  },
+  "innings": [
+    {
+      "team": "Hobart Hurricanes Women",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Lizelle Lee",
+              "bowler": "Charli Knott",
+              "non_striker": "Lizelle Lee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kate Pelle",
+              "bowler": "Charli Knott",
+              "non_striker": "Lizelle Lee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Lizelle Lee",
+              "bowler": "Charli Knott",
+              "non_striker": "Kate Pelle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kate Pelle",
+              "bowler": "Charli Knott",
+              "non_striker": "Lizelle Lee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kate Pelle",
+              "bowler": "Charli Knott",
+              "non_striker": "Lizelle Lee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Lizelle Lee",
+              "bowler": "Charli Knott",
+              "non_striker": "Kate Pelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Kate Pelle",
+              "bowler": "Lily Bassingthwaighte",
+              "non_striker": "Lizelle Lee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Lizelle Lee",
+              "bowler": "Lily Bassingthwaighte",
+              "non_striker": "Kate Pelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Lizelle Lee",
+              "bowler": "Lily Bassingthwaighte",
+              "non_striker": "Kate Pelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Lizelle Lee",
+              "bowler": "Lily Bassingthwaighte",
+              "non_striker": "Kate Pelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Lizelle Lee",
+              "bowler": "Lily Bassingthwaighte",
+              "non_striker": "Kate Pelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught and bowled",
+                  "player_out": "Lizelle Lee"
+                }
+              ]
+            },
+            {
+              "batter": "Chamari Athapaththu",
+              "bowler": "Lily Bassingthwaighte",
+              "non_striker": "Kate Pelle",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Chamari Athapaththu",
+              "bowler": "Lily Bassingthwaighte",
+              "non_striker": "Kate Pelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Chamari Athapaththu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Kate Pelle",
+              "bowler": "Lucy Hamilton",
+              "non_striker": "Kate Pelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kate Pelle",
+              "bowler": "Lucy Hamilton",
+              "non_striker": "Kate Pelle",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Kate Pelle",
+              "bowler": "Lucy Hamilton",
+              "non_striker": "Kate Pelle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rachel Trenaman",
+              "bowler": "Lucy Hamilton",
+              "non_striker": "Kate Pelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rachel Trenaman",
+              "bowler": "Lucy Hamilton",
+              "non_striker": "Kate Pelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rachel Trenaman",
+              "bowler": "Lucy Hamilton",
+              "non_striker": "Kate Pelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Kate Pelle",
+              "bowler": "Lily Bassingthwaighte",
+              "non_striker": "Rachel Trenaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rachel Trenaman",
+              "bowler": "Lily Bassingthwaighte",
+              "non_striker": "Kate Pelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rachel Trenaman",
+              "bowler": "Lily Bassingthwaighte",
+              "non_striker": "Kate Pelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rachel Trenaman",
+              "bowler": "Lily Bassingthwaighte",
+              "non_striker": "Kate Pelle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kate Pelle",
+              "bowler": "Lily Bassingthwaighte",
+              "non_striker": "Rachel Trenaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Kate Pelle",
+                  "fielders": [
+                    {
+                      "name": "Charli Knott"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Heather Graham",
+              "bowler": "Lily Bassingthwaighte",
+              "non_striker": "Rachel Trenaman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Heather Graham",
+              "bowler": "Lily Bassingthwaighte",
+              "non_striker": "Rachel Trenaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Rachel Trenaman",
+              "bowler": "Orla Prendergast",
+              "non_striker": "Heather Graham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Heather Graham",
+              "bowler": "Orla Prendergast",
+              "non_striker": "Rachel Trenaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Heather Graham",
+              "bowler": "Orla Prendergast",
+              "non_striker": "Rachel Trenaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rachel Trenaman",
+              "bowler": "Orla Prendergast",
+              "non_striker": "Heather Graham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Heather Graham",
+              "bowler": "Orla Prendergast",
+              "non_striker": "Rachel Trenaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rachel Trenaman",
+              "bowler": "Orla Prendergast",
+              "non_striker": "Heather Graham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Rachel Trenaman",
+              "bowler": "Lily Bassingthwaighte",
+              "non_striker": "Heather Graham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rachel Trenaman",
+              "bowler": "Lily Bassingthwaighte",
+              "non_striker": "Heather Graham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Heather Graham",
+              "bowler": "Lily Bassingthwaighte",
+              "non_striker": "Rachel Trenaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rachel Trenaman",
+              "bowler": "Lily Bassingthwaighte",
+              "non_striker": "Heather Graham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rachel Trenaman",
+              "bowler": "Lily Bassingthwaighte",
+              "non_striker": "Heather Graham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Heather Graham",
+              "bowler": "Lily Bassingthwaighte",
+              "non_striker": "Rachel Trenaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Heather Graham",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Rachel Trenaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Heather Graham",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Rachel Trenaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rachel Trenaman",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Heather Graham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rachel Trenaman",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Heather Graham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Heather Graham",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Rachel Trenaman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Heather Graham",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Rachel Trenaman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Heather Graham",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Rachel Trenaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Heather Graham",
+              "bowler": "Catherine White",
+              "non_striker": "Rachel Trenaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Heather Graham",
+              "bowler": "Catherine White",
+              "non_striker": "Rachel Trenaman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Heather Graham",
+              "bowler": "Catherine White",
+              "non_striker": "Rachel Trenaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rachel Trenaman",
+              "bowler": "Catherine White",
+              "non_striker": "Heather Graham",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Rachel Trenaman",
+              "bowler": "Catherine White",
+              "non_striker": "Heather Graham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Heather Graham",
+              "bowler": "Catherine White",
+              "non_striker": "Rachel Trenaman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Heather Graham",
+              "bowler": "Catherine White",
+              "non_striker": "Rachel Trenaman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Heather Graham",
+              "bowler": "Catherine White",
+              "non_striker": "Rachel Trenaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rachel Trenaman",
+              "bowler": "Catherine White",
+              "non_striker": "Heather Graham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Rachel Trenaman",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Heather Graham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Heather Graham",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Rachel Trenaman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Heather Graham",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Rachel Trenaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rachel Trenaman",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Heather Graham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Heather Graham",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Rachel Trenaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rachel Trenaman",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Heather Graham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Heather Graham",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Rachel Trenaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Heather Graham",
+              "bowler": "Charli Knott",
+              "non_striker": "Rachel Trenaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rachel Trenaman",
+              "bowler": "Charli Knott",
+              "non_striker": "Heather Graham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Heather Graham",
+              "bowler": "Charli Knott",
+              "non_striker": "Rachel Trenaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rachel Trenaman",
+              "bowler": "Charli Knott",
+              "non_striker": "Heather Graham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Heather Graham",
+              "bowler": "Charli Knott",
+              "non_striker": "Rachel Trenaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rachel Trenaman",
+              "bowler": "Charli Knott",
+              "non_striker": "Heather Graham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Rachel Trenaman",
+              "bowler": "Lucy Hamilton",
+              "non_striker": "Heather Graham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rachel Trenaman",
+              "bowler": "Lucy Hamilton",
+              "non_striker": "Heather Graham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Heather Graham",
+              "bowler": "Lucy Hamilton",
+              "non_striker": "Rachel Trenaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Heather Graham",
+              "bowler": "Lucy Hamilton",
+              "non_striker": "Rachel Trenaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rachel Trenaman",
+              "bowler": "Lucy Hamilton",
+              "non_striker": "Heather Graham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Heather Graham",
+              "bowler": "Lucy Hamilton",
+              "non_striker": "Rachel Trenaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Heather Graham"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Rachel Trenaman",
+              "bowler": "Lily Bassingthwaighte",
+              "non_striker": "Rachel Trenaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rachel Trenaman",
+              "bowler": "Lily Bassingthwaighte",
+              "non_striker": "Rachel Trenaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rachel Trenaman",
+              "bowler": "Lily Bassingthwaighte",
+              "non_striker": "Rachel Trenaman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Rachel Trenaman",
+              "bowler": "Lily Bassingthwaighte",
+              "non_striker": "Rachel Trenaman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rachel Trenaman",
+              "bowler": "Lily Bassingthwaighte",
+              "non_striker": "Rachel Trenaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Maddy Green",
+              "bowler": "Lily Bassingthwaighte",
+              "non_striker": "Rachel Trenaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Rachel Trenaman",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Maddy Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Maddy Green",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Rachel Trenaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rachel Trenaman",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Maddy Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Rachel Trenaman"
+                }
+              ]
+            },
+            {
+              "batter": "Chinelle Henry",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Maddy Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Maddy Green",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Chinelle Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Maddy Green",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Chinelle Henry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Maddy Green",
+              "bowler": "Orla Prendergast",
+              "non_striker": "Chinelle Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Maddy Green",
+              "bowler": "Orla Prendergast",
+              "non_striker": "Chinelle Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Maddy Green",
+              "bowler": "Orla Prendergast",
+              "non_striker": "Chinelle Henry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Chinelle Henry",
+              "bowler": "Orla Prendergast",
+              "non_striker": "Maddy Green",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              },
+              "extras": {
+                "byes": 4
+              }
+            },
+            {
+              "batter": "Chinelle Henry",
+              "bowler": "Orla Prendergast",
+              "non_striker": "Maddy Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Chinelle Henry",
+                  "fielders": [
+                    {
+                      "name": "Georgia Redmayne"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Hayley Silver-Holmes",
+              "bowler": "Orla Prendergast",
+              "non_striker": "Maddy Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Hayley Silver-Holmes",
+              "bowler": "Charli Knott",
+              "non_striker": "Maddy Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hayley Silver-Holmes",
+              "bowler": "Charli Knott",
+              "non_striker": "Maddy Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Maddy Green",
+              "bowler": "Charli Knott",
+              "non_striker": "Hayley Silver-Holmes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hayley Silver-Holmes",
+              "bowler": "Charli Knott",
+              "non_striker": "Maddy Green",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Hayley Silver-Holmes",
+              "bowler": "Charli Knott",
+              "non_striker": "Maddy Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Maddy Green",
+              "bowler": "Charli Knott",
+              "non_striker": "Hayley Silver-Holmes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Hayley Silver-Holmes",
+              "bowler": "Sianna Ginger",
+              "non_striker": "Maddy Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Maddy Green",
+              "bowler": "Sianna Ginger",
+              "non_striker": "Hayley Silver-Holmes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hayley Silver-Holmes",
+              "bowler": "Sianna Ginger",
+              "non_striker": "Maddy Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Maddy Green",
+              "bowler": "Sianna Ginger",
+              "non_striker": "Hayley Silver-Holmes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Maddy Green",
+              "bowler": "Sianna Ginger",
+              "non_striker": "Hayley Silver-Holmes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hayley Silver-Holmes",
+              "bowler": "Sianna Ginger",
+              "non_striker": "Maddy Green",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Hayley Silver-Holmes",
+              "bowler": "Sianna Ginger",
+              "non_striker": "Maddy Green",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Maddy Green",
+              "bowler": "Lucy Hamilton",
+              "non_striker": "Hayley Silver-Holmes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hayley Silver-Holmes",
+              "bowler": "Lucy Hamilton",
+              "non_striker": "Maddy Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Maddy Green",
+              "bowler": "Lucy Hamilton",
+              "non_striker": "Hayley Silver-Holmes",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Maddy Green",
+              "bowler": "Lucy Hamilton",
+              "non_striker": "Hayley Silver-Holmes",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Maddy Green",
+              "bowler": "Lucy Hamilton",
+              "non_striker": "Hayley Silver-Holmes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hayley Silver-Holmes",
+              "bowler": "Lucy Hamilton",
+              "non_striker": "Maddy Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Hayley Silver-Holmes",
+                  "fielders": [
+                    {
+                      "name": "Catherine White"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Maddy Green",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Maddy Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Molly Strano",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Maddy Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Maddy Green",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Molly Strano",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Molly Strano",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Maddy Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Maddy Green",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Molly Strano",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Molly Strano",
+              "bowler": "Sarah Glenn",
+              "non_striker": "Maddy Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Molly Strano",
+              "bowler": "Orla Prendergast",
+              "non_striker": "Maddy Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Maddy Green",
+              "bowler": "Orla Prendergast",
+              "non_striker": "Molly Strano",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Maddy Green",
+              "bowler": "Orla Prendergast",
+              "non_striker": "Molly Strano",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Molly Strano",
+              "bowler": "Orla Prendergast",
+              "non_striker": "Maddy Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Molly Strano",
+              "bowler": "Orla Prendergast",
+              "non_striker": "Maddy Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Maddy Green",
+              "bowler": "Orla Prendergast",
+              "non_striker": "Molly Strano",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Maddy Green",
+                  "fielders": [
+                    {
+                      "name": "Grace Harris"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Molly Strano",
+              "bowler": "Lucy Hamilton",
+              "non_striker": "Molly Strano",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Lauren Smith",
+              "bowler": "Lucy Hamilton",
+              "non_striker": "Molly Strano",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Lauren Smith"
+                }
+              ]
+            },
+            {
+              "batter": "Isabella Malgioglio",
+              "bowler": "Lucy Hamilton",
+              "non_striker": "Molly Strano",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Molly Strano",
+              "bowler": "Lucy Hamilton",
+              "non_striker": "Isabella Malgioglio",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Molly Strano",
+              "bowler": "Lucy Hamilton",
+              "non_striker": "Isabella Malgioglio",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Molly Strano",
+              "bowler": "Lucy Hamilton",
+              "non_striker": "Isabella Malgioglio",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "team": "Brisbane Heat Women",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Charli Knott",
+              "bowler": "Molly Strano",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Grace Harris",
+              "bowler": "Molly Strano",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Grace Harris",
+              "bowler": "Molly Strano",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Grace Harris",
+              "bowler": "Molly Strano",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Grace Harris",
+              "bowler": "Molly Strano",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Grace Harris",
+              "bowler": "Molly Strano",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Charli Knott",
+              "bowler": "Chinelle Henry",
+              "non_striker": "Grace Harris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Grace Harris",
+              "bowler": "Chinelle Henry",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Grace Harris",
+              "bowler": "Chinelle Henry",
+              "non_striker": "Charli Knott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Charli Knott",
+              "bowler": "Chinelle Henry",
+              "non_striker": "Grace Harris",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Charli Knott",
+              "bowler": "Chinelle Henry",
+              "non_striker": "Grace Harris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Charli Knott",
+                  "fielders": [
+                    {
+                      "name": "Lizelle Lee"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Yastika Bhatia",
+              "bowler": "Chinelle Henry",
+              "non_striker": "Grace Harris",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Yastika Bhatia",
+              "bowler": "Chinelle Henry",
+              "non_striker": "Grace Harris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Grace Harris",
+              "bowler": "Heather Graham",
+              "non_striker": "Yastika Bhatia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yastika Bhatia",
+              "bowler": "Heather Graham",
+              "non_striker": "Grace Harris",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Yastika Bhatia",
+              "bowler": "Heather Graham",
+              "non_striker": "Grace Harris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Grace Harris",
+              "bowler": "Heather Graham",
+              "non_striker": "Yastika Bhatia",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Grace Harris",
+              "bowler": "Heather Graham",
+              "non_striker": "Yastika Bhatia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Grace Harris",
+              "bowler": "Heather Graham",
+              "non_striker": "Yastika Bhatia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Grace Harris",
+              "bowler": "Chinelle Henry",
+              "non_striker": "Yastika Bhatia",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Grace Harris",
+              "bowler": "Chinelle Henry",
+              "non_striker": "Yastika Bhatia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yastika Bhatia",
+              "bowler": "Chinelle Henry",
+              "non_striker": "Grace Harris",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Yastika Bhatia",
+              "bowler": "Chinelle Henry",
+              "non_striker": "Grace Harris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Grace Harris",
+              "bowler": "Chinelle Henry",
+              "non_striker": "Yastika Bhatia",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Grace Harris",
+              "bowler": "Chinelle Henry",
+              "non_striker": "Yastika Bhatia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Yastika Bhatia",
+              "bowler": "Isabella Malgioglio",
+              "non_striker": "Grace Harris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Grace Harris",
+              "bowler": "Isabella Malgioglio",
+              "non_striker": "Yastika Bhatia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Grace Harris"
+                }
+              ]
+            },
+            {
+              "batter": "Orla Prendergast",
+              "bowler": "Isabella Malgioglio",
+              "non_striker": "Yastika Bhatia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Orla Prendergast",
+              "bowler": "Isabella Malgioglio",
+              "non_striker": "Yastika Bhatia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Orla Prendergast",
+              "bowler": "Isabella Malgioglio",
+              "non_striker": "Yastika Bhatia",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Orla Prendergast",
+              "bowler": "Isabella Malgioglio",
+              "non_striker": "Yastika Bhatia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Orla Prendergast",
+              "bowler": "Lauren Smith",
+              "non_striker": "Yastika Bhatia",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Orla Prendergast",
+              "bowler": "Lauren Smith",
+              "non_striker": "Yastika Bhatia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Orla Prendergast",
+              "bowler": "Lauren Smith",
+              "non_striker": "Yastika Bhatia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Orla Prendergast",
+              "bowler": "Lauren Smith",
+              "non_striker": "Yastika Bhatia",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Orla Prendergast",
+              "bowler": "Lauren Smith",
+              "non_striker": "Yastika Bhatia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Orla Prendergast",
+              "bowler": "Lauren Smith",
+              "non_striker": "Yastika Bhatia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yastika Bhatia",
+              "bowler": "Lauren Smith",
+              "non_striker": "Orla Prendergast",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Yastika Bhatia",
+              "bowler": "Hayley Silver-Holmes",
+              "non_striker": "Orla Prendergast",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Orla Prendergast",
+              "bowler": "Hayley Silver-Holmes",
+              "non_striker": "Yastika Bhatia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yastika Bhatia",
+              "bowler": "Hayley Silver-Holmes",
+              "non_striker": "Orla Prendergast",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yastika Bhatia",
+              "bowler": "Hayley Silver-Holmes",
+              "non_striker": "Orla Prendergast",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yastika Bhatia",
+              "bowler": "Hayley Silver-Holmes",
+              "non_striker": "Orla Prendergast",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yastika Bhatia",
+              "bowler": "Hayley Silver-Holmes",
+              "non_striker": "Orla Prendergast",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Orla Prendergast",
+              "bowler": "Heather Graham",
+              "non_striker": "Yastika Bhatia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Orla Prendergast"
+                }
+              ]
+            },
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Heather Graham",
+              "non_striker": "Yastika Bhatia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Heather Graham",
+              "non_striker": "Yastika Bhatia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yastika Bhatia",
+              "bowler": "Heather Graham",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yastika Bhatia",
+              "bowler": "Heather Graham",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yastika Bhatia",
+              "bowler": "Heather Graham",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Yastika Bhatia",
+              "bowler": "Molly Strano",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Yastika Bhatia",
+              "bowler": "Molly Strano",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yastika Bhatia",
+              "bowler": "Molly Strano",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yastika Bhatia",
+              "bowler": "Molly Strano",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Yastika Bhatia",
+              "bowler": "Molly Strano",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Molly Strano",
+              "non_striker": "Yastika Bhatia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Lauren Smith",
+              "non_striker": "Yastika Bhatia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yastika Bhatia",
+              "bowler": "Lauren Smith",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Lauren Smith",
+              "non_striker": "Yastika Bhatia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Georgia Redmayne",
+              "bowler": "Lauren Smith",
+              "non_striker": "Yastika Bhatia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yastika Bhatia",
+              "bowler": "Lauren Smith",
+              "non_striker": "Georgia Redmayne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "Georgia Redmayne",
+                  "fielders": [
+                    {
+                      "name": "Lauren Smith"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Yastika Bhatia",
+              "bowler": "Lauren Smith",
+              "non_striker": "Yastika Bhatia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "Yastika Bhatia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Lucy Hamilton",
+              "bowler": "Isabella Malgioglio",
+              "non_striker": "Lucy Hamilton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Annie O'Neil",
+              "bowler": "Isabella Malgioglio",
+              "non_striker": "Lucy Hamilton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Lucy Hamilton",
+              "bowler": "Isabella Malgioglio",
+              "non_striker": "Annie O'Neil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Annie O'Neil",
+              "bowler": "Isabella Malgioglio",
+              "non_striker": "Lucy Hamilton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Annie O'Neil",
+              "bowler": "Isabella Malgioglio",
+              "non_striker": "Lucy Hamilton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Annie O'Neil",
+              "bowler": "Isabella Malgioglio",
+              "non_striker": "Lucy Hamilton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Annie O'Neil",
+              "bowler": "Hayley Silver-Holmes",
+              "non_striker": "Lucy Hamilton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Annie O'Neil",
+              "bowler": "Hayley Silver-Holmes",
+              "non_striker": "Lucy Hamilton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Lucy Hamilton",
+              "bowler": "Hayley Silver-Holmes",
+              "non_striker": "Annie O'Neil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Lucy Hamilton",
+              "bowler": "Hayley Silver-Holmes",
+              "non_striker": "Annie O'Neil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Annie O'Neil",
+              "bowler": "Hayley Silver-Holmes",
+              "non_striker": "Lucy Hamilton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Lucy Hamilton",
+              "bowler": "Hayley Silver-Holmes",
+              "non_striker": "Annie O'Neil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Lucy Hamilton",
+              "bowler": "Lauren Smith",
+              "non_striker": "Annie O'Neil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Annie O'Neil",
+              "bowler": "Lauren Smith",
+              "non_striker": "Lucy Hamilton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Annie O'Neil",
+              "bowler": "Lauren Smith",
+              "non_striker": "Lucy Hamilton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Annie O'Neil",
+              "bowler": "Lauren Smith",
+              "non_striker": "Lucy Hamilton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Lucy Hamilton",
+              "bowler": "Lauren Smith",
+              "non_striker": "Annie O'Neil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Lucy Hamilton",
+              "bowler": "Lauren Smith",
+              "non_striker": "Annie O'Neil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Lucy Hamilton",
+              "bowler": "Isabella Malgioglio",
+              "non_striker": "Annie O'Neil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Annie O'Neil",
+              "bowler": "Isabella Malgioglio",
+              "non_striker": "Lucy Hamilton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Annie O'Neil",
+              "bowler": "Isabella Malgioglio",
+              "non_striker": "Lucy Hamilton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Lucy Hamilton",
+              "bowler": "Isabella Malgioglio",
+              "non_striker": "Annie O'Neil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Annie O'Neil",
+              "bowler": "Isabella Malgioglio",
+              "non_striker": "Lucy Hamilton",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Annie O'Neil",
+              "bowler": "Isabella Malgioglio",
+              "non_striker": "Lucy Hamilton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Annie O'Neil",
+              "bowler": "Heather Graham",
+              "non_striker": "Lucy Hamilton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Lucy Hamilton",
+              "bowler": "Heather Graham",
+              "non_striker": "Annie O'Neil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Lucy Hamilton",
+                  "fielders": [
+                    {
+                      "name": "Maddy Green"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Sianna Ginger",
+              "bowler": "Heather Graham",
+              "non_striker": "Annie O'Neil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Annie O'Neil",
+              "bowler": "Heather Graham",
+              "non_striker": "Sianna Ginger",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Annie O'Neil",
+              "bowler": "Heather Graham",
+              "non_striker": "Sianna Ginger",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Annie O'Neil",
+              "bowler": "Heather Graham",
+              "non_striker": "Sianna Ginger",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Sianna Ginger",
+              "bowler": "Hayley Silver-Holmes",
+              "non_striker": "Annie O'Neil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Annie O'Neil",
+              "bowler": "Hayley Silver-Holmes",
+              "non_striker": "Sianna Ginger",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Annie O'Neil",
+              "bowler": "Hayley Silver-Holmes",
+              "non_striker": "Sianna Ginger",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Annie O'Neil",
+              "bowler": "Hayley Silver-Holmes",
+              "non_striker": "Sianna Ginger",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Annie O'Neil",
+              "bowler": "Hayley Silver-Holmes",
+              "non_striker": "Sianna Ginger",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Annie O'Neil",
+              "bowler": "Hayley Silver-Holmes",
+              "non_striker": "Sianna Ginger",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Annie O'Neil",
+              "bowler": "Heather Graham",
+              "non_striker": "Sianna Ginger",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Annie O'Neil",
+              "bowler": "Heather Graham",
+              "non_striker": "Sianna Ginger",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Annie O'Neil",
+              "bowler": "Heather Graham",
+              "non_striker": "Sianna Ginger",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sianna Ginger",
+              "bowler": "Heather Graham",
+              "non_striker": "Annie O'Neil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sianna Ginger",
+              "bowler": "Heather Graham",
+              "non_striker": "Annie O'Neil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sianna Ginger",
+              "bowler": "Heather Graham",
+              "non_striker": "Annie O'Neil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Annie O'Neil",
+              "bowler": "Molly Strano",
+              "non_striker": "Sianna Ginger",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sianna Ginger",
+              "bowler": "Molly Strano",
+              "non_striker": "Annie O'Neil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Annie O'Neil",
+              "bowler": "Molly Strano",
+              "non_striker": "Sianna Ginger",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sianna Ginger",
+              "bowler": "Molly Strano",
+              "non_striker": "Annie O'Neil",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Sianna Ginger",
+              "bowler": "Molly Strano",
+              "non_striker": "Annie O'Neil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sianna Ginger",
+              "bowler": "Molly Strano",
+              "non_striker": "Annie O'Neil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Sianna Ginger",
+              "bowler": "Isabella Malgioglio",
+              "non_striker": "Annie O'Neil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sianna Ginger",
+              "bowler": "Isabella Malgioglio",
+              "non_striker": "Annie O'Neil",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
