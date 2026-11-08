@@ -1,0 +1,373 @@
+0.1
+1lb
+Schutt to Harris, 1 leg bye
+0.2
+4
+Schutt to Knott, FOUR runs
+0.3
+•
+Schutt to Knott, no run
+0.4
+•
+Schutt to Knott, no run
+0.5
+•
+Schutt to Knott, no run
+0.6
+1
+Schutt to Knott, 1 run
+1.1
+1w
+Larosa to Knott, 1 wide
+1.1
+1
+Larosa to Knott, 1 run
+1.2
+1
+Larosa to Harris, 1 run
+1.3
+•
+Larosa to Knott, no run
+1.4
+•
+Larosa to Knott, no run
+1.5
+1
+Larosa to Knott, 1 run
+1.6
+•
+Larosa to Harris, no run
+2.1
+1
+Schutt to Knott, 1 run
+2.2
+4
+Schutt to Harris, FOUR runs
+2.3
+4
+Schutt to Harris, FOUR runs
+2.4
+•
+Schutt to Harris, no run
+2.5
+•
+Schutt to Harris, no run
+2.6
+•
+Schutt to Harris, no run
+3.1
+2
+Ecclestone to Knott, 2 runs
+3.2
+•
+Ecclestone to Knott, no run
+3.3
+•
+Ecclestone to Knott, no run
+3.4
+•
+Ecclestone to Knott, no run
+3.5
+•
+Ecclestone to Knott, no run
+3.6
+1
+Ecclestone to Knott, 1 run
+4.1
+2
+Wellington to Knott, 2 runs
+4.2
+1
+Wellington to Knott, 1 run
+4.3
+1
+Wellington to Harris, 1 run
+4.4
+2
+Wellington to Knott, 2 runs
+4.5
+4
+Wellington to Knott, FOUR runs
+4.6
+1
+Wellington to Knott, 1 run
+5.1
+1
+McGrath to Knott, 1 run
+5.2
+1
+McGrath to Harris, 1 run
+5.3
+1
+McGrath to Knott, 1 run
+5.4
+1
+McGrath to Harris, 1 run
+5.5
+4
+McGrath to Knott, FOUR runs
+5.6
+4
+McGrath to Knott, FOUR runs
+6.1
+•
+Wilson to Harris, no run
+6.2
+•
+Wilson to Harris, no run
+6.3
+•
+Wilson to Harris, no run
+6.4
+4
+Wilson to Harris, FOUR runs
+6.5
+2
+Wilson to Harris, 2 runs
+6.6
+4
+Wilson to Harris, FOUR runs
+7.1
+2w
+Larosa to Knott, 2 wide
+7.1
+W
+Larosa to Harris, OUT
+Grace Harris c Bouchier b Larosa 22 (18b 4x4 0x6 26m) SR: 122.22
+7.2
+•
+Larosa to Redmayne, no run
+7.3
+•
+Larosa to Redmayne, no run
+7.4
+1lb
+Larosa to Redmayne, 1 leg bye
+7.5
+1
+Larosa to Knott, 1 run
+7.6
+1
+Larosa to Redmayne, 1 run
+8.1
+1
+Wellington to Redmayne, 1 run
+8.2
+1
+Wellington to Knott, 1 run
+8.3
+1
+Wellington to Redmayne, 1 run
+8.4
+•
+Wellington to Knott, no run
+8.5
+4
+Wellington to Knott, FOUR runs
+8.6
+1
+Wellington to Knott, 1 run
+9.1
+•
+Ecclestone to Knott, no run
+9.2
+1
+Ecclestone to Knott, 1 run
+9.3
+1
+Ecclestone to Redmayne, 1 run
+9.4
+1
+Ecclestone to Knott, 1 run
+9.5
+•
+Ecclestone to Redmayne, no run
+9.6
+2
+Ecclestone to Redmayne, 2 runs
+10.1
+•
+McGrath to Knott, no run
+10.2
+6
+McGrath to Knott, SIX runs
+10.3
+1
+McGrath to Knott, 1 run
+10.4
+1
+McGrath to Redmayne, 1 run
+10.5
+4
+McGrath to Knott, FOUR runs
+10.6
+4
+McGrath to Knott, FOUR runs
+11.1
+W
+Ecclestone to Redmayne, OUT
+Georgia Redmayne lbw b Ecclestone 7 (11b 0x4 0x6 16m) SR: 63.63
+11.2
+•
+Ecclestone to Bhatia, no run
+11.3
+1
+Ecclestone to Bhatia, 1 run
+11.4
+1
+Ecclestone to Knott, 1 run
+11.5
+•
+Ecclestone to Bhatia, no run
+11.6
+1
+Ecclestone to Bhatia, 1 run
+12.1
+1
+Schutt to Bhatia, 1 run
+12.2
+4
+Schutt to Knott, FOUR runs
+12.3
+6
+Schutt to Knott, SIX runs
+12.4
+1
+Schutt to Knott, 1 run
+12.5
+•
+Schutt to Bhatia, no run
+12.6
+•
+Schutt to Bhatia, no run
+13.1
+2
+Larosa to Knott, 2 runs
+13.2
+6
+Larosa to Knott, SIX runs
+13.3
+•
+Larosa to Knott, no run
+13.4
+4
+Larosa to Knott, FOUR runs
+13.5
+4
+Larosa to Knott, FOUR runs
+13.6
+1
+Larosa to Knott, 1 run
+14.1
+6
+Wellington to Knott, SIX runs
+14.2
+1
+Wellington to Knott, 1 run
+14.3
+1
+Wellington to Bhatia, 1 run
+14.4
+•
+Wellington to Knott, no run
+14.5
+1
+Wellington to Knott, 1 run
+14.6
+2
+Wellington to Bhatia, 2 runs
+15.1
+1
+Schutt to Knott, 1 run
+15.2
+•
+Schutt to Bhatia, no run
+15.3
+4
+Schutt to Bhatia, FOUR runs
+15.4
+1
+Schutt to Bhatia, 1 run
+15.5
+4
+Schutt to Knott, FOUR runs
+15.6
+•
+Schutt to Knott, no run
+16.1
+•
+Penna to Bhatia, no run
+16.2
+1
+Penna to Bhatia, 1 run
+16.3
+4
+Penna to Knott, FOUR runs
+16.4
+•
+Penna to Knott, no run
+16.5
+•
+Penna to Knott, no run
+16.6
+1
+Penna to Knott, 1 run
+17.1
+1
+Ecclestone to Knott, 1 run
+17.2
+1
+Ecclestone to Bhatia, 1 run
+17.3
+1
+Ecclestone to Knott, 1 run
+17.4
+2
+Ecclestone to Bhatia, 2 runs
+17.5
+1W
+Ecclestone to Bhatia, 1 run, OUT
+Charli Knott run out (Schutt/†Patterson) 104 (61b 12x4 4x6 68m) SR: 170.49
+17.6
+1
+Ecclestone to O'Neil, 1 run
+18.1
+1
+Wellington to O'Neil, 1 run
+18.2
+W
+Wellington to Bhatia, OUT
+Yastika Bhatia run out (McGrath) 16 (18b 1x4 0x6 28m) SR: 88.88
+18.3
+1
+Wellington to O'Neil, 1 run
+18.4
+2
+Wellington to O Prendergast, 2 runs
+18.5
+1
+Wellington to O Prendergast, 1 run
+18.6
+1
+Wellington to O'Neil, 1 run
+19.1
+1
+Larosa to O'Neil, 1 run
+19.2
+3nb
+Larosa to O Prendergast, (no ball) 2 runs
+19.2
+4
+Larosa to O Prendergast, FOUR runs
+19.3
+4
+Larosa to O Prendergast, FOUR runs
+19.4
+3
+Larosa to O Prendergast, 3 runs
+19.5
+2
+Larosa to O'Neil, 2 runs
+19.6
+6
+Larosa to O'Neil, SIX runs
