@@ -1,10 +1,10 @@
 """
-build_match31.py - CPL 2026, 31st Match, St Lucia Kings vs Guyana Amazon Warriors,
-Providence Stadium, Guyana, 2026-09-09.
+build_match09.py - WBBL 2026/27, 9th Match, Hobart Hurricanes Women vs Melbourne Renegades
+Women, Bellerive Oval, Hobart, 2026-11-04.
 """
 
 import sys, json, os
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', '..', 'scripts'))
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', '..', '..', 'scripts'))
 from parse_cricinfo import parse_deliveries
 
 # =============================================================================
@@ -12,64 +12,71 @@ from parse_cricinfo import parse_deliveries
 # =============================================================================
 
 _HERE = os.path.dirname(__file__)
-INNINGS1_FILE = os.path.join(_HERE, 'innings1.txt')   # St Lucia Kings (batted first)
-INNINGS2_FILE = os.path.join(_HERE, 'innings2.txt')   # Guyana Amazon Warriors (chased)
+INNINGS1_FILE = os.path.join(_HERE, 'innings1.txt')   # Hobart Hurricanes Women (batted first)
+INNINGS2_FILE = os.path.join(_HERE, 'innings2.txt')   # Melbourne Renegades Women (chased)
 
-TEAM1_NAME = 'St Lucia Kings'
-TEAM2_NAME = 'Guyana Amazon Warriors'
+TEAM1_NAME = 'Hobart Hurricanes Women'
+TEAM2_NAME = 'Melbourne Renegades Women'
 
 TEAM1_XI = [
-    'Tim Seifert', 'Kamil Pooran', 'John Campbell', 'Charith Asalanka', 'Roston Chase',
-    'Kemol Savory', 'Obus Pienaar', 'McKenny Clarke', 'Matthew Forde', 'Joshua Bishop',
-    'Maheesh Theekshana',
+    'Lizelle Lee', 'Chamari Athapaththu', 'Rachel Trenaman', 'Nicola Carey', 'Heather Graham',
+    'Maddy Green', 'Chinelle Henry', 'Hayley Silver-Holmes', 'Lauren Smith', 'Molly Strano',
+    'Isabella Malgioglio',
 ]
 TEAM2_XI = [
-    'Glenn Phillips', 'Mavendra Dindyal', 'Shai Hope', 'Shimron Hetmyer',
-    'Mehidy Hasan Miraz', 'Quentin Sampson', 'Romario Shepherd', 'Dwaine Pretorius',
-    'Shamar Joseph', 'Khary Pierre', 'Imran Tahir',
+    'Olivia Porter', 'Hayley Matthews', 'Courtney Webb', 'Sophie Molineux', 'Georgia Wareham',
+    'Nicole Faltum', 'Chloe Tryon', 'Deandra Dottin', 'Tess Flintoff', 'Milly Illingworth',
+    'Tayla Vlaeminck',
 ]
 
 NAME_MAP = {
-    # St Lucia Kings
-    'Seifert': 'Tim Seifert', 'Tim Seifert': 'Tim Seifert',
-    'Kamil Pooran': 'Kamil Pooran', 'Pooran': 'Kamil Pooran',
-    'Campbell': 'John Campbell', 'John Campbell': 'John Campbell',
-    'Asalanka': 'Charith Asalanka', 'Charith Asalanka': 'Charith Asalanka',
-    'Chase': 'Roston Chase', 'Roston Chase': 'Roston Chase',
-    'Savory': 'Kemol Savory', 'Kemol Savory': 'Kemol Savory',
-    'Pienaar': 'Obus Pienaar', 'Obus Pienaar': 'Obus Pienaar',
-    'Clarke': 'McKenny Clarke', 'McKenny Clarke': 'McKenny Clarke',
-    'Forde': 'Matthew Forde', 'Matthew Forde': 'Matthew Forde',
-    'Bishop': 'Joshua Bishop', 'Joshua Bishop': 'Joshua Bishop',
-    'Theekshana': 'Maheesh Theekshana', 'Maheesh Theekshana': 'Maheesh Theekshana',
-    # Guyana Amazon Warriors
-    'Phillips': 'Glenn Phillips', 'Glenn Phillips': 'Glenn Phillips',
-    'Dindyal': 'Mavendra Dindyal', 'Mavendra Dindyal': 'Mavendra Dindyal',
-    'Hope': 'Shai Hope', 'Shai Hope': 'Shai Hope',
-    'Hetmyer': 'Shimron Hetmyer', 'Shimron Hetmyer': 'Shimron Hetmyer',
-    'Mehidy Hasan Miraz': 'Mehidy Hasan Miraz',
-    'Sampson': 'Quentin Sampson', 'Quentin Sampson': 'Quentin Sampson',
-    'Shepherd': 'Romario Shepherd', 'Romario Shepherd': 'Romario Shepherd',
-    'Pretorius': 'Dwaine Pretorius', 'Dwaine Pretorius': 'Dwaine Pretorius',
-    'Shamar Joseph': 'Shamar Joseph', 'Joseph': 'Shamar Joseph',
-    'Pierre': 'Khary Pierre', 'Khary Pierre': 'Khary Pierre',
-    'Tahir': 'Imran Tahir', 'Imran Tahir': 'Imran Tahir',
+    # Hobart Hurricanes Women
+    'Lee': 'Lizelle Lee', 'Lizelle Lee': 'Lizelle Lee',
+    'Athapaththu': 'Chamari Athapaththu', 'Chamari Athapaththu': 'Chamari Athapaththu',
+    'Trenaman': 'Rachel Trenaman', 'Rachel Trenaman': 'Rachel Trenaman',
+    'Carey': 'Nicola Carey', 'Nicola Carey': 'Nicola Carey',
+    'Graham': 'Heather Graham', 'Heather Graham': 'Heather Graham',
+    'Green': 'Maddy Green', 'Maddy Green': 'Maddy Green',
+    'Henry': 'Chinelle Henry', 'Chinelle Henry': 'Chinelle Henry',
+    'Silver-Holmes': 'Hayley Silver-Holmes', 'Hayley Silver-Holmes': 'Hayley Silver-Holmes',
+    'Lauren Smith': 'Lauren Smith', 'Smith': 'Lauren Smith',
+    'Strano': 'Molly Strano', 'Molly Strano': 'Molly Strano',
+    'Malgioglio': 'Isabella Malgioglio', 'Isabella Malgioglio': 'Isabella Malgioglio',
+    # Melbourne Renegades Women
+    'Porter': 'Olivia Porter', 'Olivia Porter': 'Olivia Porter',
+    'Matthews': 'Hayley Matthews', 'Hayley Matthews': 'Hayley Matthews',
+    'Webb': 'Courtney Webb', 'Courtney Webb': 'Courtney Webb',
+    'Molineux': 'Sophie Molineux', 'Sophie Molineux': 'Sophie Molineux',
+    'Wareham': 'Georgia Wareham', 'Georgia Wareham': 'Georgia Wareham',
+    'Faltum': 'Nicole Faltum', 'Nicole Faltum': 'Nicole Faltum',
+    'Tryon': 'Chloe Tryon', 'Chloe Tryon': 'Chloe Tryon',
+    'Dottin': 'Deandra Dottin', 'Deandra Dottin': 'Deandra Dottin',
+    'Flintoff': 'Tess Flintoff', 'Tess Flintoff': 'Tess Flintoff',
+    'MH Illingworth': 'Milly Illingworth', 'Illingworth': 'Milly Illingworth',
+    'Milly Illingworth': 'Milly Illingworth',
+    'Vlaeminck': 'Tayla Vlaeminck', 'Tayla Vlaeminck': 'Tayla Vlaeminck',
 }
 
 MATCH_INFO = {
     'balls_per_over': 6,
-    'city': '',
-    'dates': ['2026-09-09'],
-    'event': {'name': 'Caribbean Premier League', 'match_number': 31},
-    'gender': 'male',
+    'city': 'Hobart',
+    'dates': ['2026-11-04'],
+    'event': {'name': "Women's Big Bash League", 'match_number': 9},
+    'gender': 'female',
     'match_type': 'T20',
-    'outcome': {'winner': 'Guyana Amazon Warriors', 'by': {'wickets': 4}},
+    'outcome': {'winner': 'Melbourne Renegades Women', 'by': {'wickets': 4}},
     'overs': 20,
-    'player_of_match': ['Imran Tahir'],
-    'season': '2026',
+    'player_of_match': ['Sophie Molineux'],
+    'season': '2026/27',
     'team_type': 'club',
-    'toss': {'winner': 'St Lucia Kings', 'decision': 'bat'},
-    'venue': 'Providence Stadium, Guyana',
+    'toss': {'winner': 'Melbourne Renegades Women', 'decision': 'field'},
+    'venue': 'Bellerive Oval, Hobart',
+    'officials': {
+        'umpires': ['Sam Burns', 'Simon Burns'],
+        'tv_umpires': ['Michael Graham-Smith'],
+        'reserve_umpires': ['John Shelton'],
+        'match_referees': ['David Johnston'],
+    },
 }
 
 KNOWN_IDS = {}
@@ -184,5 +191,5 @@ def build_match_json(out_path):
 
 
 if __name__ == '__main__':
-    out = os.path.join(_HERE, 'cpl_2026_match31_kings_vs_amazon.json')
+    out = os.path.join(_HERE, 'wbbl_2026_match09_hurricanes_vs_renegades.json')
     build_match_json(out)

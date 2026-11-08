@@ -1,10 +1,17 @@
 """
-build_match27.py - CPL 2026, 27th Match, Trinbago Knight Riders vs Barbados Tridents,
-Kensington Oval, Bridgetown, Barbados, 2026-09-05.
+build_match29.py - CPL 2026, 29th Match, St Lucia Kings vs Barbados Tridents,
+Kensington Oval, Bridgetown, Barbados, 2026-09-06.
+
+Note: 'Clarke' is ambiguous in this match - McKenny Clarke bats for Kings (innings 1)
+and Rivaldo Clarke bats for Tridents (innings 2). Within innings1.txt the bare name
+'Clarke' is used BOTH as a batter (McKenny Clarke, over 19) AND as a fielder in one
+dismissal line ("Matthew Forde c Clarke b Mujeeb Ur Rahman") where it can only mean
+Rivaldo Clarke (Tridents' fielder, since Kings are batting). A single global NAME_MAP
+can't resolve this, so per-innings/per-role overrides are used below instead.
 """
 
 import sys, json, os
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', '..', 'scripts'))
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', '..', '..', 'scripts'))
 from parse_cricinfo import parse_deliveries
 
 # =============================================================================
@@ -12,66 +19,65 @@ from parse_cricinfo import parse_deliveries
 # =============================================================================
 
 _HERE = os.path.dirname(__file__)
-INNINGS1_FILE = os.path.join(_HERE, 'innings1.txt')   # Trinbago Knight Riders (batted first)
+INNINGS1_FILE = os.path.join(_HERE, 'innings1.txt')   # St Lucia Kings (batted first)
 INNINGS2_FILE = os.path.join(_HERE, 'innings2.txt')   # Barbados Tridents (chased)
 
-TEAM1_NAME = 'Trinbago Knight Riders'
+TEAM1_NAME = 'St Lucia Kings'
 TEAM2_NAME = 'Barbados Tridents'
 
 TEAM1_XI = [
-    'Colin Munro', 'Sunil Narine', 'Nicholas Pooran', 'Kieron Pollard', 'Alex Hales',
-    'Jyd Goolie', 'Joshua Da Silva', 'Akeal Hosein', 'Dexter Sween', 'Usman Tariq',
-    'Lahiru Kumara',
+    'Tim Seifert', 'Kamil Pooran', 'John Campbell', 'Roston Chase', 'Charith Asalanka',
+    'Obus Pienaar', 'Matthew Forde', 'McKenny Clarke', 'Amari Goodridge', 'Joshua Bishop',
+    'Maheesh Theekshana',
 ]
 TEAM2_XI = [
-    'Brandon King', 'Zachary Carter', 'Quinton de Kock', 'Rivaldo Clarke', 'Chris Green',
+    'Brandon King', 'Zachary Carter', 'Rivaldo Clarke', 'Quinton de Kock', 'Chris Green',
     'Sherfane Rutherford', 'Shadrack Descarte', 'Daniel Sams', 'Gudakesh Motie',
     'Mujeeb Ur Rahman', 'Jakeem Pollard',
 ]
 
 NAME_MAP = {
-    # Trinbago Knight Riders
-    'Munro': 'Colin Munro', 'Colin Munro': 'Colin Munro',
-    'Narine': 'Sunil Narine', 'Sunil Narine': 'Sunil Narine',
-    'Pooran': 'Nicholas Pooran', 'Nicholas Pooran': 'Nicholas Pooran', 'N Pooran': 'Nicholas Pooran',
-    # NOTE: bare 'Pollard' is deliberately NOT mapped here - it is ambiguous between
-    # Kieron Pollard (TKR batter) and Jakeem Pollard (BT bowler/batter), both of whom
-    # appear as bare "Pollard" in this match's commentary. Resolved per-role/per-innings
-    # in the POLLARD_OVERRIDES below instead.
-    'Kieron Pollard': 'Kieron Pollard',
-    'Hales': 'Alex Hales', 'Alex Hales': 'Alex Hales',
-    'Goolie': 'Jyd Goolie', 'Jyd Goolie': 'Jyd Goolie',
-    'Da Silva': 'Joshua Da Silva', 'Joshua Da Silva': 'Joshua Da Silva',
-    'Hosein': 'Akeal Hosein', 'Akeal Hosein': 'Akeal Hosein', 'AJ Hosein': 'Akeal Hosein',
-    'Sween': 'Dexter Sween', 'Dexter Sween': 'Dexter Sween',
-    'Usman Tariq': 'Usman Tariq',
-    'Lahiru Kumara': 'Lahiru Kumara', 'Kumara': 'Lahiru Kumara',
+    # St Lucia Kings
+    'Seifert': 'Tim Seifert', 'Tim Seifert': 'Tim Seifert',
+    'Kamil Pooran': 'Kamil Pooran',
+    'Campbell': 'John Campbell', 'John Campbell': 'John Campbell',
+    'Chase': 'Roston Chase', 'Roston Chase': 'Roston Chase',
+    'Asalanka': 'Charith Asalanka', 'Charith Asalanka': 'Charith Asalanka',
+    'Pienaar': 'Obus Pienaar', 'Obus Pienaar': 'Obus Pienaar',
+    'Forde': 'Matthew Forde', 'Matthew Forde': 'Matthew Forde',
+    'McKenny Clarke': 'McKenny Clarke',
+    'Goodridge': 'Amari Goodridge', 'Amari Goodridge': 'Amari Goodridge',
+    'Bishop': 'Joshua Bishop', 'Joshua Bishop': 'Joshua Bishop',
+    'Theekshana': 'Maheesh Theekshana', 'Maheesh Theekshana': 'Maheesh Theekshana',
     # Barbados Tridents
     'King': 'Brandon King', 'Brandon King': 'Brandon King',
     'Carter': 'Zachary Carter', 'Zachary Carter': 'Zachary Carter',
-    'de Kock': 'Quinton de Kock', 'Quinton de Kock': 'Quinton de Kock', 'QDK': 'Quinton de Kock',
-    'Clarke': 'Rivaldo Clarke', 'Rivaldo Clarke': 'Rivaldo Clarke', 'RA Clarke': 'Rivaldo Clarke',
+    'Rivaldo Clarke': 'Rivaldo Clarke',
+    'de Kock': 'Quinton de Kock', 'Quinton de Kock': 'Quinton de Kock',
     'Green': 'Chris Green', 'Chris Green': 'Chris Green',
     'Rutherford': 'Sherfane Rutherford', 'Sherfane Rutherford': 'Sherfane Rutherford',
-    'SE Rutherford': 'Sherfane Rutherford',
     'Descarte': 'Shadrack Descarte', 'Shadrack Descarte': 'Shadrack Descarte',
-    'S Descarte': 'Shadrack Descarte',
     'Sams': 'Daniel Sams', 'Daniel Sams': 'Daniel Sams',
     'Motie': 'Gudakesh Motie', 'Gudakesh Motie': 'Gudakesh Motie',
     'Mujeeb': 'Mujeeb Ur Rahman', 'Mujeeb Ur Rahman': 'Mujeeb Ur Rahman',
-    'Jakeem Pollard': 'Jakeem Pollard',
+    'Pollard': 'Jakeem Pollard', 'Jakeem Pollard': 'Jakeem Pollard',
 }
+
+# 'Clarke' collision - see module docstring.
+INNINGS1_OVERRIDE = {'Clarke': 'McKenny Clarke'}          # batter/bowler/non-striker/player_out
+INNINGS1_FIELDER_OVERRIDE = {'Clarke': 'Rivaldo Clarke'}  # fielder in a dismissal line
+INNINGS2_OVERRIDE = {'Clarke': 'Rivaldo Clarke'}          # batter/bowler/non-striker/player_out
 
 MATCH_INFO = {
     'balls_per_over': 6,
     'city': 'Bridgetown',
-    'dates': ['2026-09-05'],
-    'event': {'name': 'Caribbean Premier League', 'match_number': 27},
+    'dates': ['2026-09-06'],
+    'event': {'name': 'Caribbean Premier League', 'match_number': 29},
     'gender': 'male',
     'match_type': 'T20',
-    'outcome': {'winner': 'Trinbago Knight Riders', 'by': {'runs': 35}},
+    'outcome': {'winner': 'Barbados Tridents', 'by': {'wickets': 8}},
     'overs': 20,
-    'player_of_match': ['Sunil Narine'],
+    'player_of_match': ['Mujeeb Ur Rahman'],
     'season': '2026',
     'team_type': 'club',
     'toss': {'winner': 'Barbados Tridents', 'decision': 'field'},
@@ -82,37 +88,26 @@ KNOWN_IDS = {}
 
 
 # =============================================================================
-# Reusable logic (copied from build_match_json_template.py)
+# Reusable logic (adapted from build_match_json_template.py to support
+# per-innings/per-role name overrides for the 'Clarke' collision)
 # =============================================================================
 
-def norm(name):
-    return NAME_MAP.get(name.strip(), name.strip())
-
-
-# Bare "Pollard" is ambiguous in this match: Kieron Pollard (TKR) bats in innings 1 and
-# fields in innings 2; Jakeem Pollard (BT) bowls/fields in innings 1 and bats in innings 2.
-# Resolve it per role, per innings, instead of via the flat NAME_MAP.
-POLLARD_OVERRIDES = {
-    1: {'bowler': 'Jakeem Pollard', 'batter': 'Kieron Pollard', 'fielder': 'Jakeem Pollard'},
-    2: {'bowler': 'Kieron Pollard', 'batter': 'Jakeem Pollard', 'fielder': 'Kieron Pollard'},
-}
-
-
-def norm_role(name, role, innings_no):
+def norm(name, overrides=None):
     name = name.strip()
-    if name == 'Pollard':
-        return POLLARD_OVERRIDES[innings_no][role]
-    return norm(name)
+    if overrides and name in overrides:
+        return overrides[name]
+    return NAME_MAP.get(name, name)
 
 
-def normalise_deliveries(deliveries, innings_no):
+def normalise_deliveries(deliveries, overrides=None, fielder_overrides=None):
+    fielder_overrides = fielder_overrides or overrides
     for d in deliveries:
-        d['batter'] = norm_role(d['batter'], 'batter', innings_no)
-        d['bowler'] = norm_role(d['bowler'], 'bowler', innings_no)
+        d['batter'] = norm(d['batter'], overrides)
+        d['bowler'] = norm(d['bowler'], overrides)
         if d['wicket']:
-            d['wicket']['player_out'] = norm_role(d['wicket']['player_out'], 'batter', innings_no)
+            d['wicket']['player_out'] = norm(d['wicket']['player_out'], overrides)
             if d['wicket'].get('fielder'):
-                parts = [norm_role(p, 'fielder', innings_no) for p in d['wicket']['fielder'].split('/')]
+                parts = [norm(p, fielder_overrides) for p in d['wicket']['fielder'].split('/')]
                 d['wicket']['fielder'] = '/'.join(parts)
     return deliveries
 
@@ -155,11 +150,7 @@ def build_innings(deliveries, team_name):
             w = d['wicket']
             wk = {'kind': w['kind'], 'player_out': w['player_out']}
             if w.get('fielder'):
-                names = w['fielder'].split('/')
-                if w.get('substitute') and len(names) == 1:
-                    wk['fielders'] = [{'name': names[0], 'substitute': True}]
-                else:
-                    wk['fielders'] = [{'name': n} for n in names]
+                wk['fielders'] = [{'name': n} for n in w['fielder'].split('/')]
             deliv['wickets'] = [wk]
             if w['player_out'] in pair:
                 pair.remove(w['player_out'])
@@ -174,8 +165,9 @@ def build_innings(deliveries, team_name):
 def build_match_json(out_path):
     t1 = open(INNINGS1_FILE).read()
     t2 = open(INNINGS2_FILE).read()
-    d1 = normalise_deliveries(parse_deliveries(t1), 1)
-    d2 = normalise_deliveries(parse_deliveries(t2), 2)
+    d1 = normalise_deliveries(parse_deliveries(t1), overrides=INNINGS1_OVERRIDE,
+                               fielder_overrides=INNINGS1_FIELDER_OVERRIDE)
+    d2 = normalise_deliveries(parse_deliveries(t2), overrides=INNINGS2_OVERRIDE)
 
     innings1 = build_innings(d1, TEAM1_NAME)
     innings2 = build_innings(d2, TEAM2_NAME)
@@ -210,5 +202,5 @@ def build_match_json(out_path):
 
 
 if __name__ == '__main__':
-    out = os.path.join(_HERE, 'cpl_2026_match27_tkr_vs_tridents.json')
+    out = os.path.join(_HERE, 'cpl_2026_match29_kings_vs_tridents.json')
     build_match_json(out)

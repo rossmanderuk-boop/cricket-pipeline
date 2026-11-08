@@ -1,10 +1,10 @@
 """
-build_match30.py - CPL 2026, 30th Match, Antigua and Barbuda Falcons vs Guyana Amazon
-Warriors, Providence Stadium, Guyana, 2026-09-08.
+build_match28.py - CPL 2026, 28th Match, St Kitts and Nevis Patriots vs Guyana Amazon
+Warriors, Providence Stadium, Guyana, 2026-09-06.
 """
 
 import sys, json, os
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', '..', 'scripts'))
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', '..', '..', 'scripts'))
 from parse_cricinfo import parse_deliveries
 
 # =============================================================================
@@ -12,64 +12,63 @@ from parse_cricinfo import parse_deliveries
 # =============================================================================
 
 _HERE = os.path.dirname(__file__)
-INNINGS1_FILE = os.path.join(_HERE, 'innings1.txt')   # Antigua and Barbuda Falcons (batted first)
+INNINGS1_FILE = os.path.join(_HERE, 'innings1.txt')   # St Kitts and Nevis Patriots (batted first)
 INNINGS2_FILE = os.path.join(_HERE, 'innings2.txt')   # Guyana Amazon Warriors (chased)
 
-TEAM1_NAME = 'Antigua and Barbuda Falcons'
+TEAM1_NAME = 'St Kitts and Nevis Patriots'
 TEAM2_NAME = 'Guyana Amazon Warriors'
 
 TEAM1_XI = [
-    'Karima Gore', 'Evin Lewis', 'Amir Jangoo', 'Hasan Nawaz', 'Moeen Ali',
-    'Shadab Khan', 'Fabian Allen', 'Joshua James', 'Sufyan Moqim', 'Jayden Seales',
-    'Alzarri Joseph',
+    'Johnson Charles', 'Kyle Mayers', 'Andre Fletcher', 'Alick Athanaze', 'Jason Holder',
+    'Wanindu Hasaranga', 'Dasun Shanaka', 'Navin Bidaisee', 'Jeremiah Louis', 'Ashmead Nedd',
+    'Naseem Shah',
 ]
 TEAM2_XI = [
-    'Rahmanullah Gurbaz', 'Mavendra Dindyal', 'Shai Hope', 'Shimron Hetmyer',
-    'Mohammad Nabi', 'Quentin Sampson', 'Romario Shepherd', 'Dwaine Pretorius',
-    'Shamar Joseph', 'Imran Tahir', 'Khary Pierre',
+    'Rahmanullah Gurbaz', 'Mavendra Dindyal', 'Shai Hope', 'Shimron Hetmyer', 'Mohammad Nabi',
+    'Quentin Sampson', 'Romario Shepherd', 'Dwaine Pretorius', 'Khary Pierre', 'Shamar Joseph',
+    'Imran Tahir',
 ]
 
 NAME_MAP = {
-    # Antigua and Barbuda Falcons
-    'Gore': 'Karima Gore', 'Karima Gore': 'Karima Gore',
-    'Lewis': 'Evin Lewis', 'Evin Lewis': 'Evin Lewis',
-    'Jangoo': 'Amir Jangoo', 'Amir Jangoo': 'Amir Jangoo',
-    'Hasan Nawaz': 'Hasan Nawaz',
-    'Moeen Ali': 'Moeen Ali', 'Ali': 'Moeen Ali',
-    'Shadab': 'Shadab Khan', 'Shadab Khan': 'Shadab Khan',
-    'Allen': 'Fabian Allen', 'Fabian Allen': 'Fabian Allen',
-    'James': 'Joshua James', 'Joshua James': 'Joshua James',
-    'Sufyan Moqim': 'Sufyan Moqim',
-    'Seales': 'Jayden Seales', 'Jayden Seales': 'Jayden Seales',
-    'Alzarri Joseph': 'Alzarri Joseph',
+    # St Kitts and Nevis Patriots
+    'Charles': 'Johnson Charles', 'Johnson Charles': 'Johnson Charles',
+    'Mayers': 'Kyle Mayers', 'Kyle Mayers': 'Kyle Mayers',
+    'Fletcher': 'Andre Fletcher', 'Andre Fletcher': 'Andre Fletcher',
+    'Athanaze': 'Alick Athanaze', 'Alick Athanaze': 'Alick Athanaze',
+    'Holder': 'Jason Holder', 'Jason Holder': 'Jason Holder',
+    'Hasaranga': 'Wanindu Hasaranga', 'Wanindu Hasaranga': 'Wanindu Hasaranga',
+    'Shanaka': 'Dasun Shanaka', 'Dasun Shanaka': 'Dasun Shanaka',
+    'Bidaisee': 'Navin Bidaisee', 'Navin Bidaisee': 'Navin Bidaisee',
+    'Louis': 'Jeremiah Louis', 'Jeremiah Louis': 'Jeremiah Louis',
+    'Nedd': 'Ashmead Nedd', 'Ashmead Nedd': 'Ashmead Nedd',
+    'Naseem Shah': 'Naseem Shah',
     # Guyana Amazon Warriors
     'Gurbaz': 'Rahmanullah Gurbaz', 'Rahmanullah Gurbaz': 'Rahmanullah Gurbaz',
     'Dindyal': 'Mavendra Dindyal', 'Mavendra Dindyal': 'Mavendra Dindyal',
     'Hope': 'Shai Hope', 'Shai Hope': 'Shai Hope',
     'Hetmyer': 'Shimron Hetmyer', 'Shimron Hetmyer': 'Shimron Hetmyer',
     'M Nabi': 'Mohammad Nabi', 'Mohammad Nabi': 'Mohammad Nabi',
-    'Sampson': 'Quentin Sampson', 'Quinton Sampson': 'Quentin Sampson',
-    'Quentin Sampson': 'Quentin Sampson',
+    'Sampson': 'Quentin Sampson', 'Quentin Sampson': 'Quentin Sampson',
     'Shepherd': 'Romario Shepherd', 'Romario Shepherd': 'Romario Shepherd',
     'Pretorius': 'Dwaine Pretorius', 'Dwaine Pretorius': 'Dwaine Pretorius',
-    'Shamar Joseph': 'Shamar Joseph',
-    'Tahir': 'Imran Tahir', 'Imran Tahir': 'Imran Tahir',
     'Pierre': 'Khary Pierre', 'Khary Pierre': 'Khary Pierre',
+    'Shamar Joseph': 'Shamar Joseph', 'Joseph': 'Shamar Joseph',
+    'Tahir': 'Imran Tahir', 'Imran Tahir': 'Imran Tahir',
 }
 
 MATCH_INFO = {
     'balls_per_over': 6,
-    'city': 'Guyana',
-    'dates': ['2026-09-08'],
-    'event': {'name': 'Caribbean Premier League', 'match_number': 30},
+    'city': 'Providence',
+    'dates': ['2026-09-06'],
+    'event': {'name': 'Caribbean Premier League', 'match_number': 28},
     'gender': 'male',
     'match_type': 'T20',
-    'outcome': {'winner': 'Antigua and Barbuda Falcons', 'by': {'runs': 65}},
+    'outcome': {'winner': 'Guyana Amazon Warriors', 'by': {'wickets': 7}},
     'overs': 20,
-    'player_of_match': ['Shadab Khan'],
+    'player_of_match': ['Mohammad Nabi'],
     'season': '2026',
     'team_type': 'club',
-    'toss': {'winner': 'Guyana Amazon Warriors', 'decision': 'field'},
+    'toss': {'winner': 'St Kitts and Nevis Patriots', 'decision': 'bat'},
     'venue': 'Providence Stadium, Guyana',
 }
 
@@ -185,5 +184,5 @@ def build_match_json(out_path):
 
 
 if __name__ == '__main__':
-    out = os.path.join(_HERE, 'cpl_2026_match30_falcons_vs_amazon.json')
+    out = os.path.join(_HERE, 'cpl_2026_match28_patriots_vs_amazon.json')
     build_match_json(out)

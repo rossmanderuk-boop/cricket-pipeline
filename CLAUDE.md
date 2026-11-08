@@ -1,8 +1,15 @@
 # Cricinfo Commentary → Cricsheet JSON
 
 This repo converts pasted ESPN Cricinfo ball-by-ball commentary (plus a scorecard) into
-Cricsheet-format match JSON (`info`/`innings` structure), for CPL and other T20 matches not
-yet in an official Cricsheet release.
+Cricsheet-format match JSON (`info`/`innings` structure), for CPL, WBBL and other T20 matches
+not yet in an official Cricsheet release.
+
+## Layout
+
+Matches are grouped by league and season: `matches/<league>_<season>/matchNN/`, e.g.
+`matches/cpl_2026/match34/`, `matches/wbbl_2026/match09/`. The season folder uses the year
+the season starts (WBBL 2026/27 → `wbbl_2026`). Per-match build scripts import the shared
+parser via `os.path.join(os.path.dirname(__file__), '..', '..', '..', 'scripts')`.
 
 ## Workflow
 
@@ -12,7 +19,7 @@ yet in an official Cricsheet release.
    innings is pasted, ask whether the other innings is coming.
 
 2. Split into one file per innings: save each innings' commentary to its own file
-   (e.g. `matches/matchNN/innings1.txt`, `innings2.txt`). This is a hard rule — commentary
+   (e.g. `matches/<league>_<season>/matchNN/innings1.txt`, `innings2.txt`). This is a hard rule — commentary
    that shares over-numbering between two innings is the easiest way to misattribute a
    delivery to the wrong team. Figure out which innings is which from context (which team is
    batting/bowling, "Need N runs" chase language, etc.).
@@ -25,7 +32,8 @@ yet in an official Cricsheet release.
    several lines.
 
 3. Copy `scripts/build_match_json_template.py` to a per-match script
-   (`matches/matchNN/build_matchNN.py` — don't edit the template in place). Fill in the
+   (`matches/<league>_<season>/matchNN/build_matchNN.py` — don't edit the template in place;
+   copying the most recent match's build script from the same league is usually quicker). Fill in the
    `CONFIG` section: team names, playing XIs (from the scorecard's batting list + "Did not
    bat"), match info (date, venue, toss if known, outcome, season, match number, player of
    the match), and critically the `NAME_MAP` — every short/alternate name used in the
@@ -59,13 +67,28 @@ yet in an official Cricsheet release.
    Only hand back the JSON once every batter, every bowler, and both innings' extras/totals
    match.
 
-6. Commit the final JSON (e.g. `matches/matchNN/cpl_2026_matchNN_TEAMA_vs_TEAMB.json`) and
-   the per-match build/validation scripts to the repo. Note anything assumed (e.g. toss
-   winner/decision if not stated) so it can be corrected.
+6. Commit the final JSON (e.g. `matches/cpl_2026/matchNN/cpl_2026_matchNN_TEAMA_vs_TEAMB.json`,
+   `matches/wbbl_2026/matchNN/wbbl_2026_matchNN_TEAMA_vs_TEAMB.json`) and the per-match
+   build/validation scripts to the repo. Note anything assumed (e.g. toss winner/decision if
+   not stated) so it can be corrected.
 
-   Also update the match count in `README.md` ("This repo currently includes matches from
-   the 2026 Carribean Premier League (CPL) N matches, so far.") to match the number of
-   `matches/matchNN` folders in the repo, and include that change in the same commit.
+   Also update the per-league match counts in `README.md` to match the number of `matchNN`
+   folders under each `matches/<league>_<season>/` folder, and include that change in the
+   same commit.
+
+7. WBBL only: once validated, upload the JSON to the user's Google Drive folder
+   `manual_jsons` (folder ID `17oOVcwuSYiqyBz_d20bXhZGqerKAm5le`) as raw `application/json`
+   (disable conversion to a Google type), with the same filename. Check the folder first so
+   you don't create a duplicate.
+
+## League conventions
+
+- CPL: team names without suffix (`Barbados Tridents`), `gender: male`, season `2026`,
+  event name `Caribbean Premier League`.
+- WBBL: team names with the ` Women` suffix as Cricinfo shows them
+  (`Hobart Hurricanes Women`), `gender: female`, season `2026/27`, event name
+  `Women's Big Bash League`, and include `officials` (umpires, tv_umpires, reserve_umpires,
+  match_referees) from the scorecard's match details.
 
 ## Known edge cases the parser already handles
 

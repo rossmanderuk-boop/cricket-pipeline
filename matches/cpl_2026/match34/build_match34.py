@@ -1,17 +1,10 @@
 """
-build_match29.py - CPL 2026, 29th Match, St Lucia Kings vs Barbados Tridents,
-Kensington Oval, Bridgetown, Barbados, 2026-09-06.
-
-Note: 'Clarke' is ambiguous in this match - McKenny Clarke bats for Kings (innings 1)
-and Rivaldo Clarke bats for Tridents (innings 2). Within innings1.txt the bare name
-'Clarke' is used BOTH as a batter (McKenny Clarke, over 19) AND as a fielder in one
-dismissal line ("Matthew Forde c Clarke b Mujeeb Ur Rahman") where it can only mean
-Rivaldo Clarke (Tridents' fielder, since Kings are batting). A single global NAME_MAP
-can't resolve this, so per-innings/per-role overrides are used below instead.
+build_match34.py - CPL 2026, 34th Match, Jamaica Kingsmen vs Barbados Tridents,
+Kensington Oval, Bridgetown, 2026-09-12.
 """
 
 import sys, json, os
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', '..', 'scripts'))
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', '..', '..', 'scripts'))
 from parse_cricinfo import parse_deliveries
 
 # =============================================================================
@@ -19,65 +12,60 @@ from parse_cricinfo import parse_deliveries
 # =============================================================================
 
 _HERE = os.path.dirname(__file__)
-INNINGS1_FILE = os.path.join(_HERE, 'innings1.txt')   # St Lucia Kings (batted first)
+INNINGS1_FILE = os.path.join(_HERE, 'innings1.txt')   # Jamaica Kingsmen (batted first)
 INNINGS2_FILE = os.path.join(_HERE, 'innings2.txt')   # Barbados Tridents (chased)
 
-TEAM1_NAME = 'St Lucia Kings'
+TEAM1_NAME = 'Jamaica Kingsmen'
 TEAM2_NAME = 'Barbados Tridents'
 
 TEAM1_XI = [
-    'Tim Seifert', 'Kamil Pooran', 'John Campbell', 'Roston Chase', 'Charith Asalanka',
-    'Obus Pienaar', 'Matthew Forde', 'McKenny Clarke', 'Amari Goodridge', 'Joshua Bishop',
-    'Maheesh Theekshana',
+    'Maaz Sadaqat', 'Kirk McKenzie', 'Usman Khan', 'Rovman Powell', 'Keemo Paul',
+    'Andre Russell', 'Hassan Khan', 'Keacy Carty', 'Odean Smith', 'Vitel Lawes',
+    'Hunain Shah',
 ]
 TEAM2_XI = [
-    'Brandon King', 'Zachary Carter', 'Rivaldo Clarke', 'Quinton de Kock', 'Chris Green',
-    'Sherfane Rutherford', 'Shadrack Descarte', 'Daniel Sams', 'Gudakesh Motie',
-    'Mujeeb Ur Rahman', 'Jakeem Pollard',
+    'Brandon King', 'Zachary Carter', 'Quinton de Kock', 'Rivaldo Clarke',
+    'Shadrack Descarte', 'Sherfane Rutherford', 'Chris Green', 'Daniel Sams',
+    'Gudakesh Motie', 'AM Ghazanfar', 'Jakeem Pollard',
 ]
 
 NAME_MAP = {
-    # St Lucia Kings
-    'Seifert': 'Tim Seifert', 'Tim Seifert': 'Tim Seifert',
-    'Kamil Pooran': 'Kamil Pooran',
-    'Campbell': 'John Campbell', 'John Campbell': 'John Campbell',
-    'Chase': 'Roston Chase', 'Roston Chase': 'Roston Chase',
-    'Asalanka': 'Charith Asalanka', 'Charith Asalanka': 'Charith Asalanka',
-    'Pienaar': 'Obus Pienaar', 'Obus Pienaar': 'Obus Pienaar',
-    'Forde': 'Matthew Forde', 'Matthew Forde': 'Matthew Forde',
-    'McKenny Clarke': 'McKenny Clarke',
-    'Goodridge': 'Amari Goodridge', 'Amari Goodridge': 'Amari Goodridge',
-    'Bishop': 'Joshua Bishop', 'Joshua Bishop': 'Joshua Bishop',
-    'Theekshana': 'Maheesh Theekshana', 'Maheesh Theekshana': 'Maheesh Theekshana',
+    # Jamaica Kingsmen
+    'Sadaqat': 'Maaz Sadaqat', 'Maaz Sadaqat': 'Maaz Sadaqat',
+    'McKenzie': 'Kirk McKenzie', 'Kirk McKenzie': 'Kirk McKenzie',
+    'Usman Khan': 'Usman Khan',
+    'Powell': 'Rovman Powell', 'Rovman Powell': 'Rovman Powell',
+    'Paul': 'Keemo Paul', 'Keemo Paul': 'Keemo Paul',
+    'Russell': 'Andre Russell', 'Andre Russell': 'Andre Russell',
+    'Hassan': 'Hassan Khan', 'Hassan Khan': 'Hassan Khan',
+    'Carty': 'Keacy Carty', 'Keacy Carty': 'Keacy Carty',
+    'Smith': 'Odean Smith', 'Odean Smith': 'Odean Smith',
+    'Lawes': 'Vitel Lawes', 'Vitel Lawes': 'Vitel Lawes',
+    'Hunain Shah': 'Hunain Shah',
     # Barbados Tridents
     'King': 'Brandon King', 'Brandon King': 'Brandon King',
     'Carter': 'Zachary Carter', 'Zachary Carter': 'Zachary Carter',
-    'Rivaldo Clarke': 'Rivaldo Clarke',
-    'de Kock': 'Quinton de Kock', 'Quinton de Kock': 'Quinton de Kock',
-    'Green': 'Chris Green', 'Chris Green': 'Chris Green',
-    'Rutherford': 'Sherfane Rutherford', 'Sherfane Rutherford': 'Sherfane Rutherford',
+    'de Kock': 'Quinton de Kock', 'QDK': 'Quinton de Kock', 'Quinton de Kock': 'Quinton de Kock',
+    'Clarke': 'Rivaldo Clarke', 'Rivaldo Clarke': 'Rivaldo Clarke',
     'Descarte': 'Shadrack Descarte', 'Shadrack Descarte': 'Shadrack Descarte',
+    'Rutherford': 'Sherfane Rutherford', 'Sherfane Rutherford': 'Sherfane Rutherford',
+    'Green': 'Chris Green', 'Chris Green': 'Chris Green',
     'Sams': 'Daniel Sams', 'Daniel Sams': 'Daniel Sams',
     'Motie': 'Gudakesh Motie', 'Gudakesh Motie': 'Gudakesh Motie',
-    'Mujeeb': 'Mujeeb Ur Rahman', 'Mujeeb Ur Rahman': 'Mujeeb Ur Rahman',
+    'Ghazanfar': 'AM Ghazanfar', 'AM Ghazanfar': 'AM Ghazanfar',
     'Pollard': 'Jakeem Pollard', 'Jakeem Pollard': 'Jakeem Pollard',
 }
-
-# 'Clarke' collision - see module docstring.
-INNINGS1_OVERRIDE = {'Clarke': 'McKenny Clarke'}          # batter/bowler/non-striker/player_out
-INNINGS1_FIELDER_OVERRIDE = {'Clarke': 'Rivaldo Clarke'}  # fielder in a dismissal line
-INNINGS2_OVERRIDE = {'Clarke': 'Rivaldo Clarke'}          # batter/bowler/non-striker/player_out
 
 MATCH_INFO = {
     'balls_per_over': 6,
     'city': 'Bridgetown',
-    'dates': ['2026-09-06'],
-    'event': {'name': 'Caribbean Premier League', 'match_number': 29},
+    'dates': ['2026-09-12'],
+    'event': {'name': 'Caribbean Premier League', 'match_number': 34},
     'gender': 'male',
     'match_type': 'T20',
-    'outcome': {'winner': 'Barbados Tridents', 'by': {'wickets': 8}},
+    'outcome': {'winner': 'Barbados Tridents', 'by': {'wickets': 2}},
     'overs': 20,
-    'player_of_match': ['Mujeeb Ur Rahman'],
+    'player_of_match': ['Gudakesh Motie'],
     'season': '2026',
     'team_type': 'club',
     'toss': {'winner': 'Barbados Tridents', 'decision': 'field'},
@@ -88,26 +76,21 @@ KNOWN_IDS = {}
 
 
 # =============================================================================
-# Reusable logic (adapted from build_match_json_template.py to support
-# per-innings/per-role name overrides for the 'Clarke' collision)
+# Reusable logic (copied from build_match_json_template.py)
 # =============================================================================
 
-def norm(name, overrides=None):
-    name = name.strip()
-    if overrides and name in overrides:
-        return overrides[name]
-    return NAME_MAP.get(name, name)
+def norm(name):
+    return NAME_MAP.get(name.strip(), name.strip())
 
 
-def normalise_deliveries(deliveries, overrides=None, fielder_overrides=None):
-    fielder_overrides = fielder_overrides or overrides
+def normalise_deliveries(deliveries):
     for d in deliveries:
-        d['batter'] = norm(d['batter'], overrides)
-        d['bowler'] = norm(d['bowler'], overrides)
+        d['batter'] = norm(d['batter'])
+        d['bowler'] = norm(d['bowler'])
         if d['wicket']:
-            d['wicket']['player_out'] = norm(d['wicket']['player_out'], overrides)
+            d['wicket']['player_out'] = norm(d['wicket']['player_out'])
             if d['wicket'].get('fielder'):
-                parts = [norm(p, fielder_overrides) for p in d['wicket']['fielder'].split('/')]
+                parts = [norm(p) for p in d['wicket']['fielder'].split('/')]
                 d['wicket']['fielder'] = '/'.join(parts)
     return deliveries
 
@@ -165,9 +148,8 @@ def build_innings(deliveries, team_name):
 def build_match_json(out_path):
     t1 = open(INNINGS1_FILE).read()
     t2 = open(INNINGS2_FILE).read()
-    d1 = normalise_deliveries(parse_deliveries(t1), overrides=INNINGS1_OVERRIDE,
-                               fielder_overrides=INNINGS1_FIELDER_OVERRIDE)
-    d2 = normalise_deliveries(parse_deliveries(t2), overrides=INNINGS2_OVERRIDE)
+    d1 = normalise_deliveries(parse_deliveries(t1))
+    d2 = normalise_deliveries(parse_deliveries(t2))
 
     innings1 = build_innings(d1, TEAM1_NAME)
     innings2 = build_innings(d2, TEAM2_NAME)
@@ -202,5 +184,5 @@ def build_match_json(out_path):
 
 
 if __name__ == '__main__':
-    out = os.path.join(_HERE, 'cpl_2026_match29_kings_vs_tridents.json')
+    out = os.path.join(_HERE, 'cpl_2026_match34_kingsmen_vs_tridents.json')
     build_match_json(out)

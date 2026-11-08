@@ -1,10 +1,10 @@
 """
-build_match33.py - CPL 2026, 33rd Match, Trinbago Knight Riders vs Guyana Amazon Warriors,
-Providence Stadium, Guyana, 2026-09-11.
+build_match30.py - CPL 2026, 30th Match, Antigua and Barbuda Falcons vs Guyana Amazon
+Warriors, Providence Stadium, Guyana, 2026-09-08.
 """
 
 import sys, json, os
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', '..', 'scripts'))
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', '..', '..', 'scripts'))
 from parse_cricinfo import parse_deliveries
 
 # =============================================================================
@@ -12,61 +12,61 @@ from parse_cricinfo import parse_deliveries
 # =============================================================================
 
 _HERE = os.path.dirname(__file__)
-INNINGS1_FILE = os.path.join(_HERE, 'innings1.txt')   # Trinbago Knight Riders (batted first)
+INNINGS1_FILE = os.path.join(_HERE, 'innings1.txt')   # Antigua and Barbuda Falcons (batted first)
 INNINGS2_FILE = os.path.join(_HERE, 'innings2.txt')   # Guyana Amazon Warriors (chased)
 
-TEAM1_NAME = 'Trinbago Knight Riders'
+TEAM1_NAME = 'Antigua and Barbuda Falcons'
 TEAM2_NAME = 'Guyana Amazon Warriors'
 
 TEAM1_XI = [
-    'Colin Munro', 'Alex Hales', 'Nicholas Pooran', 'Justin Greaves', 'Jyd Goolie',
-    'Sunil Narine', 'Kieron Pollard', 'Joshua Da Silva', 'Akeal Hosein',
-    'Lahiru Kumara', 'Usman Tariq',
+    'Karima Gore', 'Evin Lewis', 'Amir Jangoo', 'Hasan Nawaz', 'Moeen Ali',
+    'Shadab Khan', 'Fabian Allen', 'Joshua James', 'Sufyan Moqim', 'Jayden Seales',
+    'Alzarri Joseph',
 ]
 TEAM2_XI = [
-    'Glenn Phillips', 'Mavendra Dindyal', 'Shai Hope', 'Shimron Hetmyer',
-    'Mehidy Hasan Miraz', 'Quentin Sampson', 'Romario Shepherd', 'Shamar Joseph',
-    'Dwaine Pretorius', 'Imran Tahir', 'Veerasammy Permaul',
+    'Rahmanullah Gurbaz', 'Mavendra Dindyal', 'Shai Hope', 'Shimron Hetmyer',
+    'Mohammad Nabi', 'Quentin Sampson', 'Romario Shepherd', 'Dwaine Pretorius',
+    'Shamar Joseph', 'Imran Tahir', 'Khary Pierre',
 ]
 
 NAME_MAP = {
-    # Trinbago Knight Riders
-    'Munro': 'Colin Munro', 'Colin Munro': 'Colin Munro',
-    'Hales': 'Alex Hales', 'Alex Hales': 'Alex Hales',
-    'Pooran': 'Nicholas Pooran', 'Nicholas Pooran': 'Nicholas Pooran',
-    'Greaves': 'Justin Greaves', 'Justin Greaves': 'Justin Greaves',
-    'Goolie': 'Jyd Goolie', 'Jyd Goolie': 'Jyd Goolie',
-    'Narine': 'Sunil Narine', 'Sunil Narine': 'Sunil Narine',
-    'Pollard': 'Kieron Pollard', 'Kieron Pollard': 'Kieron Pollard',
-    'Da Silva': 'Joshua Da Silva', 'Joshua Da Silva': 'Joshua Da Silva',
-    'Hosein': 'Akeal Hosein', 'Akeal Hosein': 'Akeal Hosein',
-    'Lahiru Kumara': 'Lahiru Kumara', 'Kumara': 'Lahiru Kumara',
-    'Usman Tariq': 'Usman Tariq',
+    # Antigua and Barbuda Falcons
+    'Gore': 'Karima Gore', 'Karima Gore': 'Karima Gore',
+    'Lewis': 'Evin Lewis', 'Evin Lewis': 'Evin Lewis',
+    'Jangoo': 'Amir Jangoo', 'Amir Jangoo': 'Amir Jangoo',
+    'Hasan Nawaz': 'Hasan Nawaz',
+    'Moeen Ali': 'Moeen Ali', 'Ali': 'Moeen Ali',
+    'Shadab': 'Shadab Khan', 'Shadab Khan': 'Shadab Khan',
+    'Allen': 'Fabian Allen', 'Fabian Allen': 'Fabian Allen',
+    'James': 'Joshua James', 'Joshua James': 'Joshua James',
+    'Sufyan Moqim': 'Sufyan Moqim',
+    'Seales': 'Jayden Seales', 'Jayden Seales': 'Jayden Seales',
+    'Alzarri Joseph': 'Alzarri Joseph',
     # Guyana Amazon Warriors
-    'Phillips': 'Glenn Phillips', 'Glenn Phillips': 'Glenn Phillips',
+    'Gurbaz': 'Rahmanullah Gurbaz', 'Rahmanullah Gurbaz': 'Rahmanullah Gurbaz',
     'Dindyal': 'Mavendra Dindyal', 'Mavendra Dindyal': 'Mavendra Dindyal',
     'Hope': 'Shai Hope', 'Shai Hope': 'Shai Hope',
     'Hetmyer': 'Shimron Hetmyer', 'Shimron Hetmyer': 'Shimron Hetmyer',
-    'Mehidy Hasan Miraz': 'Mehidy Hasan Miraz', 'Mehidy': 'Mehidy Hasan Miraz',
-    'Miraz': 'Mehidy Hasan Miraz',
-    'Sampson': 'Quentin Sampson', 'Quentin Sampson': 'Quentin Sampson',
+    'M Nabi': 'Mohammad Nabi', 'Mohammad Nabi': 'Mohammad Nabi',
+    'Sampson': 'Quentin Sampson', 'Quinton Sampson': 'Quentin Sampson',
+    'Quentin Sampson': 'Quentin Sampson',
     'Shepherd': 'Romario Shepherd', 'Romario Shepherd': 'Romario Shepherd',
-    'Shamar Joseph': 'Shamar Joseph', 'Joseph': 'Shamar Joseph',
     'Pretorius': 'Dwaine Pretorius', 'Dwaine Pretorius': 'Dwaine Pretorius',
+    'Shamar Joseph': 'Shamar Joseph',
     'Tahir': 'Imran Tahir', 'Imran Tahir': 'Imran Tahir',
-    'Permaul': 'Veerasammy Permaul', 'Veerasammy Permaul': 'Veerasammy Permaul',
+    'Pierre': 'Khary Pierre', 'Khary Pierre': 'Khary Pierre',
 }
 
 MATCH_INFO = {
     'balls_per_over': 6,
-    'city': '',
-    'dates': ['2026-09-11'],
-    'event': {'name': 'Caribbean Premier League', 'match_number': 33},
+    'city': 'Guyana',
+    'dates': ['2026-09-08'],
+    'event': {'name': 'Caribbean Premier League', 'match_number': 30},
     'gender': 'male',
     'match_type': 'T20',
-    'outcome': {'winner': 'Guyana Amazon Warriors', 'by': {'wickets': 6}},
+    'outcome': {'winner': 'Antigua and Barbuda Falcons', 'by': {'runs': 65}},
     'overs': 20,
-    'player_of_match': ['Mehidy Hasan Miraz'],
+    'player_of_match': ['Shadab Khan'],
     'season': '2026',
     'team_type': 'club',
     'toss': {'winner': 'Guyana Amazon Warriors', 'decision': 'field'},
@@ -177,13 +177,13 @@ def build_match_json(out_path):
 
     for inn in match_json['innings']:
         total = sum(deliv['runs']['total'] for over in inn['overs'] for deliv in over['deliveries'])
-        wkts = sum(1 for over in inn['overs'] for deliv in over['deliveries'] if deliv.get('wickets'))
-        balls = sum(1 for over in inn['overs'] for deliv in over['deliveries'])
-        print(f"  {inn['team']}: total {total}, wickets {wkts}, deliveries logged {balls}")
+        wkts = sum(1 for over in inn['overs'] for deliv in over['deliveries'] for _ in deliv.get('wickets', []))
+        n_balls = sum(1 for over in inn['overs'] for deliv in over['deliveries'])
+        print(f"  {inn['team']}: total {total}, wickets {wkts}, deliveries logged {n_balls}")
 
     return match_json
 
 
 if __name__ == '__main__':
-    out = os.path.join(_HERE, 'cpl_2026_match33_tkr_vs_amazon.json')
+    out = os.path.join(_HERE, 'cpl_2026_match30_falcons_vs_amazon.json')
     build_match_json(out)

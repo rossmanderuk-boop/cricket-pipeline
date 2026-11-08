@@ -2,7 +2,7 @@
 build_match_json_template.py
 
 Template for turning parsed commentary (from parse_cricinfo.py) into a Cricsheet-format
-match JSON. Copy this file per match (e.g. matches/matchNN/build_matchNN.py) and fill in the
+match JSON. Copy this file per match (e.g. matches/<league>_<season>/matchNN/build_matchNN.py) and fill in the
 CONFIG section and the two innings text files - the rest of the logic below is reusable.
 """
 
