@@ -23,7 +23,7 @@ I spent 23 years as an in-play sports betting trader specialising in cricket. Co
 Matches are grouped by league and season under `matches/<league>_<season>/matchNN/`. This repo currently includes:
 
 - 2026 Caribbean Premier League (CPL): 9 matches (`matches/cpl_2026/`)
-- 2026/27 Women's Big Bash League (WBBL): 3 matches (`matches/wbbl_2026/`)
+- 2026/27 Women's Big Bash League (WBBL): 4 matches (`matches/wbbl_2026/`)
 
 Each match folder contains a single JSON file structured as:
 
