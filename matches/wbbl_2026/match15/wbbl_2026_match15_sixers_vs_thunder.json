@@ -1,0 +1,2447 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "revision": 1,
+    "source_note": "Reconstructed from ball-by-ball commentary + scorecard. Not an official Cricsheet file. Cross-validate all figures against the scorecard before use."
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Sydney",
+    "dates": [
+      "2026-11-08"
+    ],
+    "event": {
+      "name": "Women's Big Bash League",
+      "match_number": 15
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "outcome": {
+      "winner": "Sydney Sixers Women",
+      "by": {
+        "runs": 9
+      },
+      "method": "D/L"
+    },
+    "overs": 16,
+    "player_of_match": [
+      "Ashleigh Gardner"
+    ],
+    "season": "2026/27",
+    "team_type": "club",
+    "toss": {
+      "winner": "Sydney Thunder Women",
+      "decision": "field"
+    },
+    "venue": "North Sydney Oval, Sydney",
+    "officials": {
+      "umpires": [
+        "Mitchell Claydon",
+        "Roberto Howard"
+      ],
+      "tv_umpires": [
+        "Sharad Patel"
+      ],
+      "reserve_umpires": [
+        "Syed Humayun"
+      ],
+      "match_referees": [
+        "Dave Gilbert"
+      ]
+    },
+    "players": {
+      "Sydney Sixers Women": [
+        "Sophia Dunkley",
+        "Ellyse Perry",
+        "Melie Kerr",
+        "Ashleigh Gardner",
+        "Alice Capsey",
+        "Erin Burns",
+        "Eva Ragg",
+        "Lauren Cheatle",
+        "Sarah Coyte",
+        "Caoimhe Bray",
+        "Frankie Nicklin"
+      ],
+      "Sydney Thunder Women": [
+        "Phoebe Litchfield",
+        "Georgia Voll",
+        "Anika Learoyd",
+        "Heather Knight",
+        "Nadine de Klerk",
+        "Laura Harris",
+        "Tahlia Wilson",
+        "Jemma Barsby",
+        "Hannah Darlington",
+        "Lauren Bell",
+        "Samantha Bates"
+      ]
+    },
+    "registry": {
+      "people": {}
+    },
+    "teams": [
+      "Sydney Sixers Women",
+      "Sydney Thunder Women"
+    ]
+  },
+  "innings": [
+    {
+      "team": "Sydney Sixers Women",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Sophia Dunkley",
+              "bowler": "Samantha Bates",
+              "non_striker": "Sophia Dunkley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Samantha Bates",
+              "non_striker": "Sophia Dunkley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Samantha Bates",
+              "non_striker": "Sophia Dunkley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sophia Dunkley",
+              "bowler": "Samantha Bates",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sophia Dunkley",
+              "bowler": "Samantha Bates",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sophia Dunkley",
+              "bowler": "Samantha Bates",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Sophia Dunkley",
+              "bowler": "Lauren Bell",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sophia Dunkley",
+              "bowler": "Lauren Bell",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Lauren Bell",
+              "non_striker": "Sophia Dunkley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sophia Dunkley",
+              "bowler": "Lauren Bell",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Sophia Dunkley",
+              "bowler": "Lauren Bell",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sophia Dunkley",
+              "bowler": "Lauren Bell",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Lauren Bell",
+              "non_striker": "Sophia Dunkley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Sophia Dunkley",
+              "bowler": "Samantha Bates",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sophia Dunkley",
+              "bowler": "Samantha Bates",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sophia Dunkley",
+              "bowler": "Samantha Bates",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Samantha Bates",
+              "non_striker": "Sophia Dunkley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sophia Dunkley",
+              "bowler": "Samantha Bates",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sophia Dunkley",
+              "bowler": "Samantha Bates",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Lauren Bell",
+              "non_striker": "Sophia Dunkley",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Lauren Bell",
+              "non_striker": "Sophia Dunkley",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Lauren Bell",
+              "non_striker": "Sophia Dunkley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sophia Dunkley",
+              "bowler": "Lauren Bell",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sophia Dunkley",
+              "bowler": "Lauren Bell",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Sophia Dunkley",
+                  "fielders": [
+                    {
+                      "name": "Tahlia Wilson"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Melie Kerr",
+              "bowler": "Lauren Bell",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Lauren Bell",
+              "non_striker": "Melie Kerr",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Lauren Bell",
+              "non_striker": "Melie Kerr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Melie Kerr",
+              "bowler": "Hannah Darlington",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Melie Kerr",
+              "bowler": "Hannah Darlington",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Hannah Darlington",
+              "non_striker": "Melie Kerr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Melie Kerr",
+              "bowler": "Hannah Darlington",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Melie Kerr",
+              "bowler": "Hannah Darlington",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Hannah Darlington",
+              "non_striker": "Melie Kerr",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Melie Kerr",
+              "bowler": "Georgia Voll",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Melie Kerr",
+              "bowler": "Georgia Voll",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Georgia Voll",
+              "non_striker": "Melie Kerr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Georgia Voll",
+              "non_striker": "Melie Kerr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Georgia Voll",
+              "non_striker": "Melie Kerr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Georgia Voll",
+              "non_striker": "Melie Kerr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Melie Kerr",
+              "bowler": "Nadine de Klerk",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Nadine de Klerk",
+              "non_striker": "Melie Kerr",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Nadine de Klerk",
+              "non_striker": "Melie Kerr",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "legbyes": 1
+              }
+            },
+            {
+              "batter": "Melie Kerr",
+              "bowler": "Nadine de Klerk",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Nadine de Klerk",
+              "non_striker": "Melie Kerr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Melie Kerr",
+              "bowler": "Nadine de Klerk",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Jemma Barsby",
+              "non_striker": "Melie Kerr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Melie Kerr",
+              "bowler": "Jemma Barsby",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "legbyes": 1
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Jemma Barsby",
+              "non_striker": "Melie Kerr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Melie Kerr",
+              "bowler": "Jemma Barsby",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Melie Kerr",
+              "bowler": "Jemma Barsby",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Melie Kerr",
+              "bowler": "Jemma Barsby",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Hannah Darlington",
+              "non_striker": "Melie Kerr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Hannah Darlington",
+              "non_striker": "Melie Kerr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Hannah Darlington",
+              "non_striker": "Melie Kerr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Melie Kerr",
+              "bowler": "Hannah Darlington",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Melie Kerr",
+              "bowler": "Hannah Darlington",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Melie Kerr",
+              "bowler": "Hannah Darlington",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Georgia Voll",
+              "non_striker": "Melie Kerr",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Georgia Voll",
+              "non_striker": "Melie Kerr",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Georgia Voll",
+              "non_striker": "Melie Kerr",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Georgia Voll",
+              "non_striker": "Melie Kerr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Georgia Voll",
+              "non_striker": "Melie Kerr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Georgia Voll",
+              "non_striker": "Melie Kerr",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "legbyes": 1
+              },
+              "wickets": [
+                {
+                  "kind": "retired out",
+                  "player_out": "Melie Kerr"
+                }
+              ]
+            },
+            {
+              "batter": "Ashleigh Gardner",
+              "bowler": "Georgia Voll",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Hannah Darlington",
+              "non_striker": "Ashleigh Gardner",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Hannah Darlington",
+              "non_striker": "Ashleigh Gardner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ashleigh Gardner",
+              "bowler": "Hannah Darlington",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "legbyes": 1
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Hannah Darlington",
+              "non_striker": "Ashleigh Gardner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ashleigh Gardner",
+              "bowler": "Hannah Darlington",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Ashleigh Gardner",
+              "bowler": "Hannah Darlington",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Ashleigh Gardner",
+              "bowler": "Jemma Barsby",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ashleigh Gardner",
+              "bowler": "Jemma Barsby",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Ashleigh Gardner",
+              "bowler": "Jemma Barsby",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Ashleigh Gardner",
+              "bowler": "Jemma Barsby",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ashleigh Gardner",
+              "bowler": "Jemma Barsby",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ashleigh Gardner",
+              "bowler": "Jemma Barsby",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Ashleigh Gardner",
+              "bowler": "Samantha Bates",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ashleigh Gardner",
+              "bowler": "Samantha Bates",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Samantha Bates",
+              "non_striker": "Ashleigh Gardner",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              },
+              "extras": {
+                "noballs": 1
+              }
+            },
+            {
+              "batter": "Ashleigh Gardner",
+              "bowler": "Samantha Bates",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ashleigh Gardner",
+              "bowler": "Samantha Bates",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ashleigh Gardner",
+              "bowler": "Samantha Bates",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Ashleigh Gardner",
+              "bowler": "Samantha Bates",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Lauren Bell",
+              "non_striker": "Ashleigh Gardner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Lauren Bell",
+              "non_striker": "Ashleigh Gardner",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Lauren Bell",
+              "non_striker": "Ashleigh Gardner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ashleigh Gardner",
+              "bowler": "Lauren Bell",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ashleigh Gardner",
+              "bowler": "Lauren Bell",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ashleigh Gardner",
+              "bowler": "Lauren Bell",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Ashleigh Gardner",
+              "bowler": "Nadine de Klerk",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ashleigh Gardner",
+              "bowler": "Nadine de Klerk",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Nadine de Klerk",
+              "non_striker": "Ashleigh Gardner",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Nadine de Klerk",
+              "non_striker": "Ashleigh Gardner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ashleigh Gardner",
+              "bowler": "Nadine de Klerk",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 6,
+                "extras": 1,
+                "total": 7
+              },
+              "extras": {
+                "noballs": 1
+              }
+            },
+            {
+              "batter": "Ashleigh Gardner",
+              "bowler": "Nadine de Klerk",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ashleigh Gardner",
+              "bowler": "Nadine de Klerk",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Samantha Bates",
+              "non_striker": "Ashleigh Gardner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Samantha Bates",
+              "non_striker": "Ashleigh Gardner",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Samantha Bates",
+              "non_striker": "Ashleigh Gardner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ashleigh Gardner",
+              "bowler": "Samantha Bates",
+              "non_striker": "Ellyse Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Samantha Bates",
+              "non_striker": "Ashleigh Gardner",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ellyse Perry",
+              "bowler": "Samantha Bates",
+              "non_striker": "Ashleigh Gardner",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "team": "Sydney Thunder Women",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Phoebe Litchfield",
+              "bowler": "Lauren Cheatle",
+              "non_striker": "Phoebe Litchfield",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Georgia Voll",
+              "bowler": "Lauren Cheatle",
+              "non_striker": "Phoebe Litchfield",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Phoebe Litchfield",
+              "bowler": "Lauren Cheatle",
+              "non_striker": "Georgia Voll",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Phoebe Litchfield",
+              "bowler": "Lauren Cheatle",
+              "non_striker": "Georgia Voll",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Phoebe Litchfield",
+              "bowler": "Lauren Cheatle",
+              "non_striker": "Georgia Voll",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Phoebe Litchfield",
+              "bowler": "Lauren Cheatle",
+              "non_striker": "Georgia Voll",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Georgia Voll",
+              "bowler": "Lauren Cheatle",
+              "non_striker": "Phoebe Litchfield",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Georgia Voll",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Phoebe Litchfield",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Phoebe Litchfield",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Georgia Voll",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Phoebe Litchfield"
+                }
+              ]
+            },
+            {
+              "batter": "Anika Learoyd",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Georgia Voll",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Anika Learoyd",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Georgia Voll",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Anika Learoyd",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Georgia Voll",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Anika Learoyd",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Georgia Voll",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Anika Learoyd",
+              "bowler": "Lauren Cheatle",
+              "non_striker": "Georgia Voll",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Georgia Voll",
+              "bowler": "Lauren Cheatle",
+              "non_striker": "Anika Learoyd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Anika Learoyd",
+              "bowler": "Lauren Cheatle",
+              "non_striker": "Georgia Voll",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Anika Learoyd",
+              "bowler": "Lauren Cheatle",
+              "non_striker": "Georgia Voll",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "legbyes": 1
+              }
+            },
+            {
+              "batter": "Georgia Voll",
+              "bowler": "Lauren Cheatle",
+              "non_striker": "Anika Learoyd",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Georgia Voll",
+              "bowler": "Lauren Cheatle",
+              "non_striker": "Anika Learoyd",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Anika Learoyd",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Georgia Voll",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Anika Learoyd",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Georgia Voll",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Anika Learoyd",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Georgia Voll",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Anika Learoyd",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Georgia Voll",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "Anika Learoyd",
+                  "fielders": [
+                    {
+                      "name": "Ellyse Perry"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Georgia Voll",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Georgia Voll",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Georgia Voll",
+                  "fielders": [
+                    {
+                      "name": "Melie Kerr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Nadine de Klerk",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Nadine de Klerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Heather Knight",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Nadine de Klerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nadine de Klerk",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Heather Knight",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Heather Knight",
+              "bowler": "Lauren Cheatle",
+              "non_striker": "Nadine de Klerk",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Heather Knight",
+              "bowler": "Lauren Cheatle",
+              "non_striker": "Nadine de Klerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nadine de Klerk",
+              "bowler": "Lauren Cheatle",
+              "non_striker": "Heather Knight",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nadine de Klerk",
+              "bowler": "Lauren Cheatle",
+              "non_striker": "Heather Knight",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nadine de Klerk",
+              "bowler": "Lauren Cheatle",
+              "non_striker": "Heather Knight",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nadine de Klerk",
+              "bowler": "Lauren Cheatle",
+              "non_striker": "Heather Knight",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nadine de Klerk",
+              "bowler": "Lauren Cheatle",
+              "non_striker": "Heather Knight",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Nadine de Klerk",
+              "bowler": "Melie Kerr",
+              "non_striker": "Heather Knight",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Heather Knight",
+              "bowler": "Melie Kerr",
+              "non_striker": "Nadine de Klerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nadine de Klerk",
+              "bowler": "Melie Kerr",
+              "non_striker": "Heather Knight",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nadine de Klerk",
+              "bowler": "Melie Kerr",
+              "non_striker": "Heather Knight",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Heather Knight",
+              "bowler": "Melie Kerr",
+              "non_striker": "Nadine de Klerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nadine de Klerk",
+              "bowler": "Melie Kerr",
+              "non_striker": "Heather Knight",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Heather Knight",
+              "bowler": "Frankie Nicklin",
+              "non_striker": "Nadine de Klerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nadine de Klerk",
+              "bowler": "Frankie Nicklin",
+              "non_striker": "Heather Knight",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nadine de Klerk",
+              "bowler": "Frankie Nicklin",
+              "non_striker": "Heather Knight",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nadine de Klerk",
+              "bowler": "Frankie Nicklin",
+              "non_striker": "Heather Knight",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Heather Knight",
+              "bowler": "Frankie Nicklin",
+              "non_striker": "Nadine de Klerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nadine de Klerk",
+              "bowler": "Frankie Nicklin",
+              "non_striker": "Heather Knight",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Nadine de Klerk",
+              "bowler": "Sarah Coyte",
+              "non_striker": "Heather Knight",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Heather Knight",
+              "bowler": "Sarah Coyte",
+              "non_striker": "Nadine de Klerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Heather Knight",
+              "bowler": "Sarah Coyte",
+              "non_striker": "Nadine de Klerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Heather Knight",
+                  "fielders": [
+                    {
+                      "name": "Ashleigh Gardner"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Laura Harris",
+              "bowler": "Sarah Coyte",
+              "non_striker": "Nadine de Klerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nadine de Klerk",
+              "bowler": "Sarah Coyte",
+              "non_striker": "Laura Harris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Laura Harris",
+              "bowler": "Sarah Coyte",
+              "non_striker": "Nadine de Klerk",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Nadine de Klerk",
+              "bowler": "Ashleigh Gardner",
+              "non_striker": "Laura Harris",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Nadine de Klerk",
+              "bowler": "Ashleigh Gardner",
+              "non_striker": "Laura Harris",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nadine de Klerk",
+              "bowler": "Ashleigh Gardner",
+              "non_striker": "Laura Harris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Laura Harris",
+              "bowler": "Ashleigh Gardner",
+              "non_striker": "Nadine de Klerk",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Laura Harris",
+              "bowler": "Ashleigh Gardner",
+              "non_striker": "Nadine de Klerk",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Laura Harris",
+              "bowler": "Ashleigh Gardner",
+              "non_striker": "Nadine de Klerk",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Laura Harris",
+              "bowler": "Ashleigh Gardner",
+              "non_striker": "Nadine de Klerk",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Nadine de Klerk",
+              "bowler": "Melie Kerr",
+              "non_striker": "Laura Harris",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nadine de Klerk",
+              "bowler": "Melie Kerr",
+              "non_striker": "Laura Harris",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nadine de Klerk",
+              "bowler": "Melie Kerr",
+              "non_striker": "Laura Harris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nadine de Klerk",
+              "bowler": "Melie Kerr",
+              "non_striker": "Laura Harris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Laura Harris",
+              "bowler": "Melie Kerr",
+              "non_striker": "Nadine de Klerk",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Laura Harris",
+              "bowler": "Melie Kerr",
+              "non_striker": "Nadine de Klerk",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Laura Harris",
+              "bowler": "Melie Kerr",
+              "non_striker": "Nadine de Klerk",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Nadine de Klerk",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Laura Harris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Nadine de Klerk",
+                  "fielders": [
+                    {
+                      "name": "Alice Capsey"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Tahlia Wilson",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Laura Harris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Laura Harris",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Tahlia Wilson",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "legbyes": 1
+              }
+            },
+            {
+              "batter": "Tahlia Wilson",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Laura Harris",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Tahlia Wilson",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Laura Harris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Laura Harris",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Tahlia Wilson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Laura Harris",
+                  "fielders": [
+                    {
+                      "name": "Sarah Coyte"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Tahlia Wilson",
+              "bowler": "Ashleigh Gardner",
+              "non_striker": "Tahlia Wilson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Tahlia Wilson",
+              "bowler": "Ashleigh Gardner",
+              "non_striker": "Tahlia Wilson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Tahlia Wilson",
+              "bowler": "Ashleigh Gardner",
+              "non_striker": "Tahlia Wilson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Tahlia Wilson",
+                  "fielders": [
+                    {
+                      "name": "Caoimhe Bray"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Hannah Darlington",
+              "bowler": "Ashleigh Gardner",
+              "non_striker": "Hannah Darlington",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Hannah Darlington",
+              "bowler": "Ashleigh Gardner",
+              "non_striker": "Hannah Darlington",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jemma Barsby",
+              "bowler": "Ashleigh Gardner",
+              "non_striker": "Hannah Darlington",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Jemma Barsby",
+                  "fielders": [
+                    {
+                      "name": "Lauren Cheatle"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Hannah Darlington",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Hannah Darlington",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Lauren Bell",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Hannah Darlington",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hannah Darlington",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Lauren Bell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Hannah Darlington",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Lauren Bell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hannah Darlington",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Lauren Bell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hannah Darlington",
+              "bowler": "Caoimhe Bray",
+              "non_striker": "Lauren Bell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Lauren Bell",
+              "bowler": "Sarah Coyte",
+              "non_striker": "Hannah Darlington",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hannah Darlington",
+              "bowler": "Sarah Coyte",
+              "non_striker": "Lauren Bell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Hannah Darlington"
+                }
+              ]
+            },
+            {
+              "batter": "Samantha Bates",
+              "bowler": "Sarah Coyte",
+              "non_striker": "Lauren Bell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Samantha Bates",
+              "bowler": "Sarah Coyte",
+              "non_striker": "Lauren Bell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Samantha Bates",
+              "bowler": "Sarah Coyte",
+              "non_striker": "Lauren Bell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Samantha Bates",
+              "bowler": "Sarah Coyte",
+              "non_striker": "Lauren Bell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Samantha Bates",
+              "bowler": "Frankie Nicklin",
+              "non_striker": "Lauren Bell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Lauren Bell",
+              "bowler": "Frankie Nicklin",
+              "non_striker": "Samantha Bates",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              },
+              "extras": {
+                "legbyes": 2
+              }
+            },
+            {
+              "batter": "Lauren Bell",
+              "bowler": "Frankie Nicklin",
+              "non_striker": "Samantha Bates",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Lauren Bell",
+              "bowler": "Frankie Nicklin",
+              "non_striker": "Samantha Bates",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Samantha Bates",
+              "bowler": "Frankie Nicklin",
+              "non_striker": "Lauren Bell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Samantha Bates",
+              "bowler": "Frankie Nicklin",
+              "non_striker": "Lauren Bell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Lauren Bell",
+              "bowler": "Sarah Coyte",
+              "non_striker": "Samantha Bates",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Lauren Bell",
+              "bowler": "Sarah Coyte",
+              "non_striker": "Samantha Bates",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Lauren Bell",
+              "bowler": "Sarah Coyte",
+              "non_striker": "Samantha Bates",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "Samantha Bates",
+                  "fielders": [
+                    {
+                      "name": "Ashleigh Gardner"
+                    },
+                    {
+                      "name": "Sarah Coyte"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

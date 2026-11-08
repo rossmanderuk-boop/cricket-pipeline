@@ -1,0 +1,292 @@
+0.1
+1
+Dean to Mack, 1 run
+0.2
+•
+Dean to Mooney, no run
+0.3
+•
+Dean to Mooney, no run
+0.4
+•
+Dean to Mooney, no run
+0.5
+•
+Dean to Mooney, no run
+0.6
+•
+Dean to Mooney, no run
+1.1
+1
+Garth to Mack, 1 run
+1.2
+•
+Garth to Mooney, no run
+1.3
+2
+Garth to Mooney, 2 runs
+1.4
+4
+Garth to Mooney, FOUR runs
+1.5
+4
+Garth to Mooney, FOUR runs
+1.6
+1
+Garth to Mooney, 1 run
+2.1
+1
+Day to Mooney, 1 run
+2.2
+W
+Day to Mack, OUT
+Katie Mack b Day 2 (3b 0x4 0x6 8m) SR: 66.66
+2.3
+6
+Day to Devine, SIX runs
+2.4
+1lb
+Day to Devine, 1 leg bye
+2.5
+1
+Day to Mooney, 1 run
+2.6
+1
+Day to Devine, 1 run
+3.1
+4
+Garth to Devine, FOUR runs
+3.2
+4lb
+Garth to Devine, 4 leg byes
+3.3
+1w
+Garth to Devine, 1 wide
+3.3
+•
+Garth to Devine, no run
+3.4
+4
+Garth to Devine, FOUR runs
+3.5
+1
+Garth to Devine, 1 run
+3.6
+•
+Garth to Mooney, no run
+4.1
+4
+Dean to Devine, FOUR runs
+4.2
+6
+Dean to Devine, SIX runs
+4.3
+•
+Dean to Devine, no run
+4.4
+4
+Dean to Devine, FOUR runs
+4.5
+4
+Dean to Devine, FOUR runs
+4.6
+•
+Dean to Devine, no run
+5.1
+4
+Sutherland to Mooney, FOUR runs
+5.2
+1lb
+Sutherland to Mooney, 1 leg bye
+5.3
+•
+Sutherland to Devine, no run
+5.4
+4
+Sutherland to Devine, FOUR runs
+5.5
+•
+Sutherland to Devine, no run
+5.6
+1w
+Sutherland to Devine, 1 wide
+5.6
+1
+Sutherland to Devine, 1 run
+6.1
+1
+Gibson to Devine, 1 run
+6.2
+1w
+Gibson to Mooney, 1 wide
+6.2
+1
+Gibson to Mooney, 1 run
+6.3
+4
+Gibson to Devine, FOUR runs
+6.4
+6
+Gibson to Devine, SIX runs
+6.5
+1
+Gibson to Devine, 1 run
+6.6
+1
+Gibson to Mooney, 1 run
+7.1
+1
+Day to Mooney, 1 run
+7.2
+4
+Day to Devine, FOUR runs
+7.3
+W
+Day to Devine, OUT
+Sophie Devine c Garth b Day 55 (24b 8x4 3x6 22m) SR: 229.16
+7.4
+1w
+Day to Kemp, 1 wide
+7.4
+1
+Day to Kemp, 1 run
+7.5
+1
+Day to Mooney, 1 run
+7.6
+1
+Day to Kemp, 1 run
+8.1
+•
+Sutherland to Kemp, no run
+8.2
+W
+Sutherland to Kemp, OUT
+Freya Kemp b Sutherland 2 (4b 0x4 0x6 4m) SR: 50
+8.3
+4
+Sutherland to Hinkley, FOUR runs
+8.4
+•
+Sutherland to Hinkley, no run
+8.5
+1
+Sutherland to Hinkley, 1 run
+8.6
+1w
+Sutherland to Mooney, 1 wide
+8.6
+1
+Sutherland to Mooney, 1 run
+9.1
+1w
+Day to Mooney, 1 wide
+9.1
+1
+Day to Mooney, 1 run
+9.2
+•
+Day to Hinkley, no run
+9.3
+1
+Day to Hinkley, 1 run
+9.4
+4
+Day to Mooney, FOUR runs
+9.5
+1
+Day to Mooney, 1 run
+9.6
+4
+Day to Hinkley, FOUR runs
+10.1
+W
+Garth to Mooney, OUT
+Beth Mooney c McKenna b Garth 28 (24b 4x4 0x6 45m) SR: 116.66
+10.2
+•
+Garth to Piparo, no run
+10.3
+1
+Garth to Piparo, 1 run
+10.4
+1
+Garth to Hinkley, 1 run
+10.5
+2
+Garth to Piparo, 2 runs
+10.6
+•
+Garth to Piparo, no run
+11.1
+•
+Sutherland to Hinkley, no run
+11.2
+1
+Sutherland to Hinkley, 1 run
+11.3
+1
+Sutherland to Piparo, 1 run
+11.4
+•
+Sutherland to Hinkley, no run
+11.5
+1
+Sutherland to Hinkley, 1 run
+11.6
+4
+Sutherland to Piparo, FOUR runs
+12.1
+1
+Garth to Hinkley, 1 run
+12.2
+1
+Garth to Piparo, 1 run
+12.3
+2
+Garth to Hinkley, 2 runs
+12.4
+•
+Garth to Hinkley, no run
+12.5
+1
+Garth to Hinkley, 1 run
+12.6
+1
+Garth to Piparo, 1 run
+13.1
+•
+Day to Piparo, no run
+13.2
+1
+Day to Piparo, 1 run
+13.3
+1
+Day to Hinkley, 1 run
+13.4
+2
+Day to Piparo, 2 runs
+13.5
+•
+Day to Piparo, no run
+13.6
+•
+Day to Piparo, no run
+14.1
+1
+Dean to Hinkley, 1 run
+14.2
+•
+Dean to Piparo, no run
+14.3
+•
+Dean to Piparo, no run
+14.4
+1
+Dean to Piparo, 1 run
+14.5
+4
+Dean to Hinkley, FOUR runs
+14.6
+1
+Dean to Hinkley, 1 run
