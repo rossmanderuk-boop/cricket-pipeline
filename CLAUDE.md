@@ -85,3 +85,22 @@ yet in an official Cricsheet release.
   and the scorecard side by side.
 - D/L-affected matches — set `outcome.method: "D/L"` if the target was revised.
 - Abandoned matches with no ball bowled — don't build a JSON.
+
+## WBBL matches — standing order: upload to Google Drive
+
+Whenever a WBBL match is converted to JSON (and has passed validation), upload the final
+JSON file — without being asked — to **both** of these Google Drive `manual_jsons` folders:
+
+| Drive folder                          | Folder ID                           |
+|---------------------------------------|-------------------------------------|
+| `WBBL UPDATER/manual_jsons`           | `17oOVcwuSYiqyBz_d20bXhZGqerKAm5le` |
+| `WBBL Batter Updater/manual_jsons`    | `1210p_w7lgTq-VR_zbsxY2tHZJ2HASOgX` |
+
+- Use the repo filename as the Drive title (e.g. `wbbl_2026_match17_hurricanes_vs_strikers.json`),
+  content type `application/json`, with conversion to Google types disabled.
+- Before uploading, list each folder's contents; if a file for that match number already
+  exists, ask before adding a duplicate or replacing it.
+- If the folder IDs stop resolving, search Drive for folders titled `manual_jsons` whose parent
+  is `WBBL UPDATER` / `WBBL Batter Updater`.
+- Report both Drive links back once uploaded.
+- WBBL matches live in `matches/wbbl_matchNN/` (kept separate from CPL `matches/matchNN/`).
