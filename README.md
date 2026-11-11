@@ -20,7 +20,7 @@ I spent 23 years as an in-play sports betting trader specialising in cricket. Co
 
 ## Example output
 
-This repo currently includes matches from the 2026 Carribean Premier League (CPL) 9 matches, so far. 
+This repo currently includes matches from the 2026 Carribean Premier League (CPL) 9 matches, and the 2026/27 Women's Big Bash League (WBBL) 1 match, so far. 
 
 Each match folder contains a single JSON file structured as:
 
