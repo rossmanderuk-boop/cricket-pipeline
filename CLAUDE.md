@@ -63,6 +63,20 @@ yet in an official Cricsheet release.
    the per-match build/validation scripts to the repo. Note anything assumed (e.g. toss
    winner/decision if not stated) so it can be corrected.
 
+   **Then upload the final JSON to Google Drive — every match, without being asked.** This is
+   a standing instruction from the repo owner: use the Google Drive connector to upload the
+   validated JSON (same filename, `application/json`, conversion disabled) to the league's
+   `manual_jsons` folder(s), and confirm the upload in the reply. Don't overwrite an existing
+   file of the same name — if one exists, say so instead.
+   - WBBL: upload to BOTH of these (the updater notebooks read from each):
+     - `WBBL UPDATER/manual_jsons` (folder ID `17oOVcwuSYiqyBz_d20bXhZGqerKAm5le`)
+     - `WBBL Batter Updater/manual_jsons` (folder ID `1210p_w7lgTq-VR_zbsxY2tHZJ2HASOgX`)
+   - Other leagues: look for the equivalent `<LEAGUE> UPDATER` / `<LEAGUE> batter updater`
+     folders and their `manual_jsons` subfolders; if none exist, ask before creating any.
+
+   WBBL matches live in `matches/wbbl_2026_matchNN/` (not `matches/matchNN/`) so they don't
+   clash with CPL match numbers.
+
    Also update the match count in `README.md` ("This repo currently includes matches from
    the 2026 Carribean Premier League (CPL) N matches, so far.") to match the number of
    `matches/matchNN` folders in the repo, and include that change in the same commit.
