@@ -1,0 +1,503 @@
+# Melbourne Renegades Women innings (chase). Compact form of the Cricinfo commentary.
+0.1
+1
+Bray to Porter, 1 run
+
+0.2
+1
+Bray to Matthews, 1 run
+
+0.3
+•
+Bray to Porter, no run
+
+0.4
+1
+Bray to Porter, 1 run
+
+0.5
+•
+Bray to Matthews, no run
+
+0.6
+•
+Bray to Matthews, no run
+
+1.1
+1
+Cheatle to Porter, 1 run
+
+1.2
+W
+Cheatle to Matthews, OUT
+Hayley Matthews c Kerr b Cheatle 1 (4b 0x4 0x6 5m) SR: 25
+
+1.3
+•
+Cheatle to Webb, no run
+
+1.4
+1
+Cheatle to Webb, 1 run
+
+1.5
+•
+Cheatle to Porter, no run
+
+1.6
+•
+Cheatle to Porter, no run
+
+2.1
+•
+Bray to Webb, no run
+
+2.2
+1
+Bray to Webb, 1 run
+
+2.3
+2
+Bray to Porter, 2 runs
+
+2.4
+•
+Bray to Porter, no run
+
+2.5
+1
+Bray to Porter, 1 run
+
+2.6
+1w
+Bray to Webb, 1 wide
+
+2.6
+4
+Bray to Webb, FOUR runs
+
+3.1
+4
+Cheatle to Porter, FOUR runs
+
+3.2
+•
+Cheatle to Porter, no run
+
+3.3
+1
+Cheatle to Porter, 1 run
+
+3.4
+•
+Cheatle to Webb, no run
+
+3.5
+•
+Cheatle to Webb, no run
+
+3.6
+1
+Cheatle to Webb, 1 run
+
+4.1
+W
+Melie Kerr to Webb, OUT
+Courtney Webb c Cheatle b Kerr 7 (9b 1x4 0x6 12m) SR: 77.77
+
+4.2
+2
+Melie Kerr to Molineux, 2 runs
+
+4.3
+W
+Melie Kerr to Molineux, OUT
+Olivia Porter run out (Kerr) 11 (12b 1x4 0x6 20m) SR: 91.66
+
+4.4
+1
+Melie Kerr to Molineux, 1 run
+
+4.5
+•
+Melie Kerr to Faltum, no run
+
+4.6
+4
+Melie Kerr to Faltum, FOUR runs
+
+5.1
+1
+Gardner to Molineux, 1 run
+
+5.2
+•
+Gardner to Faltum, no run
+
+5.3
+•
+Gardner to Faltum, no run
+
+5.4
+1
+Gardner to Faltum, 1 run
+
+5.5
+•
+Gardner to Molineux, no run
+
+5.6
+1
+Gardner to Molineux, 1 run
+
+6.1
+1
+Melie Kerr to Molineux, 1 run
+
+6.2
+4
+Melie Kerr to Faltum, FOUR runs
+
+6.3
+1
+Melie Kerr to Faltum, 1 run
+
+6.4
+•
+Melie Kerr to Molineux, no run
+
+6.5
+•
+Melie Kerr to Molineux, no run
+
+6.6
+1w
+Melie Kerr to Molineux, 1 wide
+
+6.6
+1
+Melie Kerr to Molineux, 1 run
+
+7.1
+1
+Nicklin to Molineux, 1 run
+
+7.2
+•
+Nicklin to Faltum, no run
+
+7.3
+2
+Nicklin to Faltum, 2 runs
+
+7.4
+1
+Nicklin to Faltum, 1 run
+
+7.5
+1
+Nicklin to Molineux, 1 run
+
+7.6
+1
+Nicklin to Faltum, 1 run
+
+8.1
+•
+Coyte to Faltum, no run
+
+8.2
+1
+Coyte to Faltum, 1 run
+
+8.3
+4
+Coyte to Molineux, FOUR runs
+
+8.4
+•
+Coyte to Molineux, no run
+
+8.5
+1
+Coyte to Molineux, 1 run
+
+8.6
+1
+Coyte to Faltum, 1 run
+
+9.1
+1
+Gardner to Faltum, 1 run
+
+9.2
+1
+Gardner to Molineux, 1 run
+
+9.3
+1
+Gardner to Faltum, 1 run
+
+9.4
+•
+Gardner to Molineux, no run
+
+9.5
+1
+Gardner to Molineux, 1 run
+
+9.6
+•
+Gardner to Faltum, no run
+
+10.1
+1
+Bray to Molineux, 1 run
+
+10.2
+1
+Bray to Faltum, 1 run
+
+10.3
+1
+Bray to Molineux, 1 run
+
+10.4
+1
+Bray to Faltum, 1 run
+
+10.5
+W
+Bray to Molineux, OUT
+Sophie Molineux c Ragg b Bray 18 (21b 1x4 0x6 28m) SR: 85.71
+
+10.6
+1
+Bray to Wareham, 1 run
+
+11.1
+1
+Cheatle to Wareham, 1 run
+
+11.2
+1
+Cheatle to Faltum, 1 run
+
+11.3
+1
+Cheatle to Wareham, 1 run
+
+11.4
+W
+Cheatle to Faltum, OUT
+Nicole Faltum c Gardner b Cheatle 21 (21b 2x4 0x6 30m) SR: 100
+
+11.5
+•
+Cheatle to Flintoff, no run
+
+11.6
+1
+Cheatle to Flintoff, 1 run
+
+12.1
+•
+Nicklin to Flintoff, no run
+
+12.2
+1
+Nicklin to Flintoff, 1 run
+
+12.3
+1
+Nicklin to Wareham, 1 run
+
+12.4
+•
+Nicklin to Flintoff, no run
+
+12.5
+1
+Nicklin to Flintoff, 1 run
+
+12.6
+1
+Nicklin to Wareham, 1 run
+
+13.1
+1b
+Melie Kerr to Wareham, 1 bye
+
+13.2
+•
+Melie Kerr to Flintoff, no run
+
+13.3
+•
+Melie Kerr to Flintoff, no run
+
+13.4
+1
+Melie Kerr to Flintoff, 1 run
+
+13.5
+1
+Melie Kerr to Wareham, 1 run
+
+13.6
+1
+Melie Kerr to Flintoff, 1 run
+
+14.1
+2
+Coyte to Flintoff, 2 runs
+
+14.2
+•
+Coyte to Flintoff, no run
+
+14.3
+4
+Coyte to Flintoff, FOUR runs
+
+14.4
+•
+Coyte to Flintoff, no run
+
+14.5
+•
+Coyte to Flintoff, no run
+
+14.6
+1
+Coyte to Flintoff, 1 run
+
+15.1
+1
+Melie Kerr to Flintoff, 1 run
+
+15.2
+1
+Melie Kerr to Wareham, 1 run
+
+15.3
+4
+Melie Kerr to Flintoff, FOUR runs
+
+15.4
+1
+Melie Kerr to Flintoff, 1 run
+
+15.5
+4
+Melie Kerr to Wareham, FOUR runs
+
+15.6
+•
+Melie Kerr to Wareham, no run
+
+16.1
+4
+Nicklin to Flintoff, FOUR runs
+
+16.2
+6
+Nicklin to Flintoff, SIX runs
+
+16.3
+4
+Nicklin to Flintoff, FOUR runs
+
+16.4
+2
+Nicklin to Flintoff, 2 runs
+
+16.5
+•
+Nicklin to Flintoff, no run
+
+16.6
+4
+Nicklin to Flintoff, FOUR runs
+
+17.1
+2
+Cheatle to Wareham, 2 runs
+
+17.2
+1
+Cheatle to Wareham, 1 run
+
+17.3
+1
+Cheatle to Flintoff, 1 run
+
+17.4
+1
+Cheatle to Wareham, 1 run
+
+17.5
+2
+Cheatle to Flintoff, 2 runs
+
+17.6
+1
+Cheatle to Flintoff, 1 run
+
+18.1
+1
+Coyte to Flintoff, 1 run
+
+18.2
+1
+Coyte to Wareham, 1 run
+
+18.3
+1w
+Coyte to Flintoff, 1 wide
+
+18.3
+1
+Coyte to Flintoff, 1 run
+
+18.4
+1
+Coyte to Wareham, 1 run
+
+18.5
+W
+Coyte to Flintoff, OUT
+Tess Flintoff b Coyte 44 (31b 5x4 1x6 27m) SR: 141.93
+
+18.6
+•
+Coyte to Tryon, no run
+
+19.1
+W
+Gardner to Wareham, OUT
+Georgia Wareham b Gardner 17 (16b 1x4 0x6 34m) SR: 106.25
+
+19.2
+4
+Gardner to Dottin, FOUR runs
+
+19.3
+W
+Gardner to Dottin, OUT
+Deandra Dottin c Cheatle b Gardner 4 (2b 1x4 0x6 2m) SR: 200
+
+19.4
+1
+Gardner to MH Illingworth, 1 run
+
+19.5
+W
+Gardner to Tryon, OUT
+Chloe Tryon c Kerr b Gardner 0 (2b 0x4 0x6 6m) SR: 0
+
+19.6
+1W
+Gardner to Vlaeminck, 1 run, OUT
+Tayla Vlaeminck run out (Cheatle/†Capsey) 1 (1b 0x4 0x6 1m) SR: 100
+
