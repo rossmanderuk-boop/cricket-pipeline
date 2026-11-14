@@ -1,0 +1,2924 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "revision": 1,
+    "source_note": "Reconstructed from ball-by-ball commentary + scorecard. Not an official Cricsheet file. Cross-validate all figures against the scorecard before use."
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Perth",
+    "dates": [
+      "2026-11-14"
+    ],
+    "event": {
+      "name": "Women's Big Bash League",
+      "match_number": 22
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "outcome": {
+      "winner": "Adelaide Strikers Women",
+      "by": {
+        "runs": 51
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Anesu Mushangwe"
+    ],
+    "season": "2026/27",
+    "team_type": "club",
+    "toss": {
+      "winner": "Adelaide Strikers Women",
+      "decision": "bat"
+    },
+    "venue": "Western Australia Cricket Association Ground, Perth",
+    "players": {
+      "Adelaide Strikers Women": [
+        "Emma de Broughe",
+        "Maia Bouchier",
+        "Laura Wolvaardt",
+        "Tahlia McGrath",
+        "Madeline Penna",
+        "Ellie Johnston",
+        "Amanda-Jade Wellington",
+        "Eleanor Larosa",
+        "Ella Wilson",
+        "Megan Schutt",
+        "Anesu Mushangwe"
+      ],
+      "Perth Scorchers Women": [
+        "Beth Mooney",
+        "Katie Mack",
+        "Sophie Devine",
+        "Freya Kemp",
+        "Mikayla Hinkley",
+        "Chloe Piparo",
+        "Alana King",
+        "Chloe Ainsworth",
+        "Fatima Sana",
+        "Lilly Mills",
+        "Amy Edgar"
+      ]
+    },
+    "registry": {
+      "people": {}
+    },
+    "teams": [
+      "Adelaide Strikers Women",
+      "Perth Scorchers Women"
+    ]
+  },
+  "innings": [
+    {
+      "team": "Adelaide Strikers Women",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Emma de Broughe",
+              "bowler": "Chloe Ainsworth",
+              "non_striker": "Maia Bouchier",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Emma de Broughe",
+              "bowler": "Chloe Ainsworth",
+              "non_striker": "Maia Bouchier",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Emma de Broughe",
+              "bowler": "Chloe Ainsworth",
+              "non_striker": "Maia Bouchier",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Emma de Broughe",
+              "bowler": "Chloe Ainsworth",
+              "non_striker": "Maia Bouchier",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Maia Bouchier",
+              "bowler": "Chloe Ainsworth",
+              "non_striker": "Emma de Broughe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Maia Bouchier",
+              "bowler": "Chloe Ainsworth",
+              "non_striker": "Emma de Broughe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Maia Bouchier",
+              "bowler": "Fatima Sana",
+              "non_striker": "Emma de Broughe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Maia Bouchier",
+              "bowler": "Fatima Sana",
+              "non_striker": "Emma de Broughe",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "legbyes": 1
+              }
+            },
+            {
+              "batter": "Emma de Broughe",
+              "bowler": "Fatima Sana",
+              "non_striker": "Maia Bouchier",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Maia Bouchier",
+              "bowler": "Fatima Sana",
+              "non_striker": "Emma de Broughe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Maia Bouchier",
+              "bowler": "Fatima Sana",
+              "non_striker": "Emma de Broughe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Maia Bouchier",
+              "bowler": "Fatima Sana",
+              "non_striker": "Emma de Broughe",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Maia Bouchier",
+              "bowler": "Fatima Sana",
+              "non_striker": "Emma de Broughe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Maia Bouchier",
+                  "fielders": [
+                    {
+                      "name": "Chloe Piparo"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Emma de Broughe",
+              "bowler": "Chloe Ainsworth",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Emma de Broughe",
+              "bowler": "Chloe Ainsworth",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Emma de Broughe",
+              "bowler": "Chloe Ainsworth",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Laura Wolvaardt",
+              "bowler": "Chloe Ainsworth",
+              "non_striker": "Emma de Broughe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Emma de Broughe",
+              "bowler": "Chloe Ainsworth",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Emma de Broughe",
+              "bowler": "Chloe Ainsworth",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Emma de Broughe",
+              "bowler": "Fatima Sana",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Emma de Broughe",
+              "bowler": "Fatima Sana",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Laura Wolvaardt",
+              "bowler": "Fatima Sana",
+              "non_striker": "Emma de Broughe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Laura Wolvaardt",
+              "bowler": "Fatima Sana",
+              "non_striker": "Emma de Broughe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Laura Wolvaardt",
+              "bowler": "Fatima Sana",
+              "non_striker": "Emma de Broughe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Laura Wolvaardt",
+              "bowler": "Fatima Sana",
+              "non_striker": "Emma de Broughe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Emma de Broughe",
+              "bowler": "Chloe Ainsworth",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Emma de Broughe",
+              "bowler": "Chloe Ainsworth",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Emma de Broughe",
+              "bowler": "Chloe Ainsworth",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Emma de Broughe",
+              "bowler": "Chloe Ainsworth",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Laura Wolvaardt",
+              "bowler": "Chloe Ainsworth",
+              "non_striker": "Emma de Broughe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Emma de Broughe",
+              "bowler": "Chloe Ainsworth",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Laura Wolvaardt",
+              "bowler": "Sophie Devine",
+              "non_striker": "Emma de Broughe",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Laura Wolvaardt",
+              "bowler": "Sophie Devine",
+              "non_striker": "Emma de Broughe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Emma de Broughe",
+              "bowler": "Sophie Devine",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Emma de Broughe",
+              "bowler": "Sophie Devine",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Emma de Broughe",
+              "bowler": "Sophie Devine",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Emma de Broughe",
+              "bowler": "Sophie Devine",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Emma de Broughe",
+              "bowler": "Sophie Devine",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Emma de Broughe",
+              "bowler": "Alana King",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Emma de Broughe",
+              "bowler": "Alana King",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Laura Wolvaardt",
+              "bowler": "Alana King",
+              "non_striker": "Emma de Broughe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Emma de Broughe",
+              "bowler": "Alana King",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Emma de Broughe",
+              "bowler": "Alana King",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Emma de Broughe",
+              "bowler": "Alana King",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Laura Wolvaardt",
+              "bowler": "Lilly Mills",
+              "non_striker": "Emma de Broughe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Laura Wolvaardt",
+              "bowler": "Lilly Mills",
+              "non_striker": "Emma de Broughe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Laura Wolvaardt",
+              "bowler": "Lilly Mills",
+              "non_striker": "Emma de Broughe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Emma de Broughe",
+              "bowler": "Lilly Mills",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Emma de Broughe",
+              "bowler": "Lilly Mills",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Laura Wolvaardt",
+              "bowler": "Lilly Mills",
+              "non_striker": "Emma de Broughe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Laura Wolvaardt",
+              "bowler": "Sophie Devine",
+              "non_striker": "Emma de Broughe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Emma de Broughe",
+              "bowler": "Sophie Devine",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Laura Wolvaardt",
+              "bowler": "Sophie Devine",
+              "non_striker": "Emma de Broughe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Emma de Broughe",
+              "bowler": "Sophie Devine",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Emma de Broughe",
+              "bowler": "Sophie Devine",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Laura Wolvaardt",
+              "bowler": "Sophie Devine",
+              "non_striker": "Emma de Broughe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Emma de Broughe",
+              "bowler": "Fatima Sana",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Emma de Broughe",
+              "bowler": "Fatima Sana",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Laura Wolvaardt",
+              "bowler": "Fatima Sana",
+              "non_striker": "Emma de Broughe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Laura Wolvaardt",
+              "bowler": "Fatima Sana",
+              "non_striker": "Emma de Broughe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Emma de Broughe",
+              "bowler": "Fatima Sana",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Emma de Broughe",
+              "bowler": "Fatima Sana",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Laura Wolvaardt",
+              "bowler": "Amy Edgar",
+              "non_striker": "Emma de Broughe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Laura Wolvaardt",
+              "bowler": "Amy Edgar",
+              "non_striker": "Emma de Broughe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Laura Wolvaardt",
+              "bowler": "Amy Edgar",
+              "non_striker": "Emma de Broughe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Emma de Broughe",
+              "bowler": "Amy Edgar",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Emma de Broughe",
+              "bowler": "Amy Edgar",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Emma de Broughe",
+              "bowler": "Amy Edgar",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Emma de Broughe",
+              "bowler": "Alana King",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Emma de Broughe"
+                }
+              ]
+            },
+            {
+              "batter": "Tahlia McGrath",
+              "bowler": "Alana King",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tahlia McGrath",
+              "bowler": "Alana King",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Laura Wolvaardt",
+              "bowler": "Alana King",
+              "non_striker": "Tahlia McGrath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tahlia McGrath",
+              "bowler": "Alana King",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tahlia McGrath",
+              "bowler": "Alana King",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Tahlia McGrath",
+              "bowler": "Chloe Ainsworth",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Tahlia McGrath"
+                }
+              ]
+            },
+            {
+              "batter": "Madeline Penna",
+              "bowler": "Chloe Ainsworth",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Madeline Penna",
+              "bowler": "Chloe Ainsworth",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Madeline Penna",
+              "bowler": "Chloe Ainsworth",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Laura Wolvaardt",
+              "bowler": "Chloe Ainsworth",
+              "non_striker": "Madeline Penna",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Madeline Penna",
+              "bowler": "Chloe Ainsworth",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Laura Wolvaardt",
+              "bowler": "Lilly Mills",
+              "non_striker": "Madeline Penna",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Laura Wolvaardt",
+              "bowler": "Lilly Mills",
+              "non_striker": "Madeline Penna",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Madeline Penna",
+              "bowler": "Lilly Mills",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Laura Wolvaardt",
+              "bowler": "Lilly Mills",
+              "non_striker": "Madeline Penna",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Laura Wolvaardt",
+              "bowler": "Lilly Mills",
+              "non_striker": "Madeline Penna",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Madeline Penna",
+              "bowler": "Lilly Mills",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Madeline Penna",
+              "bowler": "Sophie Devine",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Laura Wolvaardt",
+              "bowler": "Sophie Devine",
+              "non_striker": "Madeline Penna",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Madeline Penna",
+              "bowler": "Sophie Devine",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Madeline Penna",
+              "bowler": "Sophie Devine",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Laura Wolvaardt",
+              "bowler": "Sophie Devine",
+              "non_striker": "Madeline Penna",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Madeline Penna",
+              "bowler": "Sophie Devine",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Laura Wolvaardt",
+              "bowler": "Alana King",
+              "non_striker": "Madeline Penna",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Laura Wolvaardt",
+              "bowler": "Alana King",
+              "non_striker": "Madeline Penna",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Laura Wolvaardt",
+              "bowler": "Alana King",
+              "non_striker": "Madeline Penna",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Laura Wolvaardt",
+              "bowler": "Alana King",
+              "non_striker": "Madeline Penna",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Laura Wolvaardt",
+              "bowler": "Alana King",
+              "non_striker": "Madeline Penna",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Madeline Penna",
+              "bowler": "Alana King",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Madeline Penna",
+              "bowler": "Amy Edgar",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Madeline Penna",
+              "bowler": "Amy Edgar",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Madeline Penna",
+              "bowler": "Amy Edgar",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Madeline Penna",
+              "bowler": "Amy Edgar",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Laura Wolvaardt",
+              "bowler": "Amy Edgar",
+              "non_striker": "Madeline Penna",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Madeline Penna",
+              "bowler": "Amy Edgar",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Laura Wolvaardt",
+              "bowler": "Alana King",
+              "non_striker": "Madeline Penna",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Laura Wolvaardt",
+              "bowler": "Alana King",
+              "non_striker": "Madeline Penna",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Laura Wolvaardt",
+              "bowler": "Alana King",
+              "non_striker": "Madeline Penna",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Laura Wolvaardt",
+              "bowler": "Alana King",
+              "non_striker": "Madeline Penna",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Madeline Penna",
+              "bowler": "Alana King",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Madeline Penna",
+              "bowler": "Alana King",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Madeline Penna",
+              "bowler": "Sophie Devine",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Madeline Penna",
+                  "fielders": [
+                    {
+                      "name": "Fatima Sana"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Ellie Johnston",
+              "bowler": "Sophie Devine",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Laura Wolvaardt",
+              "bowler": "Sophie Devine",
+              "non_striker": "Ellie Johnston",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ellie Johnston",
+              "bowler": "Sophie Devine",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ellie Johnston",
+              "bowler": "Sophie Devine",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Laura Wolvaardt",
+              "bowler": "Sophie Devine",
+              "non_striker": "Ellie Johnston",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Ellie Johnston",
+              "bowler": "Lilly Mills",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 2,
+                "extras": 1,
+                "total": 3
+              },
+              "extras": {
+                "noballs": 1
+              }
+            },
+            {
+              "batter": "Ellie Johnston",
+              "bowler": "Lilly Mills",
+              "non_striker": "Laura Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Laura Wolvaardt",
+              "bowler": "Lilly Mills",
+              "non_striker": "Ellie Johnston",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Laura Wolvaardt",
+              "bowler": "Lilly Mills",
+              "non_striker": "Ellie Johnston",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Laura Wolvaardt",
+              "bowler": "Lilly Mills",
+              "non_striker": "Ellie Johnston",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Laura Wolvaardt",
+              "bowler": "Lilly Mills",
+              "non_striker": "Ellie Johnston",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Laura Wolvaardt",
+              "bowler": "Lilly Mills",
+              "non_striker": "Ellie Johnston",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "team": "Perth Scorchers Women",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Beth Mooney",
+              "bowler": "Megan Schutt",
+              "non_striker": "Katie Mack",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Katie Mack",
+              "bowler": "Megan Schutt",
+              "non_striker": "Beth Mooney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Katie Mack",
+              "bowler": "Megan Schutt",
+              "non_striker": "Beth Mooney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Katie Mack",
+              "bowler": "Megan Schutt",
+              "non_striker": "Beth Mooney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Beth Mooney",
+              "bowler": "Megan Schutt",
+              "non_striker": "Katie Mack",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Katie Mack",
+              "bowler": "Megan Schutt",
+              "non_striker": "Beth Mooney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Beth Mooney",
+              "bowler": "Ella Wilson",
+              "non_striker": "Katie Mack",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Beth Mooney",
+              "bowler": "Ella Wilson",
+              "non_striker": "Katie Mack",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Beth Mooney",
+              "bowler": "Ella Wilson",
+              "non_striker": "Katie Mack",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              },
+              "extras": {
+                "legbyes": 4
+              }
+            },
+            {
+              "batter": "Beth Mooney",
+              "bowler": "Ella Wilson",
+              "non_striker": "Katie Mack",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Katie Mack",
+              "bowler": "Ella Wilson",
+              "non_striker": "Beth Mooney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Beth Mooney",
+              "bowler": "Ella Wilson",
+              "non_striker": "Katie Mack",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Katie Mack",
+              "bowler": "Megan Schutt",
+              "non_striker": "Beth Mooney",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Katie Mack",
+              "bowler": "Megan Schutt",
+              "non_striker": "Beth Mooney",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Katie Mack",
+              "bowler": "Megan Schutt",
+              "non_striker": "Beth Mooney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Katie Mack",
+              "bowler": "Megan Schutt",
+              "non_striker": "Beth Mooney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Katie Mack",
+              "bowler": "Megan Schutt",
+              "non_striker": "Beth Mooney",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Katie Mack",
+              "bowler": "Megan Schutt",
+              "non_striker": "Beth Mooney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Beth Mooney",
+              "bowler": "Megan Schutt",
+              "non_striker": "Katie Mack",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Katie Mack",
+              "bowler": "Anesu Mushangwe",
+              "non_striker": "Beth Mooney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Beth Mooney",
+              "bowler": "Anesu Mushangwe",
+              "non_striker": "Katie Mack",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Beth Mooney",
+                  "fielders": [
+                    {
+                      "name": "Maia Bouchier"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Sophie Devine",
+              "bowler": "Anesu Mushangwe",
+              "non_striker": "Katie Mack",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sophie Devine",
+              "bowler": "Anesu Mushangwe",
+              "non_striker": "Katie Mack",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Sophie Devine",
+                  "fielders": [
+                    {
+                      "name": "Laura Wolvaardt"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Freya Kemp",
+              "bowler": "Anesu Mushangwe",
+              "non_striker": "Katie Mack",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Freya Kemp",
+              "bowler": "Anesu Mushangwe",
+              "non_striker": "Katie Mack",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Katie Mack",
+              "bowler": "Eleanor Larosa",
+              "non_striker": "Freya Kemp",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Freya Kemp",
+              "bowler": "Eleanor Larosa",
+              "non_striker": "Katie Mack",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Freya Kemp",
+              "bowler": "Eleanor Larosa",
+              "non_striker": "Katie Mack",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Katie Mack",
+              "bowler": "Eleanor Larosa",
+              "non_striker": "Freya Kemp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Katie Mack",
+              "bowler": "Eleanor Larosa",
+              "non_striker": "Freya Kemp",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Freya Kemp",
+              "bowler": "Eleanor Larosa",
+              "non_striker": "Katie Mack",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Katie Mack",
+              "bowler": "Anesu Mushangwe",
+              "non_striker": "Freya Kemp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Katie Mack"
+                }
+              ]
+            },
+            {
+              "batter": "Mikayla Hinkley",
+              "bowler": "Anesu Mushangwe",
+              "non_striker": "Freya Kemp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mikayla Hinkley",
+              "bowler": "Anesu Mushangwe",
+              "non_striker": "Freya Kemp",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Freya Kemp",
+              "bowler": "Anesu Mushangwe",
+              "non_striker": "Mikayla Hinkley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mikayla Hinkley",
+              "bowler": "Anesu Mushangwe",
+              "non_striker": "Freya Kemp",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              },
+              "extras": {
+                "legbyes": 2
+              }
+            },
+            {
+              "batter": "Mikayla Hinkley",
+              "bowler": "Anesu Mushangwe",
+              "non_striker": "Freya Kemp",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Mikayla Hinkley",
+              "bowler": "Ella Wilson",
+              "non_striker": "Freya Kemp",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "legbyes": 1
+              }
+            },
+            {
+              "batter": "Freya Kemp",
+              "bowler": "Ella Wilson",
+              "non_striker": "Mikayla Hinkley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mikayla Hinkley",
+              "bowler": "Ella Wilson",
+              "non_striker": "Freya Kemp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mikayla Hinkley",
+              "bowler": "Ella Wilson",
+              "non_striker": "Freya Kemp",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Freya Kemp",
+              "bowler": "Ella Wilson",
+              "non_striker": "Mikayla Hinkley",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Freya Kemp",
+              "bowler": "Ella Wilson",
+              "non_striker": "Mikayla Hinkley",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Mikayla Hinkley",
+              "bowler": "Amanda-Jade Wellington",
+              "non_striker": "Freya Kemp",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Freya Kemp",
+              "bowler": "Amanda-Jade Wellington",
+              "non_striker": "Mikayla Hinkley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mikayla Hinkley",
+              "bowler": "Amanda-Jade Wellington",
+              "non_striker": "Freya Kemp",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mikayla Hinkley",
+              "bowler": "Amanda-Jade Wellington",
+              "non_striker": "Freya Kemp",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mikayla Hinkley",
+              "bowler": "Amanda-Jade Wellington",
+              "non_striker": "Freya Kemp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mikayla Hinkley",
+              "bowler": "Amanda-Jade Wellington",
+              "non_striker": "Freya Kemp",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Mikayla Hinkley",
+              "bowler": "Tahlia McGrath",
+              "non_striker": "Freya Kemp",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Freya Kemp",
+              "bowler": "Tahlia McGrath",
+              "non_striker": "Mikayla Hinkley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Freya Kemp",
+              "bowler": "Tahlia McGrath",
+              "non_striker": "Mikayla Hinkley",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Freya Kemp",
+              "bowler": "Tahlia McGrath",
+              "non_striker": "Mikayla Hinkley",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Freya Kemp",
+              "bowler": "Tahlia McGrath",
+              "non_striker": "Mikayla Hinkley",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Freya Kemp",
+              "bowler": "Tahlia McGrath",
+              "non_striker": "Mikayla Hinkley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Freya Kemp",
+                  "fielders": [
+                    {
+                      "name": "Ellie Johnston"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Mikayla Hinkley",
+              "bowler": "Ella Wilson",
+              "non_striker": "Chloe Piparo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Chloe Piparo",
+              "bowler": "Ella Wilson",
+              "non_striker": "Mikayla Hinkley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Chloe Piparo",
+              "bowler": "Ella Wilson",
+              "non_striker": "Mikayla Hinkley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mikayla Hinkley",
+              "bowler": "Ella Wilson",
+              "non_striker": "Chloe Piparo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Mikayla Hinkley",
+              "bowler": "Ella Wilson",
+              "non_striker": "Chloe Piparo",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mikayla Hinkley",
+              "bowler": "Ella Wilson",
+              "non_striker": "Chloe Piparo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Mikayla Hinkley",
+              "bowler": "Ella Wilson",
+              "non_striker": "Chloe Piparo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Chloe Piparo",
+              "bowler": "Ella Wilson",
+              "non_striker": "Mikayla Hinkley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Chloe Piparo",
+              "bowler": "Eleanor Larosa",
+              "non_striker": "Mikayla Hinkley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mikayla Hinkley",
+              "bowler": "Eleanor Larosa",
+              "non_striker": "Chloe Piparo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Chloe Piparo",
+              "bowler": "Eleanor Larosa",
+              "non_striker": "Mikayla Hinkley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mikayla Hinkley",
+              "bowler": "Eleanor Larosa",
+              "non_striker": "Chloe Piparo",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mikayla Hinkley",
+              "bowler": "Eleanor Larosa",
+              "non_striker": "Chloe Piparo",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mikayla Hinkley",
+              "bowler": "Eleanor Larosa",
+              "non_striker": "Chloe Piparo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Mikayla Hinkley",
+              "bowler": "Amanda-Jade Wellington",
+              "non_striker": "Chloe Piparo",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mikayla Hinkley",
+              "bowler": "Amanda-Jade Wellington",
+              "non_striker": "Chloe Piparo",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mikayla Hinkley",
+              "bowler": "Amanda-Jade Wellington",
+              "non_striker": "Chloe Piparo",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mikayla Hinkley",
+              "bowler": "Amanda-Jade Wellington",
+              "non_striker": "Chloe Piparo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Chloe Piparo",
+              "bowler": "Amanda-Jade Wellington",
+              "non_striker": "Mikayla Hinkley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Chloe Piparo",
+              "bowler": "Amanda-Jade Wellington",
+              "non_striker": "Mikayla Hinkley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Chloe Piparo",
+              "bowler": "Ella Wilson",
+              "non_striker": "Mikayla Hinkley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Chloe Piparo",
+              "bowler": "Ella Wilson",
+              "non_striker": "Mikayla Hinkley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mikayla Hinkley",
+              "bowler": "Ella Wilson",
+              "non_striker": "Chloe Piparo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mikayla Hinkley",
+              "bowler": "Ella Wilson",
+              "non_striker": "Chloe Piparo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mikayla Hinkley",
+              "bowler": "Ella Wilson",
+              "non_striker": "Chloe Piparo",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              },
+              "extras": {
+                "wides": 2
+              }
+            },
+            {
+              "batter": "Chloe Piparo",
+              "bowler": "Ella Wilson",
+              "non_striker": "Mikayla Hinkley",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Chloe Piparo",
+              "bowler": "Ella Wilson",
+              "non_striker": "Mikayla Hinkley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Chloe Piparo",
+                  "fielders": [
+                    {
+                      "name": "Maia Bouchier"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Mikayla Hinkley",
+              "bowler": "Tahlia McGrath",
+              "non_striker": "Alana King",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mikayla Hinkley",
+              "bowler": "Tahlia McGrath",
+              "non_striker": "Alana King",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mikayla Hinkley",
+              "bowler": "Tahlia McGrath",
+              "non_striker": "Alana King",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "legbyes": 1
+              }
+            },
+            {
+              "batter": "Alana King",
+              "bowler": "Tahlia McGrath",
+              "non_striker": "Mikayla Hinkley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Alana King",
+              "bowler": "Tahlia McGrath",
+              "non_striker": "Mikayla Hinkley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Alana King",
+              "bowler": "Tahlia McGrath",
+              "non_striker": "Mikayla Hinkley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Alana King",
+              "bowler": "Megan Schutt",
+              "non_striker": "Mikayla Hinkley",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Alana King",
+              "bowler": "Megan Schutt",
+              "non_striker": "Mikayla Hinkley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mikayla Hinkley",
+              "bowler": "Megan Schutt",
+              "non_striker": "Alana King",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Mikayla Hinkley",
+                  "fielders": [
+                    {
+                      "name": "Madeline Penna"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Chloe Ainsworth",
+              "bowler": "Megan Schutt",
+              "non_striker": "Alana King",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Alana King",
+              "bowler": "Megan Schutt",
+              "non_striker": "Chloe Ainsworth",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Alana King",
+              "bowler": "Megan Schutt",
+              "non_striker": "Chloe Ainsworth",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Chloe Ainsworth",
+              "bowler": "Anesu Mushangwe",
+              "non_striker": "Alana King",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Alana King",
+              "bowler": "Anesu Mushangwe",
+              "non_striker": "Chloe Ainsworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Alana King",
+              "bowler": "Anesu Mushangwe",
+              "non_striker": "Chloe Ainsworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Alana King"
+                }
+              ]
+            },
+            {
+              "batter": "Fatima Sana",
+              "bowler": "Anesu Mushangwe",
+              "non_striker": "Chloe Ainsworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fatima Sana",
+              "bowler": "Anesu Mushangwe",
+              "non_striker": "Chloe Ainsworth",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Fatima Sana",
+              "bowler": "Anesu Mushangwe",
+              "non_striker": "Chloe Ainsworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Fatima Sana",
+              "bowler": "Megan Schutt",
+              "non_striker": "Chloe Ainsworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fatima Sana",
+              "bowler": "Megan Schutt",
+              "non_striker": "Chloe Ainsworth",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Fatima Sana",
+              "bowler": "Megan Schutt",
+              "non_striker": "Chloe Ainsworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Chloe Ainsworth",
+              "bowler": "Megan Schutt",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Chloe Ainsworth",
+              "bowler": "Megan Schutt",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fatima Sana",
+              "bowler": "Megan Schutt",
+              "non_striker": "Chloe Ainsworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Fatima Sana",
+              "bowler": "Amanda-Jade Wellington",
+              "non_striker": "Chloe Ainsworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fatima Sana",
+              "bowler": "Amanda-Jade Wellington",
+              "non_striker": "Chloe Ainsworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Chloe Ainsworth",
+              "bowler": "Amanda-Jade Wellington",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Chloe Ainsworth",
+              "bowler": "Amanda-Jade Wellington",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fatima Sana",
+              "bowler": "Amanda-Jade Wellington",
+              "non_striker": "Chloe Ainsworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught and bowled",
+                  "player_out": "Fatima Sana"
+                }
+              ]
+            },
+            {
+              "batter": "Lilly Mills",
+              "bowler": "Amanda-Jade Wellington",
+              "non_striker": "Chloe Ainsworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Chloe Ainsworth",
+              "bowler": "Anesu Mushangwe",
+              "non_striker": "Lilly Mills",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Lilly Mills",
+              "bowler": "Anesu Mushangwe",
+              "non_striker": "Chloe Ainsworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Chloe Ainsworth",
+              "bowler": "Anesu Mushangwe",
+              "non_striker": "Lilly Mills",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Chloe Ainsworth",
+                  "fielders": [
+                    {
+                      "name": "Ella Wilson"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Amy Edgar",
+              "bowler": "Anesu Mushangwe",
+              "non_striker": "Lilly Mills",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Lilly Mills",
+              "bowler": "Anesu Mushangwe",
+              "non_striker": "Amy Edgar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "byes": 1
+              }
+            },
+            {
+              "batter": "Amy Edgar",
+              "bowler": "Anesu Mushangwe",
+              "non_striker": "Lilly Mills",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Lilly Mills",
+              "bowler": "Amanda-Jade Wellington",
+              "non_striker": "Amy Edgar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amy Edgar",
+              "bowler": "Amanda-Jade Wellington",
+              "non_striker": "Lilly Mills",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Lilly Mills",
+              "bowler": "Amanda-Jade Wellington",
+              "non_striker": "Amy Edgar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Lilly Mills",
+              "bowler": "Amanda-Jade Wellington",
+              "non_striker": "Amy Edgar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amy Edgar",
+              "bowler": "Amanda-Jade Wellington",
+              "non_striker": "Lilly Mills",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Lilly Mills",
+              "bowler": "Amanda-Jade Wellington",
+              "non_striker": "Amy Edgar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Lilly Mills",
+              "bowler": "Amanda-Jade Wellington",
+              "non_striker": "Amy Edgar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
