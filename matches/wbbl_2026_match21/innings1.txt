@@ -1,0 +1,472 @@
+# Hobart Hurricanes Women innings (batted first). Compact form of the Cricinfo commentary.
+# Bare 'Smith' (17.2, 17.4) is Linsey Smith, the No. 11 partnering Lauren Smith.
+0.1
+•
+Knott to Lee, no run
+
+0.2
+•
+Knott to Lee, no run
+
+0.3
+2
+Knott to Lee, 2 runs
+
+0.4
+•
+Knott to Lee, no run
+
+0.5
+1
+Knott to Lee, 1 run
+
+0.6
+•
+Knott to Trenaman, no run
+
+1.1
+W
+L Bassingthwaighte to Lee, OUT
+Lizelle Lee c Ginger b Bassingthwaighte 3 (6b 0x4 0x6 4m) SR: 50
+
+1.2
+1w
+L Bassingthwaighte to Carey, 1 wide
+
+1.2
+3
+L Bassingthwaighte to Carey, 3 runs
+
+1.3
+•
+L Bassingthwaighte to Trenaman, no run
+
+1.4
+1lb
+L Bassingthwaighte to Trenaman, 1 leg bye
+
+1.5
+•
+L Bassingthwaighte to Carey, no run
+
+1.6
+•
+L Bassingthwaighte to Carey, no run
+
+2.1
+•
+Hamilton to Trenaman, no run
+
+2.2
+•
+Hamilton to Trenaman, no run
+
+2.3
+1w
+Hamilton to Trenaman, 1 wide
+
+2.3
+1
+Hamilton to Trenaman, 1 run
+
+2.4
+1
+Hamilton to Carey, 1 run
+
+2.5
+•
+Hamilton to Trenaman, no run
+
+2.6
+W
+Hamilton to Trenaman, OUT
+Rachel Trenaman c †Redmayne b Hamilton 1 (8b 0x4 0x6 13m) SR: 12.5
+
+3.1
+W
+L Bassingthwaighte to Carey, OUT
+Nicola Carey b Bassingthwaighte 4 (5b 0x4 0x6 10m) SR: 80
+
+3.2
+•
+L Bassingthwaighte to Graham, no run
+
+3.3
+•
+L Bassingthwaighte to Graham, no run
+
+3.4
+2
+L Bassingthwaighte to Graham, 2 runs
+
+3.5
+•
+L Bassingthwaighte to Graham, no run
+
+3.6
+4
+L Bassingthwaighte to Graham, FOUR runs
+
+4.1
+1w
+Glenn to Green, 1 wide
+
+4.1
+•
+Glenn to Green, no run
+
+4.2
+•
+Glenn to Green, no run
+
+4.3
+•
+Glenn to Green, no run
+
+4.4
+1
+Glenn to Green, 1 run
+
+4.5
+•
+Glenn to Graham, no run
+
+4.6
+•
+Glenn to Graham, no run
+
+5.1
+1
+O Prendergast to Green, 1 run
+
+5.2
+•
+O Prendergast to Graham, no run
+
+5.3
+1
+O Prendergast to Graham, 1 run
+
+5.4
+1
+O Prendergast to Green, 1 run
+
+5.5
+1
+O Prendergast to Graham, 1 run
+
+5.6
+1
+O Prendergast to Green, 1 run
+
+6.1
+•
+Knott to Green, no run
+
+6.2
+4
+Knott to Green, FOUR runs
+
+6.3
+1
+Knott to Green, 1 run
+
+6.4
+•
+Knott to Graham, no run
+
+6.5
+1
+Knott to Graham, 1 run
+
+6.6
+1
+Knott to Green, 1 run
+
+7.1
+1
+Ginger to Green, 1 run
+
+7.2
+1
+Ginger to Graham, 1 run
+
+7.3
+W
+Ginger to Green, OUT
+Maddy Green b Ginger 11 (13b 1x4 0x6 18m) SR: 84.61
+
+7.4
+1
+Ginger to Henry, 1 run
+
+7.5
+1
+Ginger to Graham, 1 run
+
+7.6
+W
+Ginger to Henry, OUT
+Chinelle Henry b Ginger 1 (2b 0x4 0x6 2m) SR: 50
+
+8.1
+1w
+Glenn to Graham, 1 wide
+
+8.1
+1
+Glenn to Graham, 1 run
+
+8.2
+•
+Glenn to Strano, no run
+
+8.3
+•
+Glenn to Strano, no run
+
+8.4
+1
+Glenn to Strano, 1 run
+
+8.5
+1
+Glenn to Graham, 1 run
+
+8.6
+1
+Glenn to Strano, 1 run
+
+9.1
+•
+L Bassingthwaighte to Strano, no run
+
+9.2
+•
+L Bassingthwaighte to Strano, no run
+
+9.3
+1
+L Bassingthwaighte to Strano, 1 run
+
+9.4
+1w
+L Bassingthwaighte to Graham, 1 wide
+
+9.4
+W
+L Bassingthwaighte to Graham, OUT
+Heather Graham c Ginger b Bassingthwaighte 13 (17b 1x4 0x6 27m) SR: 76.47
+
+9.5
+•
+L Bassingthwaighte to Silver-Holmes, no run
+
+9.6
+2
+L Bassingthwaighte to Silver-Holmes, 2 runs
+
+10.1
+•
+Hamilton to Strano, no run
+
+10.2
+•
+Hamilton to Strano, no run
+
+10.3
+4
+Hamilton to Strano, FOUR runs
+
+10.4
+1
+Hamilton to Strano, 1 run
+
+10.5
+1
+Hamilton to Silver-Holmes, 1 run
+
+10.6
+1w
+Hamilton to Strano, 1 wide
+
+10.6
+•
+Hamilton to Strano, no run
+
+11.1
+1
+Ginger to Silver-Holmes, 1 run
+
+11.2
+•
+Ginger to Strano, no run
+
+11.3
+•
+Ginger to Strano, no run
+
+11.4
+1
+Ginger to Strano, 1 run
+
+11.5
+1
+Ginger to Silver-Holmes, 1 run
+
+11.6
+1
+Ginger to Strano, 1 run
+
+12.1
+•
+Glenn to Strano, no run
+
+12.2
+•
+Glenn to Strano, no run
+
+12.3
+W
+Glenn to Strano, OUT
+Molly Strano c Harris b Glenn 10 (19b 1x4 0x6 22m) SR: 52.63
+
+12.4
+4
+Glenn to Lauren Smith, FOUR runs
+
+12.5
+1
+Glenn to Lauren Smith, 1 run
+
+12.6
+•
+Glenn to Silver-Holmes, no run
+
+13.1
+1
+Knott to Lauren Smith, 1 run
+
+13.2
+•
+Knott to Silver-Holmes, no run
+
+13.3
+1
+Knott to Silver-Holmes, 1 run
+
+13.4
+•
+Knott to Lauren Smith, no run
+
+13.5
+•
+Knott to Lauren Smith, no run
+
+13.6
+•
+Knott to Lauren Smith, no run
+
+14.1
+1
+Hamilton to Silver-Holmes, 1 run
+
+14.2
+•
+Hamilton to Lauren Smith, no run
+
+14.3
+1nb
+Hamilton to Lauren Smith, (no ball)
+
+14.3
+1
+Hamilton to Lauren Smith, 1 run
+
+14.4
+•
+Hamilton to Silver-Holmes, no run
+
+14.5
+2
+Hamilton to Silver-Holmes, 2 runs
+
+14.6
+W
+Hamilton to Silver-Holmes, OUT
+Hayley Silver-Holmes c Prendergast b Hamilton 9 (12b 0x4 0x6 22m) SR: 75
+
+15.1
+1w
+L Bassingthwaighte to Lauren Smith, 1 wide
+
+15.1
+1
+L Bassingthwaighte to Lauren Smith, 1 run
+
+15.2
+1
+L Bassingthwaighte to Malgioglio, 1 run
+
+15.3
+4
+L Bassingthwaighte to Lauren Smith, FOUR runs
+
+15.4
+4
+L Bassingthwaighte to Lauren Smith, FOUR runs
+
+15.5
+•
+L Bassingthwaighte to Lauren Smith, no run
+
+15.6
+•
+L Bassingthwaighte to Lauren Smith, no run
+
+16.1
+1
+Glenn to Malgioglio, 1 run
+
+16.2
+•
+Glenn to Lauren Smith, no run
+
+16.3
+1
+Glenn to Lauren Smith, 1 run
+
+16.4
+1
+Glenn to Malgioglio, 1 run
+
+16.5
+1
+Glenn to Lauren Smith, 1 run
+
+16.6
+W
+Glenn to Malgioglio, OUT
+Isabella Malgioglio b Glenn 3 (4b 0x4 0x6 8m) SR: 75
+
+17.1
+1
+Knott to Lauren Smith, 1 run
+
+17.2
+1
+Knott to Smith, 1 run
+
+17.3
+1
+Knott to Lauren Smith, 1 run
+
+17.4
+1
+Knott to Smith, 1 run
+
+17.5
+W
+Knott to Lauren Smith, OUT
+Lauren Smith b Knott 20 (20b 3x4 0x6 21m) SR: 100
+

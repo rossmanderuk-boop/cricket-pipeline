@@ -99,13 +99,18 @@ def normalise_deliveries(deliveries):
     return deliveries
 
 
-def build_innings(deliveries, team_name):
+def build_innings(deliveries, team_name, batting_order=()):
+    """batting_order: the team's XI in scorecard batting order (used to place a
+    non-striker who hasn't faced yet)."""
     pair = []
     over_list = []
     over_cursor = -1
     cur = None
 
-    for d in deliveries:
+    dismissed = set()
+    seen = set()
+    inferred = set()
+    for idx, d in enumerate(deliveries):
         if d['over'] != over_cursor:
             if cur is not None:
                 over_list.append({'over': over_cursor, 'deliveries': cur})
@@ -117,8 +122,25 @@ def build_innings(deliveries, team_name):
             if len(pair) < 2:
                 pair.append(batter)
             else:
-                pair[-1] = batter
-        non_striker = next((p for p in pair if p != batter), batter)
+                # Replace a partner we only inferred (hasn't faced yet) before a real one.
+                slot = next((i for i, p in enumerate(pair) if p in inferred), len(pair) - 1)
+                pair[slot] = batter
+        inferred.discard(batter)
+        seen.add(batter)
+        non_striker = next((p for p in pair if p != batter), None)
+        if non_striker is None:
+            # Partner hasn't faced yet (an opener, or a new batter after a wicket): it is the
+            # next player in the batting order who hasn't batted yet. Without a batting order,
+            # fall back to the next not-yet-dismissed batter to appear in the commentary.
+            non_striker = next((n for n in batting_order if n not in seen), None) or \
+                next((n['batter'] for n in deliveries[idx + 1:]
+                      if n['batter'] != batter and n['batter'] not in dismissed), None)
+            if non_striker is None:
+                non_striker = batter
+            else:
+                pair.append(non_striker)
+                inferred.add(non_striker)
+                seen.add(non_striker)
 
         extras = {}
         extras_total = 0
@@ -139,6 +161,8 @@ def build_innings(deliveries, team_name):
             if w.get('fielder'):
                 wk['fielders'] = [{'name': n} for n in w['fielder'].split('/')]
             deliv['wickets'] = [wk]
+            dismissed.add(w['player_out'])
+            inferred.discard(w['player_out'])
             if w['player_out'] in pair:
                 pair.remove(w['player_out'])
 
@@ -155,8 +179,8 @@ def build_match_json(out_path):
     d1 = normalise_deliveries(parse_deliveries(t1))
     d2 = normalise_deliveries(parse_deliveries(t2))
 
-    innings1 = build_innings(d1, TEAM1_NAME)
-    innings2 = build_innings(d2, TEAM2_NAME)
+    innings1 = build_innings(d1, TEAM1_NAME, TEAM1_XI)
+    innings2 = build_innings(d2, TEAM2_NAME, TEAM2_XI)
 
     registry = {name: pid for name, pid in KNOWN_IDS.items() if name in TEAM1_XI + TEAM2_XI}
 
